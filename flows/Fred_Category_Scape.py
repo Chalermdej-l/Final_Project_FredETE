@@ -13,7 +13,6 @@ basedir=os.getcwd()
 load_dotenv(os.path.join(basedir, './.env'))
 
 gcp_credentials_block = GcpCredentials.load(os.getenv("Prefect_Credential"))
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = gcp_credentials_block.get_credentials_from_service_account()
 
 @task(log_prints=True)
 def getWebdata():
@@ -81,7 +80,7 @@ def main():
     df_category[['name','parent_name']] = df_category[['name','parent_name']].astype('string')
     df_category[['id','parent_id']] = df_category[['id','parent_id']].fillna(0).astype('int')
 
-    client = storage.Client()
+    client = storage.Client(credentials=gcp_credentials_block.get_credentials_from_service_account())
 
     time_stamp = datetime.datetime.now().strftime('%Y-%m-%d')
     bucket = client.get_bucket(os.getenv("Gcs_Bucket_name"))

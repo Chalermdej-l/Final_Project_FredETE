@@ -15,12 +15,10 @@ basedir=os.getcwd()
 load_dotenv(os.path.join(basedir, './.env'))
 
 gcp_credentials_block = GcpCredentials.load(os.getenv("Prefect_Credential"))
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = gcp_credentials_block.get_credentials_from_service_account()
-
 
 @task(name='Get_BQ_SQL',log_prints=True)
 def GetBQdata(query): 
-    # gcp_credentials_block = GcpCredentials.load(os.getenv("Prefect_Credential"))
+
     df_bq = pd.read_gbq(query=query,
     project_id=os.getenv("Gcp_Project_id"),
     credentials=gcp_credentials_block.get_credentials_from_service_account()
@@ -76,7 +74,7 @@ def movearchive(bucket,type):
 @flow(log_prints=True)
 def main(version='daily'):    
     series_parameter = GetBQdata(query_bq.query_getMapPara)
-    client = storage.Client()
+    client = storage.Client(credentials=gcp_credentials_block.get_credentials_from_service_account())
     bucket = client.get_bucket(os.getenv("Gcs_Bucket_name"))
     print('Moving file to archive folder')
     movearchive(bucket,'map')

@@ -156,3 +156,4 @@ cython_debug/
 /flows/Credential
 .env.development
 /test/*.ipynb
+connectvm.bat
