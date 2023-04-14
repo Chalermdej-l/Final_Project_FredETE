@@ -154,3 +154,5 @@ cython_debug/
 
 /Credential
 /flows/Credential
+.env.development
+/test/*.ipynb

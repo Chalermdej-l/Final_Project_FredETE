@@ -14,11 +14,13 @@ from dotenv import load_dotenv
 basedir=os.getcwd()
 load_dotenv(os.path.join(basedir, './.env'))
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = os.getenv("Google_Cred_path")
+gcp_credentials_block = GcpCredentials.load(os.getenv("Prefect_Credential"))
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = gcp_credentials_block.get_credentials_from_service_account()
+
 
 @task(name='Get_BQ_SQL',log_prints=True)
 def GetBQdata(query): 
-    gcp_credentials_block = GcpCredentials.load(os.getenv("Prefect_Credential"))
+    # gcp_credentials_block = GcpCredentials.load(os.getenv("Prefect_Credential"))
     df_bq = pd.read_gbq(query=query,
     project_id=os.getenv("Gcp_Project_id"),
     credentials=gcp_credentials_block.get_credentials_from_service_account()
@@ -117,16 +119,7 @@ def main(version='daily'):
         
         bucket.blob(uppload_path).upload_from_string(df_map.to_parquet(), 'text/parquet')
 
-        # retry = 0
-        # while retry <2:
-        #     try:
-        #         bucket.blob(uppload_path).upload_from_string(df_map.to_parquet(), 'text/parquet')
-        #         break
-        #     except Exception as err:
-        #         retry+=1
-        #         print(f'An error occur while upload file {err}')
-        #         print(f'Wait for 5 second and retry. Current retry {retry}')
-        #         time.sleep(5)
+
 
         time.sleep(1)
     print('Finish running the function.')

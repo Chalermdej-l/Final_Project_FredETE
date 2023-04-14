@@ -7,12 +7,13 @@ from prefect.deployments import Deployment
 from prefect import flow,task
 from google.cloud import storage
 from dotenv import load_dotenv
-
+from prefect_gcp import GcpCredentials
 
 basedir=os.getcwd()
 load_dotenv(os.path.join(basedir, './.env'))
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = os.getenv("Google_Cred_path")
+gcp_credentials_block = GcpCredentials.load(os.getenv("Prefect_Credential"))
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = gcp_credentials_block.get_credentials_from_service_account()
 
 @task(log_prints=True)
 def getWebdata():
@@ -91,17 +92,6 @@ def main():
     uppload_path =f'staging/category/CategoryData_{time_stamp}.parquet'
     print(f'Uploading file to cloud.')
     bucket.blob(uppload_path).upload_from_string(df_category.to_parquet(), 'text/parquet')
-
-    # retry = 0
-    # while retry <2:
-    #     try:
-    #         bucket.blob(uppload_path).upload_from_string(df_category.to_parquet(), 'text/parquet')
-    #         print('Finish running the function.')
-    #     except Exception as err:
-    #         retry+=1
-    #         print(f'An error occur while upload file {err}')
-    #         print(f'Wait for 5 second and retry. Current retry {retry}')
-    #         time.sleep(5)
 
 def deploy():
     deployment = Deployment.build_from_flow(
