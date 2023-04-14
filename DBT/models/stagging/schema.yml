@@ -1,0 +1,12 @@
+
+version: 2
+
+sources:
+  - name: stagging
+    database: ete-projectdatatalkclub
+    schema: dbt_devlopmentemp
+
+    tables:
+      - name: stg_category
+      - name: stg_mapregion
+      - name: stg_series
