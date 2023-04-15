@@ -40,15 +40,24 @@ models:
       materialized: view
 seeds:
   final_project_fred:
-    no_series.csv:
+    no_series:
       +column_types:
         seriesid: string
-    series_group.csv:
+    series_group:
       +column_types:
         region_type: string
-        series_group: interger
+        series_group: integer
         season: string
         units: string
         frequency: string
         min_date: date
         max_date: date
+    country:
+      +column_types:
+        code: string
+        country: string
+        continent: string
+        sub_region: string
+    calendar:
+      +column_types:
+        date: date
