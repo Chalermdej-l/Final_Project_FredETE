@@ -1,9 +1,41 @@
 {{ config(materialized="table") }}
 
+with series as (
+    select * 
+    from {{ ref('stg_series_dev') }}
+),
+map as (
+    select * 
+    from {{ ref('stg_map_dev') }}
+),
+category as (
+    select * 
+    from {{ ref('stg_category_dev') }}
+),
+country as (
+    select * 
+    from {{ ref('dim_country') }}
+)
+
 select
-    cast(name as string) as name,
-    cast(id as integer) as id,
-    cast(parent_name as string) as parent_name,
-    cast(parent_id as integer) as parent_id
-from {{ source("stagging", "stg_category") }} 
-limit 100
+ s.last_updated,
+m.region,
+co.continent,
+co.sub_region,
+s.title as seriestitle,
+s.frequency,
+s.units,
+s.seasonal_adjustment,
+c.name as categoryname,
+c.parent_name,
+s.popularity,
+s.group_popularity,
+m.series_id
+from map m
+inner join series s
+on m.series_id = s.id
+left join category c
+on s.category_id = c.id 
+left join country co
+on m.code = co.code
+
