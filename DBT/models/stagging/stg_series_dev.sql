@@ -1,12 +1,12 @@
 {{config(materialized="view")}}
 
 select 
-cast(id as integer) as id,                                    
+cast(id as string) as id,                                    
 cast(realtime_start as TIMESTAMP) as realtime_start,                
 cast(realtime_end as TIMESTAMP) as realtime_end,                  
 cast(title as string) as title,                                 
-cast(observation_start as string ) as observation_start,                     
-cast(observation_end as string ) as observation_end,                       
+cast(observation_start as TIMESTAMP ) as observation_start,                     
+cast(observation_end as TIMESTAMP ) as observation_end,                       
 cast(frequency as string ) as frequency,                             
 cast(frequency_short as string ) as frequency_short,                       
 cast(units as string ) as units,                                 

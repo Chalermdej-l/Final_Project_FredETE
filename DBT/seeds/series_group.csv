@@ -1,0 +1,294 @@
+region_type,series_group,season,units,frequency,min_date,max_date
+state,598,NSA,"Persons, 4-Quarter Moving Average",q,1/10/2003,1/7/2022
+country,155420,NSA,Millions of Dollars,m,1/1/1985,1/1/2023
+country,246376,NSA,Millions of Dollars,m,1/1/1985,1/1/2023
+country,2116,SA,Growth rate same period previous year,a,1/1/1960,1/1/2022
+country,351,SA,Growth rate same period previous year,a,1/1/1960,1/1/2022
+country,2077,NSA,Growth rate same period previous year,a,1/1/1960,1/1/2022
+state,942,NSA,Index 1980:Q1=100,q,1/1/1975,1/10/2022
+country,100903,NSA,Millions of US Dollars,q,1/10/1962,1/10/2022
+country,636,NSA,Millions of US Dollars,q,1/1/1952,1/7/2022
+country,63,NSA,Millions of US Dollars,q,1/1/1952,1/7/2022
+country,2014,NSA,Millions of US Dollars,q,1/10/1962,1/10/2022
+country,1239,NSA,Millions of US Dollars,q,1/10/1962,1/10/2022
+country,83,NSA,Millions of US Dollars,q,1/10/1962,1/10/2022
+country,369,NSA,Millions of US Dollars,q,1/10/1962,1/10/2022
+country,2008,NSA,Millions of US Dollars,q,1/1/1952,1/7/2022
+country,584,NSA,Millions of US Dollars,q,1/1/1966,1/10/2022
+country,912,NSA,Millions of US Dollars,q,1/1/1966,1/10/2022
+country,1528,NSA,Millions of US Dollars,q,1/10/1962,1/10/2022
+country,100986,NSA,Millions of US Dollars,q,1/1/1966,1/10/2022
+country,100965,NSA,Millions of US Dollars,q,1/10/1962,1/10/2022
+country,83,NSA,Millions of US Dollars,q,1/10/1962,1/10/2022
+country,100887,NSA,Millions of US Dollars,q,1/10/1962,1/10/2022
+country,2012,NSA,Millions of US Dollars,q,1/10/1962,1/10/2022
+country,435,NSA,Millions of US Dollars,q,1/1/1952,1/7/2022
+country,369,NSA,Millions of US Dollars,q,1/10/1962,1/10/2022
+country,584,NSA,Millions of US Dollars,q,1/1/1966,1/10/2022
+country,281299,SA,Growth rate previous period,a,1/1/1960,1/1/2022
+country,1480,SA,Growth rate previous period,a,1/1/1961,1/1/2022
+country,351,SA,Growth rate previous period,a,1/1/1960,1/1/2022
+country,2077,NSA,Growth rate previous period,a,1/1/1960,1/1/2022
+country,2116,SA,Growth rate previous period,a,1/1/1960,1/1/2022
+country,281294,NSA,Growth rate previous period,m,1/1/1960,1/2/2023
+state,1718,SA,Index 2007=100,m,1/1/1979,1/12/2022
+country,938,NSA,Percent of Fiscal Year GDP,a,1/1/2016,1/1/2023
+country,994,NSA,Percent of Fiscal Year GDP,a,1/1/1990,1/1/2027
+state,2088,NSA,Percent,a,1/1/1984,1/1/2022
+country,39,NSA,Percent,a,1/1/1960,1/1/2022
+state,1224,SA,Percent,m,1/1/1976,1/12/2022
+state,2122,NSA,Percent,a,1/1/1986,1/1/2022
+state,246343,NSA,Percent,m,1/7/2017,1/2/2023
+state,246344,NSA,Percent,m,1/7/2017,1/2/2023
+state,1863,NSA,Percent,a,1/1/1986,1/1/2022
+country,200057,NSA,Percent,a,1/1/1960,1/1/2022
+state,156861,NSA,Percent,w,2/6/1984,4/3/2023
+country,2052,NSA,U.S. Dollars,a,1/1/2016,1/1/2023
+country,5207,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3674,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3823,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4875,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4725,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5272,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3910,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3593,NSA,Index 2015=100,m,1/12/2000,1/2/2023
+country,3596,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,2137,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,643,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4902,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5139,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5089,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5157,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5015,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3805,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4749,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5175,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3841,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5071,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3638,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,349,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3577,NSA,Index 2015=100,m,1/12/2000,1/2/2023
+country,3590,NSA,Index 2015=100,m,1/12/2000,1/2/2023
+country,4957,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3728,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4845,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4979,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,449,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4761,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1115,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3722,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4851,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4784,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3811,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3632,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3644,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5243,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3692,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3921,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3898,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,871,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4801,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3698,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3644,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3593,NSA,Index 2015=100,m,1/12/2000,1/2/2023
+country,572,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3886,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5225,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1698,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5151,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3614,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5121,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1121,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3769,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3608,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1320,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4963,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3668,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5127,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4795,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5284,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3614,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1480,SA,Index 2015=100,a,1/1/1960,1/1/2022
+country,2214,NSA,Index 2015=100,a,1/1/1960,1/1/2022
+country,228,NSA,Index 2015=100,m,1/12/2000,1/2/2023
+country,4731,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3799,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5181,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1859,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1427,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,747,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4839,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,2196,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3577,NSA,Index 2015=100,m,1/12/2000,1/2/2023
+country,3662,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3892,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5219,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4767,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4743,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3904,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5053,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5009,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5077,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5302,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1253,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,675,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4940,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3602,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,713,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5231,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1286,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,470,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3686,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5278,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4863,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3650,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,861,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3787,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5083,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5213,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5237,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,477,NSA,Index 2015=100,m,1/12/2000,1/2/2023
+country,1915,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3763,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5249,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3863,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1455,NSA,Index 2015=100,a,1/1/1970,1/1/2022
+country,281299,SA,Index 2015=100,a,1/1/1960,1/1/2022
+country,3835,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5065,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3704,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4813,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4908,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4985,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1143,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4565,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5027,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,2059,NSA,Index 2015=100,m,1/12/2000,1/2/2023
+country,4997,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3746,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4857,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,489,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1715,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3781,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,965,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5021,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3710,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4755,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,288,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,801,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3602,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3638,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,689,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5059,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,625,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3793,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1908,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5133,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4881,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,498,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,745,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4869,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3716,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3590,NSA,Index 2015=100,m,1/12/2000,1/2/2023
+country,3582,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3775,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3680,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5296,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5261,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1582,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3734,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3596,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,82,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,2129,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4773,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,617,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3632,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3757,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3817,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,2229,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4929,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5163,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5145,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,80,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3626,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1240,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4951,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3875,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3650,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3740,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1255,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3829,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5169,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3847,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5290,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4991,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,268,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,4807,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3869,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,5100,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,3626,NSA,Index 2015=100,m,1/1/1996,1/2/2023
+country,1301,NSA,Index 2020=100,m,1/1/1994,1/2/2023
+country,117,NSA,Index 2020=100,m,1/1/1994,1/2/2023
+country,1764,NSA,Percent per Annum,q,1/1/1928,1/7/2022
+country,1543,NSA,Percent per Annum,q,1/1/1948,1/7/2022
+state,131240,SA,Index 2012=100,q,1/1/2005,1/7/2022
+state,131267,SA,Index 2012=100,q,1/1/2005,1/7/2022
+state,131461,SA,Index 2012=100,q,1/1/2005,1/7/2022
+state,131294,SA,Index 2012=100,q,1/1/2005,1/7/2022
+state,131309,SA,Index 2012=100,q,1/1/2005,1/7/2022
+state,131363,SA,Index 2012=100,q,1/1/2005,1/7/2022
+state,131339,SA,Index 2012=100,q,1/1/2005,1/7/2022
+state,131390,SA,Index 2012=100,q,1/1/2005,1/7/2022
+state,131345,SA,Index 2012=100,q,1/1/2005,1/7/2022
+state,131378,SA,Index 2012=100,q,1/1/2005,1/7/2022
+state,131492,SA,Index 2012=100,q,1/1/2005,1/7/2022
+state,131418,SA,Index 2012=100,q,1/1/2005,1/7/2022
+state,131249,SA,Index 2012=100,q,1/1/2005,1/7/2022
+state,131447,SA,Index 2012=100,q,1/1/2005,1/7/2022
+state,131400,SA,Index 2012=100,q,1/1/2005,1/7/2022
+state,131252,SA,Index 2012=100,q,1/1/2005,1/7/2022
+state,131291,SA,Index 2012=100,q,1/1/2005,1/7/2022
+country,143,NSA,Percent of GDP,a,1/1/2021,1/1/2027
+country,815,NSA,Percent of GDP,a,1/1/1990,1/1/2023
+country,280,NSA,Percent of GDP,a,1/1/2021,1/1/2027
+country,1260,NSA,Percent Change,a,1/1/2016,1/1/2023
+country,540,NSA,Percent Change,a,1/1/1990,1/1/2023
+country,142,NSA,Percent Change,a,1/1/1990,1/1/2023
+country,2194,NSA,Percent Change,a,1/1/2013,1/1/2023
+country,106,NSA,Percent Change,a,1/1/2016,1/1/2023
+country,100965,NSA,Billions of US Dollars,q,1/7/1993,1/10/2022
+state,1313,NSA,Units,m,1/1/1988,1/1/2023
+state,1537,SA,Units,m,1/1/1988,1/1/2023
+state,1537,NSA,Units,m,1/1/1988,1/1/2023
+state,1313,SA,Units,m,1/1/1988,1/1/2023
+country,2116,SA,"US Dollars, monthly level",a,1/1/1960,1/1/2022
+country,1195,SA,"US Dollars, monthly level",a,1/1/1960,1/1/2022
+country,351,SA,"US Dollars, monthly level",a,1/1/1960,1/1/2022
+state,656,SA,Persons,m,1/1/1976,1/12/2022
+state,656,NSA,Persons,m,1/1/1976,1/12/2022
+state,246342,NSA,Level,m,1/7/2016,1/2/2023
+state,156241,NSA,Number,w,9/6/1984,11/3/2023
+state,156862,NSA,Number,w,2/6/1984,4/3/2023
+state,156860,NSA,Number,w,2/6/1984,4/3/2023
+state,1298,NSA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,1182,SA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,186,NSA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,198,SA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,2065,SA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,2062,NSA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,1973,NSA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,127,NSA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,1182,NSA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,1298,SA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,2062,SA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,1973,SA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,270,SA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,1350,SA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,270,NSA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,171,SA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,2065,NSA,Thousands of Persons,m,1/1/1939,1/1/2023
+state,171,NSA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,127,SA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,186,SA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,1350,NSA,Thousands of Persons,m,1/1/1990,1/1/2023
+state,1549,NSA,Thousands of Persons,a,1/1/1900,1/1/2022
