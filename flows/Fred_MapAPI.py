@@ -16,7 +16,7 @@ load_dotenv(os.path.join(basedir, './.env'))
 
 gcp_credentials_block = GcpCredentials.load(os.getenv("Prefect_Credential"))
 
-@task(name='Get_BQ_SQL',log_prints=True)
+@task(name='Get_BQ_SQL_Map',log_prints=True)
 def GetBQdata(query): 
 
     df_bq = pd.read_gbq(query=query,
@@ -26,7 +26,7 @@ def GetBQdata(query):
     return df_bq
 
 
-@task(name='Get_API',log_prints=True)
+@task(name='Get_API_Map',log_prints=True)
 def getApiMap(para_regiontype,para_seriesgroup,para_season,para_unit,para_frequency,para_mindate,para_maxdate):
 
         print(f'Calling the API for {para_seriesgroup} ...')
@@ -60,7 +60,7 @@ def getApiMap(para_regiontype,para_seriesgroup,para_season,para_unit,para_freque
             print('Waiting for 5 sec.')
             return 'retry'
 
-@task(name='Cleandata',log_prints=True)
+@task(name='Cleandata_Map',log_prints=True)
 def cleandata(df,date,groupid):
     str_col = ['region','code','series_id']
     df_map = pd.json_normalize(df[date])
@@ -70,7 +70,7 @@ def cleandata(df,date,groupid):
     df_map['value'] = df_map['value'].astype('float')
     return df_map
 
-@flow(name='Function call',log_prints=True)
+@flow(name='Function call Map',log_prints=True)
 def main(version='initial'):    
     series_parameter = GetBQdata(query_bq.query_getMapPara)
     client = storage.Client(credentials=gcp_credentials_block.get_credentials_from_service_account())
@@ -119,12 +119,12 @@ def main(version='initial'):
 
 
 
-# def deploy():
-#     deployment = Deployment.build_from_flow(
-#         flow=main,
-#         name="Fred-MapAPI"
-#     )
-#     deployment.apply()
+def deploy():
+    deployment = Deployment.build_from_flow(
+        flow=main,
+        name="Fred-MapAPI"
+    )
+    deployment.apply()
 
 if __name__ =='__main__':
-    main(version='daily')
+    deploy()

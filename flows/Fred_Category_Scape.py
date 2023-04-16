@@ -14,14 +14,14 @@ load_dotenv(os.path.join(basedir, './.env'))
 
 gcp_credentials_block = GcpCredentials.load(os.getenv("Prefect_Credential"))
 
-@task(name='Get Web Content',log_prints=True)
+@task(name='Get Web Content Category',log_prints=True)
 def getWebdata():
     page =requests.get('https://fred.stlouisfed.org/categories/')
     beatiful = bs4.BeautifulSoup(page.content, 'html.parser')
     category_page =beatiful.find_all("div",{"class":"fred-categories-group"})        
     return category_page
 
-@task(name='Move archive file',log_prints=True)
+@task(name='Move_archive_Category',log_prints=True)
 def movearchive(bucket,typecheck):
     file_acrhive=  list(bucket.list_blobs())
     for file in file_acrhive:
@@ -35,7 +35,7 @@ def movearchive(bucket,typecheck):
                 bucket.copy_blob(file,destination_bucket=bucket,new_name=name.replace('staging','archive'))
                 bucket.delete_blob(name)    
     return True
-@task(name='Get sub page',log_prints=True)
+@task(name='Get sub page Category',log_prints=True)
 def getsubpage(id):        
     sub_url =f'https://fred.stlouisfed.org/categories/{id}'
     subpage =requests.get(sub_url)
@@ -44,7 +44,7 @@ def getsubpage(id):
     category_page_subcol =beatiful.find_all("div",{"class":"col-12 subcats"})  
     return category_page_col,category_page_subcol
 
-@flow(name='Function Call',log_prints=True)
+@flow(name='Function Call Category',log_prints=True)
 def main():
     category_page = getWebdata()
     category = []
@@ -92,12 +92,12 @@ def main():
     print(f'Uploading file to cloud.')
     bucket.blob(uppload_path).upload_from_string(df_category.to_parquet(), 'text/parquet')
     return True
-# def deploy():
-#     deployment = Deployment.build_from_flow(
-#         flow=main,
-#         name="Fred-Category"
-#     )
-#     deployment.apply()
+def deploy():
+    deployment = Deployment.build_from_flow(
+        flow=main,
+        name="Fred-Category"
+    )
+    deployment.apply()
 
 if __name__ =='__main__':
-    main()
+    deploy()
