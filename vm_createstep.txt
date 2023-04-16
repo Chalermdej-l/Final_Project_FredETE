@@ -1,2 +1,0 @@
-1.after resouce run vm add ssh to the vm might need to look as known host to reregister it again
-2.conect in run setup 
