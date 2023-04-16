@@ -1,0 +1,35 @@
+
+version: 2
+
+models:
+    - name: fact_fredmap
+      description: table with map data join with other table to get information for looker studio
+      columns:
+        - name: date
+          description: date of the value
+        - name: region
+          description: country of the value
+        - name: continent
+          description: continent of the value 
+        - name: sub_region
+          description: sub continent of the value
+        - name: seriestitle
+          description: name of the series accoiate with 
+        - name: frequency
+          description: frequency of the data value
+        - name: value
+          description: the value of the data
+        - name: units
+          description: unit amount of the value
+        - name: seasonal_adjustment
+          description: whether the value is adjusted or not
+        - name: categoryname
+          description: name of the category value belong to
+        - name: parent_name
+          description: parent name of the category value belong to
+        - name: popularity
+          description: popularity of the subject value
+        - name: group_popularity
+          description: group popularity of the subject value
+        - name: series_id
+          description: series id of the value

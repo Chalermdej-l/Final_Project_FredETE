@@ -18,12 +18,13 @@ country as (
 )
 
 select
- s.last_updated,
+m.date,
 m.region,
 co.continent,
 co.sub_region,
 s.title as seriestitle,
 s.frequency,
+m.value,
 s.units,
 s.seasonal_adjustment,
 c.name as categoryname,
@@ -38,4 +39,3 @@ left join category c
 on s.category_id = c.id 
 left join country co
 on m.code = co.code
-

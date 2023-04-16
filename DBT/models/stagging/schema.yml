@@ -8,7 +8,7 @@ sources:
 
     tables:
       - name: stg_category
-      - name: stg_mapregion
+      - name: stg_map
       - name: stg_series
 models:
     - name: stg_category_dev
@@ -34,6 +34,10 @@ models:
           description: value of the data
         - name: series_id
           description: id of the series accoiate with this data
+        - name: date
+          description: date of the data value
+        - name: groupid
+          description: groupid accoiate with the value
 
     - name: stg_series
       description: Category id name and Parent id of the FRED website

@@ -18,4 +18,3 @@ cast(popularity as integer ) as popularity,
 cast(group_popularity as integer ) as group_popularity,                       
 cast(category_id as integer ) as category_id                           
  from {{source('stagging','stg_series')}}
-limit 100
