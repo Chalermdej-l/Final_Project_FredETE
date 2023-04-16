@@ -113,7 +113,7 @@ def main(version='initial'):
             df_map =  cleandata(data_date,day,para_seriesgroup)
             uppload_path =f'map/{para_seriesgroup}/MapData_{para_seriesgroup}_{day}.parquet'
             bucket.blob(uppload_path).upload_from_string(df_map.to_parquet(), 'text/parquet')
-            time.sleep(0.5)
+            time.sleep(1)
     print('Finish running the function.')
     return True
 
