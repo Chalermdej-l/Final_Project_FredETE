@@ -1,0 +1,76 @@
+
+version: 2
+
+sources:
+  - name: stagging
+    database: ete-projectdatatalkclub
+    schema: dbt_devlopmentemp
+
+    tables:
+      - name: stg_category
+      - name: stg_map
+      - name: stg_series
+models:
+    - name: stg_category_dev
+      description: Category id name and Parent id of the FRED website
+      columns:
+        - name: name
+          description: name of the category id
+        - name: id
+          description: id of the category
+        - name: parent_name
+          description: name of the parent category of the category
+        - name: parent_id
+          description: id of the parent category
+
+    - name: stg_map_dev
+      description: Map data from FRED website return with series id accoiate with the data and country code/name of the data
+      columns:
+        - name: region
+          description: region or country name of the return data
+        - name: code
+          description: region or country code of the return data
+        - name: value
+          description: value of the data
+        - name: series_id
+          description: id of the series accoiate with this data
+        - name: date
+          description: date of the data value
+        - name: groupid
+          description: groupid accoiate with the value
+
+    - name: stg_series
+      description: Category id name and Parent id of the FRED website
+      columns:
+        - name: id
+          description: id of the series
+        - name: realtime_start
+          description: start datetime of the current date data is collect
+        - name: realtime_end
+          description: end datetime of the current date data is collect
+        - name: title
+          description: title of the series
+        - name: observation_start
+          description: start of the date collecting this data
+        - name: observation_end
+          description: current end of date collecting this data
+        - name: frequency
+          description: frequency of the data eg annual, monthly, quarterly etc.
+        - name: frequency_short
+          description: abbreviated name of the frequency
+        - name: units
+          description: unit of the data cleect eg dollar, people etc.
+        - name: units_short
+          description: abbreviated name of the unit
+        - name: seasonal_adjustment
+          description: whether data is adjust or not eg price of product in 1900 and price of product in 2000 can't measure on the same scale unless adjust
+        - name: seasonal_adjustment_short
+          description: abbreviated name of the seasonal adjustment eg sa = seasonal adjust 
+        - name: last_updated
+          description: last update date of the currnt series
+        - name: popularity
+          description: how popular is the current series being search for 
+        - name: group_popularity
+          description: how popular is the current group of series being search for 
+        - name: category_id
+          description: id of category accoiate with this series

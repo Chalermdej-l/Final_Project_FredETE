@@ -2,7 +2,7 @@
 # Name your project! Project names should contain only lowercase characters
 # and underscores. A good package name should reflect your organization's
 # name or the intended use of these models
-name: 'my_new_project'
+name: 'final_project_fred'
 version: '1.0.0'
 config-version: 2
 
@@ -32,7 +32,32 @@ clean-targets:         # directories to be removed by `dbt clean`
 # as tables. These settings can be overridden in the individual model files
 # using the `{{ config(...) }}` macro.
 models:
-  my_new_project:
+  final_project_fred:
     # Applies to all files under models/example/
-    example:
+    core:
+      materialized: table
+    stagging:
       materialized: view
+seeds:
+  final_project_fred:
+    no_series:
+      +column_types:
+        seriesid: string
+    series_group:
+      +column_types:
+        region_type: string
+        series_group: integer
+        season: string
+        units: string
+        frequency: string
+        min_date: date
+        max_date: date
+    country:
+      +column_types:
+        code: string
+        country: string
+        continent: string
+        sub_region: string
+    calendar:
+      +column_types:
+        date: date
