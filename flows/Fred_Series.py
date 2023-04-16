@@ -16,7 +16,7 @@ gcp_credentials_block = GcpCredentials.load(os.getenv("Prefect_Credential"))
 
 
 
-@task(name='Get_BQ_SQL',log_prints=True)
+@task(name='Get_BQ_SQL_Series',log_prints=True)
 def GetBQdata(query):     
     df_bq = pd.read_gbq(query=query,
     project_id=os.getenv("Gcp_Project_id"),
@@ -24,7 +24,7 @@ def GetBQdata(query):
     )
     return df_bq
 
-@task(log_prints=True)
+@task(name='Get_API_Series',log_prints=True)
 def getseriesid(id):
     offset = 0
     item = 1
@@ -51,8 +51,8 @@ def getseriesid(id):
     time.sleep(1)
     return all_list,count_data
 
-@task(log_prints=True)
-def movearchive(bucket,type):
+@task(name='Move_archive_Series',log_prints=True)
+def movearchive(bucket,typecheck):
     file_acrhive=  list(bucket.list_blobs())
     for file in file_acrhive:
         name = file.name
@@ -61,11 +61,11 @@ def movearchive(bucket,type):
         if type == 'staging':
             sub_pos = name.find('/',pos+1)
             sub_type = name[pos+1:sub_pos]
-            if sub_type == type:
+            if sub_type == typecheck:
                 bucket.copy_blob(file,destination_bucket=bucket,new_name=name.replace('staging','archive'))
                 bucket.delete_blob(name)    
 
-@task(log_prints=True)
+@task(name='Clean_data_Series',log_prints=True)
 def cleanseriesdf(data,id):
     df = pd.json_normalize(data)
     df_col = clean_df.series_col
@@ -88,7 +88,7 @@ def cleanseriesdf(data,id):
     df_net = df_net.drop_duplicates()
     return df_net
 
-@flow(log_prints=True)
+@flow(name='Function call Series',log_prints=True)
 def main():
     # Get series id base on cat id
     client = storage.Client(credentials=gcp_credentials_block.get_credentials_from_service_account())
@@ -96,25 +96,36 @@ def main():
     time_stamp = datetime.datetime.now().strftime('%Y-%m-%d')
     query = query_bq.query_getseriesPara
     result_query = GetBQdata(query)
+    indexfile =1
+    item = 0
     all_list = []
     id_data = {}
+    print('Moving file to archive folder')
+    movearchive(bucket,'series')
     for id in result_query.values.tolist():
         result_id,count_data = getseriesid(id[0])
         all_list.extend(result_id)
         id_data[id[0]] = count_data
-    print('Cleaning data.')
+        item +=1
+
+        # If call for 50 id clean the data and upload to cloud and relase the varible from memory
+        if item % 50 == 0:
+            print(f'Currnet item {item} uploading to cloud')
+            df_series = cleanseriesdf(all_list,id_data)
+            uppload_path =f'staging/series/{time_stamp}/SeriesData_{indexfile}_{time_stamp}.parquet'
+            print(f'Uploading file to cloud for {time_stamp} category data.')
+            bucket.blob(uppload_path).upload_from_string(df_series.to_parquet(), 'text/parquet')
+            indexfile += 1
+            all_list =[]
+            id_data = {}
+    print(f'Currnet item {item} uploading to cloud')
     df_series = cleanseriesdf(all_list,id_data)
-
-    print('Moving file to archive folder')
-    movearchive(bucket,'series')
-
-
-    uppload_path =f'staging/series/{time_stamp}/SeriesData_{time_stamp}.parquet'
+    uppload_path =f'staging/series/{time_stamp}/SeriesData_{indexfile}_{time_stamp}.parquet'
     print(f'Uploading file to cloud for {time_stamp} category data.')
 
     # Upload to bucket
     bucket.blob(uppload_path).upload_from_string(df_series.to_parquet(), 'text/parquet')
-
+    return True
 def deploy():
     deployment = Deployment.build_from_flow(
         flow=main,

@@ -97,6 +97,7 @@ class query_bq:
     query_getseriesPara = '''
         SELECT id FROM `ete-projectdatatalkclub.dbo.Category` where 
     id not in (SELECT distinct parent_id FROM `ete-projectdatatalkclub.dbo.Category`)
+    order by id
     '''
     query_getMapPara = '''
     SELECT
@@ -111,5 +112,5 @@ class query_bq:
 inner join `ete-projectdatatalkclub.dim.Dim_Unit` u
   on g.unitid	 =u.id
 where  Active = 1
-    
+order by series_group
     '''

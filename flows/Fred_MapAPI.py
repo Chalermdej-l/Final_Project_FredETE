@@ -16,7 +16,7 @@ load_dotenv(os.path.join(basedir, './.env'))
 
 gcp_credentials_block = GcpCredentials.load(os.getenv("Prefect_Credential"))
 
-@task(name='Get_BQ_SQL',log_prints=True)
+@task(name='Get_BQ_SQL_Map',log_prints=True)
 def GetBQdata(query): 
 
     df_bq = pd.read_gbq(query=query,
@@ -26,10 +26,10 @@ def GetBQdata(query):
     return df_bq
 
 
-@task(log_prints=True)
+@task(name='Get_API_Map',log_prints=True)
 def getApiMap(para_regiontype,para_seriesgroup,para_season,para_unit,para_frequency,para_mindate,para_maxdate):
 
-        print('Calling the API.')
+        print(f'Calling the API for {para_seriesgroup} ...')
         result = hp.map.regional(
             file_type ='json' \
             ,series_group = para_seriesgroup \
@@ -40,8 +40,11 @@ def getApiMap(para_regiontype,para_seriesgroup,para_season,para_unit,para_freque
             ,units=para_unit
             ,frequency = para_frequency
         )
-        
-        if result.ok:
+        if result is None:
+            print(f'Result return with None skipping currnt call for {para_seriesgroup} period {para_mindate} - {para_maxdate}')
+            return None
+
+        elif result.ok:
             try:
                 data_all = result.json()
                 data_date =data_all['meta']['data']
@@ -57,29 +60,23 @@ def getApiMap(para_regiontype,para_seriesgroup,para_season,para_unit,para_freque
             print('Waiting for 5 sec.')
             return 'retry'
 
-@task(log_prints=True)
-def movearchive(bucket,type):
-    file_acrhive=  list(bucket.list_blobs())
-    for file in file_acrhive:
-        name = file.name
-        pos = name.find('/')
-        type = name[:pos]
-        if type == 'staging':
-            sub_pos = name.find('/',pos+1)
-            sub_type = name[pos+1:sub_pos]
-            if sub_type == type:
-                bucket.copy_blob(file,destination_bucket=bucket,new_name=name.replace('staging','archive'))
-                bucket.delete_blob(name)    
+@task(name='Cleandata_Map',log_prints=True)
+def cleandata(df,date,groupid):
+    str_col = ['region','code','series_id']
+    df_map = pd.json_normalize(df[date])
+    df_map['date'] = datetime.datetime.strptime(date,"%Y-%m-%d")
+    df_map['groupid'] = groupid            
+    df_map[str_col] = df_map[str_col].astype('string')
+    df_map['value'] = df_map['value'].astype('float')
+    return df_map
 
-@flow(log_prints=True)
-def main(version='daily'):    
+@flow(name='Function call Map',log_prints=True)
+def main(version='initial'):    
     series_parameter = GetBQdata(query_bq.query_getMapPara)
     client = storage.Client(credentials=gcp_credentials_block.get_credentials_from_service_account())
     bucket = client.get_bucket(os.getenv("Gcs_Bucket_name"))
-    print('Moving file to archive folder')
-    movearchive(bucket,'map')
 
-    time_stamp = datetime.datetime.now().strftime('%Y-%m-%d')
+    current_date = datetime.datetime.now().strftime('%Y-%m-%d')
     for api_para in series_parameter.values.tolist():
         para_regiontype  = api_para[0][0]
         para_seriesgroup = api_para[1][0]
@@ -88,9 +85,10 @@ def main(version='daily'):
         para_frequency   = api_para[4][0]
         if version=='daily':
             para_mindate     = api_para[6]
+            para_maxdate     = current_date
         else:
             para_mindate     = api_para[5]
-        para_maxdate     = api_para[6]
+            para_maxdate     = api_para[6]
 
         retry = 0
         while retry <3:
@@ -108,18 +106,14 @@ def main(version='daily'):
         if  retry ==3:
             print(f'Error occur skipping {para_seriesgroup}')
             continue
-        time_para = para_maxdate.strftime('%Y-%m-%d')
-        df_map = pd.json_normalize(data_date[time_para])
         
-        
-        uppload_path =f'staging/map/{time_stamp}/MapData_{para_seriesgroup}_{time_para}.parquet'
-        print(f'Uploading file to cloud for {para_seriesgroup}')        
-        
-        bucket.blob(uppload_path).upload_from_string(df_map.to_parquet(), 'text/parquet')
-
-
-
-        time.sleep(1)
+        print(f'Uploading file to cloud for {para_seriesgroup}')   
+        time_para = list(data_date.keys())
+        for day in time_para:
+            df_map =  cleandata(data_date,day,para_seriesgroup)
+            uppload_path =f'map/{para_seriesgroup}/MapData_{para_seriesgroup}_{day}.parquet'
+            bucket.blob(uppload_path).upload_from_string(df_map.to_parquet(), 'text/parquet')
+            time.sleep(1)
     print('Finish running the function.')
     return True
 
