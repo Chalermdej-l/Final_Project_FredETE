@@ -1,294 +1,1114 @@
-region_type,series_group,season,units,frequency,min_date,max_date
-state,598,NSA,"Persons, 4-Quarter Moving Average",q,2003-10-01,2022-07-01
-country,155420,NSA,Millions of Dollars,m,1985-01-01,2023-01-01
-country,246376,NSA,Millions of Dollars,m,1985-01-01,2023-01-01
-country,2116,SA,Growth rate same period previous year,a,1960-01-01,2022-01-01
-country,351,SA,Growth rate same period previous year,a,1960-01-01,2022-01-01
-country,2077,NSA,Growth rate same period previous year,a,1960-01-01,2022-01-01
-state,942,NSA,Index 1980:Q1=100,q,1975-01-01,2022-10-01
-country,100903,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01
-country,636,NSA,Millions of US Dollars,q,1952-01-01,2022-07-01
-country,63,NSA,Millions of US Dollars,q,1952-01-01,2022-07-01
-country,2014,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01
-country,1239,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01
-country,83,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01
-country,369,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01
-country,2008,NSA,Millions of US Dollars,q,1952-01-01,2022-07-01
-country,584,NSA,Millions of US Dollars,q,1966-01-01,2022-10-01
-country,912,NSA,Millions of US Dollars,q,1966-01-01,2022-10-01
-country,1528,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01
-country,100986,NSA,Millions of US Dollars,q,1966-01-01,2022-10-01
-country,100965,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01
-country,83,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01
-country,100887,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01
-country,2012,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01
-country,435,NSA,Millions of US Dollars,q,1952-01-01,2022-07-01
-country,369,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01
-country,584,NSA,Millions of US Dollars,q,1966-01-01,2022-10-01
-country,281299,SA,Growth rate previous period,a,1960-01-01,2022-01-01
-country,1480,SA,Growth rate previous period,a,1961-01-01,2022-01-01
-country,351,SA,Growth rate previous period,a,1960-01-01,2022-01-01
-country,2077,NSA,Growth rate previous period,a,1960-01-01,2022-01-01
-country,2116,SA,Growth rate previous period,a,1960-01-01,2022-01-01
-country,281294,NSA,Growth rate previous period,m,1960-01-01,2023-02-01
-state,1718,SA,Index 2007=100,m,1979-01-01,2022-12-01
-country,938,NSA,Percent of Fiscal Year GDP,a,2016-01-01,2023-01-01
-country,994,NSA,Percent of Fiscal Year GDP,a,1990-01-01,2027-01-01
-state,2088,NSA,Percent,a,1984-01-01,2022-01-01
-country,39,NSA,Percent,a,1960-01-01,2022-01-01
-state,1224,SA,Percent,m,1976-01-01,2022-12-01
-state,2122,NSA,Percent,a,1986-01-01,2022-01-01
-state,246343,NSA,Percent,m,2017-07-01,2023-02-01
-state,246344,NSA,Percent,m,2017-07-01,2023-02-01
-state,1863,NSA,Percent,a,1986-01-01,2022-01-01
-country,200057,NSA,Percent,a,1960-01-01,2022-01-01
-state,156861,NSA,Percent,w,1984-06-02,2023-03-04
-country,2052,NSA,U.S. Dollars,a,2016-01-01,2023-01-01
-country,5207,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3674,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3823,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4875,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4725,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5272,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3910,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3593,NSA,Index 2015=100,m,2000-12-01,2023-02-01
-country,3596,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,2137,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,643,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4902,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5139,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5089,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5157,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5015,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3805,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4749,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5175,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3841,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5071,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3638,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,349,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3577,NSA,Index 2015=100,m,2000-12-01,2023-02-01
-country,3590,NSA,Index 2015=100,m,2000-12-01,2023-02-01
-country,4957,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3728,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4845,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4979,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,449,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4761,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1115,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3722,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4851,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4784,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3811,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3632,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3644,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5243,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3692,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3921,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3898,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,871,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4801,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3698,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3644,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3593,NSA,Index 2015=100,m,2000-12-01,2023-02-01
-country,572,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3886,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5225,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1698,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5151,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3614,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5121,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1121,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3769,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3608,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1320,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4963,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3668,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5127,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4795,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5284,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3614,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1480,SA,Index 2015=100,a,1960-01-01,2022-01-01
-country,2214,NSA,Index 2015=100,a,1960-01-01,2022-01-01
-country,228,NSA,Index 2015=100,m,2000-12-01,2023-02-01
-country,4731,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3799,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5181,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1859,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1427,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,747,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4839,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,2196,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3577,NSA,Index 2015=100,m,2000-12-01,2023-02-01
-country,3662,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3892,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5219,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4767,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4743,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3904,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5053,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5009,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5077,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5302,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1253,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,675,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4940,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3602,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,713,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5231,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1286,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,470,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3686,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5278,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4863,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3650,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,861,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3787,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5083,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5213,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5237,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,477,NSA,Index 2015=100,m,2000-12-01,2023-02-01
-country,1915,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3763,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5249,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3863,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1455,NSA,Index 2015=100,a,1970-01-01,2022-01-01
-country,281299,SA,Index 2015=100,a,1960-01-01,2022-01-01
-country,3835,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5065,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3704,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4813,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4908,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4985,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1143,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4565,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5027,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,2059,NSA,Index 2015=100,m,2000-12-01,2023-02-01
-country,4997,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3746,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4857,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,489,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1715,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3781,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,965,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5021,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3710,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4755,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,288,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,801,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3602,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3638,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,689,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5059,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,625,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3793,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1908,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5133,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4881,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,498,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,745,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4869,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3716,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3590,NSA,Index 2015=100,m,2000-12-01,2023-02-01
-country,3582,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3775,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3680,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5296,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5261,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1582,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3734,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3596,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,82,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,2129,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4773,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,617,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3632,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3757,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3817,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,2229,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4929,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5163,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5145,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,80,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3626,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1240,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4951,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3875,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3650,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3740,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1255,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3829,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5169,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3847,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5290,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4991,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,268,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,4807,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3869,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,5100,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,3626,NSA,Index 2015=100,m,1996-01-01,2023-02-01
-country,1301,NSA,Index 2020=100,m,1994-01-01,2023-02-01
-country,117,NSA,Index 2020=100,m,1994-01-01,2023-02-01
-country,1764,NSA,Percent per Annum,q,1928-01-01,2022-07-01
-country,1543,NSA,Percent per Annum,q,1948-01-01,2022-07-01
-state,131240,SA,Index 2012=100,q,2005-01-01,2022-07-01
-state,131267,SA,Index 2012=100,q,2005-01-01,2022-07-01
-state,131461,SA,Index 2012=100,q,2005-01-01,2022-07-01
-state,131294,SA,Index 2012=100,q,2005-01-01,2022-07-01
-state,131309,SA,Index 2012=100,q,2005-01-01,2022-07-01
-state,131363,SA,Index 2012=100,q,2005-01-01,2022-07-01
-state,131339,SA,Index 2012=100,q,2005-01-01,2022-07-01
-state,131390,SA,Index 2012=100,q,2005-01-01,2022-07-01
-state,131345,SA,Index 2012=100,q,2005-01-01,2022-07-01
-state,131378,SA,Index 2012=100,q,2005-01-01,2022-07-01
-state,131492,SA,Index 2012=100,q,2005-01-01,2022-07-01
-state,131418,SA,Index 2012=100,q,2005-01-01,2022-07-01
-state,131249,SA,Index 2012=100,q,2005-01-01,2022-07-01
-state,131447,SA,Index 2012=100,q,2005-01-01,2022-07-01
-state,131400,SA,Index 2012=100,q,2005-01-01,2022-07-01
-state,131252,SA,Index 2012=100,q,2005-01-01,2022-07-01
-state,131291,SA,Index 2012=100,q,2005-01-01,2022-07-01
-country,143,NSA,Percent of GDP,a,2021-01-01,2027-01-01
-country,815,NSA,Percent of GDP,a,1990-01-01,2023-01-01
-country,280,NSA,Percent of GDP,a,2021-01-01,2027-01-01
-country,1260,NSA,Percent Change,a,2016-01-01,2023-01-01
-country,540,NSA,Percent Change,a,1990-01-01,2023-01-01
-country,142,NSA,Percent Change,a,1990-01-01,2023-01-01
-country,2194,NSA,Percent Change,a,2013-01-01,2023-01-01
-country,106,NSA,Percent Change,a,2016-01-01,2023-01-01
-country,100965,NSA,Billions of US Dollars,q,1993-07-01,2022-10-01
-state,1313,NSA,Units,m,1988-01-01,2023-01-01
-state,1537,SA,Units,m,1988-01-01,2023-01-01
-state,1537,NSA,Units,m,1988-01-01,2023-01-01
-state,1313,SA,Units,m,1988-01-01,2023-01-01
-country,2116,SA,"US Dollars, monthly level",a,1960-01-01,2022-01-01
-country,1195,SA,"US Dollars, monthly level",a,1960-01-01,2022-01-01
-country,351,SA,"US Dollars, monthly level",a,1960-01-01,2022-01-01
-state,656,SA,Persons,m,1976-01-01,2022-12-01
-state,656,NSA,Persons,m,1976-01-01,2022-12-01
-state,246342,NSA,Level,m,2016-07-01,2023-02-01
-state,156241,NSA,Number,w,1984-06-09,2023-03-11
-state,156862,NSA,Number,w,1984-06-02,2023-03-04
-state,156860,NSA,Number,w,1984-06-02,2023-03-04
-state,1298,NSA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,1182,SA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,186,NSA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,198,SA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,2065,SA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,2062,NSA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,1973,NSA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,127,NSA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,1182,NSA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,1298,SA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,2062,SA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,1973,SA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,270,SA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,1350,SA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,270,NSA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,171,SA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,2065,NSA,Thousands of Persons,m,1939-01-01,2023-01-01
-state,171,NSA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,127,SA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,186,SA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,1350,NSA,Thousands of Persons,m,1990-01-01,2023-01-01
-state,1549,NSA,Thousands of Persons,a,1900-01-01,2022-01-01
+region_type,series_group,season,units,frequency,min_date,max_date,Active
+country,400,NSA,Index,a,1997-01-01,2014-01-01,0
+country,100954,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,493,NSA,Percent,a,1970-01-01,2020-01-01,0
+country,1909,NSA,Number,a,2004-01-01,2021-01-01,0
+country,506,NSA,Percent,a,1960-01-01,2021-01-01,0
+country,281299,SA,Growth rate previous period,a,1960-01-01,2022-01-01,0
+country,100903,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
+country,5207,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3674,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3823,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4875,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4725,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5272,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4991,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,268,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4807,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3869,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5100,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,1260,NSA,Percent Change,a,2016-01-01,2023-01-01,0
+country,540,NSA,Percent Change,a,1990-01-01,2023-01-01,0
+country,100954,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,391,NSA,Percent,a,1992-01-01,2020-01-01,0
+state,131240,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131264,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131339,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131461,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131483,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,1594,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+country,1214,SA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
+country,1617,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
+state,714,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,1781,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,131266,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131266,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131269,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131272,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131299,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131317,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131368,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131371,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131402,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131414,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131439,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+country,3626,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,469,NSA,Per 100 People,a,1960-01-01,2021-01-01,0
+country,657,NSA,Percent,a,1960-01-01,2020-01-01,0
+state,1795,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,1313,NSA,Units,m,1988-01-01,2023-01-01,0
+state,1784,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,667,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1593,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,173,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1280,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
+state,685,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,403,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1138,NSA,Number of Firms,a,2011-01-01,2017-01-01,0
+state,1444,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1294,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1151,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,737,NSA,Number of Firms,a,2007-01-01,2017-01-01,0
+state,986,NSA,Number of Firms,a,1997-01-01,2017-01-01,0
+state,324,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
+state,119778,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,119781,NSA,Dollars,a,1997-01-01,2021-01-01,0
+country,124,NSA,Persons,5 Year,1967-01-01,2012-01-01,0
+country,124,NSA,Persons,a,1960-01-01,2021-01-01,0
+state,131241,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131256,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131259,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131268,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131298,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131312,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131346,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,131355,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131361,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131401,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,134647,NSA,Index,a,2008-01-01,2021-01-01,0
+state,134645,NSA,Index,a,2008-01-01,2021-01-01,0
+state,115,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+state,1009,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+state,1430,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+state,1875,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+state,926,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
+country,32691,NSA,Percent of GDP,a,2004-01-01,2021-01-01,0
+country,32697,NSA,Percent of GDP,a,2004-01-01,2021-01-01,0
+state,1227,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,242,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1479,NSA,Dollars,a,1992-01-01,2017-01-01,0
+country,1545,NSA,Percent,a,1995-01-01,2013-01-01,0
+country,1913,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
+country,1895,NSA,Percent,a,1987-01-01,2019-01-01,0
+country,1370,NSA,Z-score,a,1996-01-01,2020-01-01,0
+country,1495,NSA,Percent,a,1996-01-01,2020-01-01,0
+country,657,NSA,Percent,a,1960-01-01,2020-01-01,0
+country,2222,NSA,Number,a,2004-01-01,2021-01-01,0
+country,32697,NSA,Percent of GDP,a,2004-01-01,2021-01-01,0
+country,2116,SA,Growth rate same period previous year,a,1960-01-01,2022-01-01,1
+country,1480,SA,Growth rate previous period,a,1961-01-01,2022-01-01,0
+country,636,NSA,Millions of US Dollars,q,1952-01-01,2022-07-01,1
+country,63,NSA,Millions of US Dollars,q,1952-01-01,2022-07-01,1
+country,1764,NSA,Percent per Annum,q,1928-01-01,2022-07-01,0
+country,2014,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
+country,1239,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
+country,3740,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,1255,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3829,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5169,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3847,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5290,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,80,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3626,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,1240,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4951,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3875,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+state,942,NSA,Index 1980:Q1=100,q,1975-01-01,2022-10-01,0
+country,100936,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,1491,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
+country,767,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
+state,131258,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131303,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131366,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131409,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131474,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,656,SA,Persons,m,1976-01-01,2022-12-01,0
+country,280207,NSA,Index 2010=100,a,1960-01-01,2017-01-01,0
+state,468,SSA,Millions of Dollars,q,1948-01-01,2022-07-01,0
+country,605,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
+state,131347,NSA,Millions of Dollars,a,1997-01-01,2016-01-01,0
+state,131248,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131344,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131362,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131374,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131457,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131482,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+country,3650,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+state,2088,NSA,Percent,a,1984-01-01,2022-01-01,0
+state,156241,NSA,Number,w,1984-06-09,2023-03-11,0
+country,1064,NSA,Millions of 2000 Dollars,a,1960-01-01,2020-01-01,0
+state,2201,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
+country,1335,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,889,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+state,1160,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,866,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1798,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1473,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,756,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1252,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1058,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,769,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,921,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,30814,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
+country,73,NSA,Number of Listed Companies per Million People,a,1975-01-01,2020-01-01,0
+state,119767,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,119766,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,77,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,131262,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131286,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131295,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131417,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131472,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131490,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,134652,NSA,Thousands of Chained 2012 Dollars,a,2008-01-01,2021-01-01,0
+state,134643,NSA,Index,a,2008-01-01,2021-01-01,0
+state,1684,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+state,712,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+state,1159,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+state,1691,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+state,1613,SSA,Millions of Dollars,q,1990-01-01,2013-01-01,0
+state,190,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,2207,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1315,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1088,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1409,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,416,NSA,Dollars,a,1992-01-01,2017-01-01,0
+country,1739,NSA,2005 International Dollars per Person,a,1950-01-01,2010-01-01,0
+country,100975,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,1340,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
+country,1835,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
+country,133,NSA,Percent,a,1990-01-01,2019-01-01,0
+country,26702,NSA,Percent,a,1962-01-01,2020-01-01,0
+country,351,SA,Growth rate previous period,a,1960-01-01,2022-01-01,1
+country,3757,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3817,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,2229,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4929,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5163,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5145,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3596,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,82,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,2129,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4773,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,617,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,142,NSA,Percent Change,a,1990-01-01,2023-01-01,0
+country,143,NSA,Percent of GDP,a,2021-01-01,2027-01-01,0
+state,1938,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,1298,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+state,1182,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+state,186,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+state,198,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+state,2065,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+country,100975,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+state,131240,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+state,131255,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131267,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131267,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+state,131270,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131276,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131294,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131321,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131357,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131436,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131461,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+state,131465,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+country,321,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
+country,188,NSA,Percent,a,1960-01-01,2020-01-01,0
+country,1155,NSA,1=Most Business-friendly Regulations,a,2015-01-01,2019-01-01,0
+state,1245,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+country,364,NSA,Number,a,2004-01-01,2021-01-01,0
+country,2222,NSA,Number,a,2004-01-01,2021-01-01,0
+state,124475,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131251,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131263,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131314,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131368,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131380,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131415,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131439,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131464,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+country,795,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,3632,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3620,NSA,Index 2015=100,m,1996-01-01,2016-01-01,0
+country,916,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,39,NSA,Percent,a,1960-01-01,2022-01-01,0
+country,39,NSA,Percent,q,1960-01-01,2022-10-01,0
+country,600,NSA,Percent,a,1979-01-01,2019-01-01,0
+country,67,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
+country,1606,NSA,People,5 Year,1962-01-01,2017-01-01,0
+state,88,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,543,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1461,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,236,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1791,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1961,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,431,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1952,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1116,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,717,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1808,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1906,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1113,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,718,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
+state,119742,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131247,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131346,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131419,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131442,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,134653,NSA,Chained 2012 Dollars,a,2008-01-01,2021-01-01,0
+state,134640,NSA,Index,a,2008-01-01,2021-01-01,0
+state,728,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+state,2102,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+state,750,SSA,Thousands of Dollars,q,1948-01-01,2022-07-01,0
+state,275,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,634,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1639,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,975,NSA,Dollars,a,1992-01-01,2017-01-01,0
+country,1782,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,221,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
+country,1335,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,5255,NSA,Index 2015=100,m,1996-01-01,2016-01-01,0
+country,652,NSA,Index 2010=100,a,1960-01-01,2017-01-01,0
+state,1798,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+country,176,NSA,Percent,a,1998-01-01,2019-01-01,0
+country,548,NSA,Percent,a,1998-01-01,2019-01-01,0
+country,876,NSA,Percent,a,1998-01-01,2019-01-01,0
+country,90,NSA,Percent,a,1960-01-01,2020-01-01,0
+country,1242,NSA,Percent,a,1960-01-01,2020-01-01,0
+country,1192,NSA,Index,a,1984-01-01,2020-01-01,0
+country,219,NSA,Percent of GDP,a,1980-01-01,2021-01-01,0
+country,2148,NSA,"Number per 1,000 Live Births",a,1960-01-01,2021-01-01,0
+country,469,NSA,Per 100 People,a,1960-01-01,2021-01-01,0
+country,83,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
+country,3775,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3680,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5296,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5261,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,1582,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3734,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,498,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,745,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4869,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3716,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,938,NSA,Percent of Fiscal Year GDP,a,2016-01-01,2023-01-01,0
+state,835,NSA,Number of Exemptions,a,1989-01-01,2020-01-01,0
+state,2062,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+state,2065,NSA,Thousands of Persons,m,1939-01-01,2023-01-01,0
+country,422,NSA,Percent,a,1960-01-01,2020-01-01,0
+state,131291,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131294,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+state,131309,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+state,131363,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+state,131418,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+country,2077,NSA,Growth rate previous period,q,1960-01-01,2022-10-01,0
+country,2070,NSA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
+country,1076,NSA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
+country,1741,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
+state,131251,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131293,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131353,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131377,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131392,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131435,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,200046,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131503,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+country,3590,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
+country,3582,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+state,1284,NSA,Percent,a,1999-01-01,2012-01-01,0
+state,299,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+country,83,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
+state,1537,SA,Units,m,1988-01-01,2023-01-01,0
+state,1083,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,346,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1918,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1193,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,114,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,677,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1834,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,964,NSA,Number of Firms,a,2002-01-01,2016-01-01,0
+state,139,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,924,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
+state,1769,NSA,Number of Firms,a,2007-01-01,2017-01-01,0
+state,1816,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,119752,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,119760,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+country,1823,NSA,Percent,a,1960-01-01,2020-01-01,0
+state,131289,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131307,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131385,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131391,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131410,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131419,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,131459,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,1224,SA,Percent,m,1976-01-01,2022-12-01,0
+state,1120,NSA,Dollars,a,1997-01-01,2017-01-01,0
+state,2160,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,884,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,823,NSA,Dollars,a,1997-01-01,2017-01-01,0
+state,1778,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1466,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,748,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,746,NSA,Dollars,a,1992-01-01,2017-01-01,0
+country,805,NSA,Percent,a,2004-01-01,2013-01-01,0
+country,1649,NSA,Index,a,2010-01-01,2014-01-01,0
+country,767,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
+country,1452,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
+country,699,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,26,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,974,NSA,Percent,a,1980-01-01,2019-01-01,0
+country,1501,NSA,Percent of GDP,a,1970-01-01,2020-01-01,0
+country,1077,NSA,Percent,a,1960-01-01,2020-01-01,0
+country,1460,NSA,2010 U.S. Dollars,a,1960-01-01,2021-01-01,0
+country,264,NSA,Number,a,2004-01-01,2021-01-01,0
+country,2116,SA,"US Dollars, monthly level",a,1960-01-01,2022-01-01,1
+country,1195,SA,"US Dollars, monthly level",a,1960-01-01,2022-01-01,1
+country,100887,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
+country,2012,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
+country,1301,NSA,Index 2020=100,m,1994-01-01,2023-02-01,0
+country,5059,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,625,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3793,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,1908,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5133,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4881,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4755,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,288,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,801,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3602,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3638,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,689,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,489,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,1715,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3781,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+state,171,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+state,127,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+state,186,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+country,100965,NSA,Billions of US Dollars,q,1993-07-01,2022-10-01,1
+country,1913,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
+country,1786,NSA,Percent,a,1960-01-01,2020-01-01,0
+country,463,NSA,Percent,a,1996-01-01,2020-01-01,0
+country,332,NSA,Percent,a,1996-01-01,2020-01-01,0
+state,131249,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+state,131447,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+state,131261,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131273,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131363,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131369,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131400,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+state,131406,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131412,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131418,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+country,925,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
+country,931,NSA,Number,a,2004-01-01,2021-01-01,0
+state,690,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131260,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131290,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131305,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131356,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131359,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131383,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131389,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131470,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,4,NSA,Percent,a,1999-01-01,2012-01-01,0
+state,2122,NSA,Percent,a,1986-01-01,2022-01-01,0
+state,246343,NSA,Percent,m,2017-07-01,2023-02-01,0
+state,134655,NSA,US PCE Index 2012=100,a,2008-01-01,2021-01-01,0
+state,1293,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
+country,2148,NSA,"Number per 1,000 Live Births",a,1960-01-01,2021-01-01,0
+state,1213,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
+country,1495,NSA,Percent,a,1996-01-01,2020-01-01,0
+state,777,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,1023,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
+country,1338,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
+country,1895,NSA,Percent,a,1987-01-01,2019-01-01,0
+state,1208,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,212,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1395,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1578,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,551,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1654,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1131,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1740,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1643,NSA,Number of Firms,a,1997-01-01,2017-01-01,0
+state,768,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1701,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,541,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1325,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,658,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,119770,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,131349,NSA,Millions of Chained 2009 Dollars,a,1997-01-01,2016-01-01,0
+state,131244,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131253,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131292,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,131334,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131316,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131352,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,131364,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131325,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131462,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,134650,NSA,Thousands of Chained 2012 Dollars,a,2008-01-01,2021-01-01,0
+state,134642,NSA,Index,a,2008-01-01,2021-01-01,0
+state,2139,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+state,149,NSA,Thousands of Dollars,a,1951-01-01,2021-01-01,0
+state,213,NSA,Thousands of Dollars,a,1951-01-01,2021-01-01,0
+state,1457,NSA,Thousands of Dollars,q,1984-01-01,1993-10-01,0
+state,840,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,973,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1117,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,410,NSA,Dollars,a,1992-01-01,2017-01-01,0
+country,1717,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
+country,38,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,1136,NSA,Percent,a,2011-01-01,2017-01-01,0
+country,1205,NSA,Percent,a,2011-01-01,2017-01-01,0
+country,1408,NSA,"Number per 100,000 adults",a,2004-01-01,2019-01-01,0
+country,1786,NSA,Percent,a,1960-01-01,2020-01-01,0
+country,1540,NSA,Percent,a,1996-01-01,2020-01-01,0
+country,247,NSA,Percent,a,1995-01-01,2020-01-01,0
+country,1823,NSA,Percent,a,1960-01-01,2020-01-01,0
+country,364,NSA,Number,a,2004-01-01,2021-01-01,0
+country,888,NSA,Number,a,2004-01-01,2021-01-01,0
+country,931,NSA,Number,a,2004-01-01,2021-01-01,0
+country,100626,NSA,Percent of GDP,a,2004-01-01,2021-01-01,0
+country,435,NSA,Millions of US Dollars,q,1952-01-01,2022-07-01,1
+country,369,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
+country,965,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5021,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3710,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4565,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5027,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,2059,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
+country,4997,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3746,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4857,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5065,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3704,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4813,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4908,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4985,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,1143,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3763,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5249,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3863,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,2052,NSA,U.S. Dollars,a,2016-01-01,2023-01-01,0
+state,1350,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+country,90,NSA,Percent,a,1960-01-01,2020-01-01,0
+country,1540,NSA,Percent,a,1996-01-01,2020-01-01,0
+state,131252,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131279,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131306,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131421,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131452,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+country,2077,NSA,Growth rate previous period,a,1960-01-01,2022-01-01,0
+state,156862,NSA,Number,w,1984-06-02,2023-03-04,0
+country,1455,NSA,Index 2015=100,a,1970-01-01,2022-01-01,0
+country,1601,SA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
+country,2070,SA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
+country,247,NSA,Percent,a,1995-01-01,2020-01-01,0
+state,226,NSA,Thousands of Dollars,q,1984-01-01,2001-10-01,0
+state,124475,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131275,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131308,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,200048,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131350,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131350,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131377,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131399,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131411,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,501,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,1801,NSA,Thousands of Persons,a,1999-01-01,2012-01-01,0
+country,39,NSA,Percent,m,1960-01-01,2023-02-01,0
+state,788,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+country,1835,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
+country,584,NSA,Millions of US Dollars,q,1966-01-01,2022-10-01,1
+state,1537,NSA,Units,m,1988-01-01,2023-01-01,0
+state,1297,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,765,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,432,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1533,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1241,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,518,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1200,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,520,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1756,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,201,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1484,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,119771,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,119776,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,119784,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,131250,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,131295,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,131301,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,200052,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131373,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131453,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131343,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,134651,NSA,Chained 2012 Dollars,a,2008-01-01,2021-01-01,0
+state,1549,NSA,Thousands of Persons,a,1900-01-01,2022-01-01,0
+country,1127,NSA,Percent,a,1975-01-01,2020-01-01,0
+country,84,NSA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
+country,84,SA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
+state,1534,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
+state,1071,NSA,Thousands of Dollars,q,1994-01-01,2020-07-01,0
+state,2150,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,2114,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1650,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,948,NSA,Dollars,a,2011-01-01,2017-01-01,0
+state,514,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1237,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,505,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,380,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1670,NSA,Dollars,a,1992-01-01,2016-01-01,0
+country,998,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
+country,795,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,67,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
+state,1359,NSA,Number of Firms,a,2002-01-01,2016-01-01,0
+state,884,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,561,NSA,Dollars,a,1992-01-01,2017-01-01,0
+country,300,NSA,Percent,a,1980-01-01,2019-01-01,0
+country,463,NSA,Percent,a,1996-01-01,2020-01-01,0
+country,1382,NSA,Births per Woman,a,1960-01-01,2020-01-01,0
+country,1515,NSA,Number of Years,a,1960-01-01,2020-01-01,0
+country,73,NSA,Number of Listed Companies per Million People,a,1975-01-01,2020-01-01,0
+country,281299,SA,Index 2015=100,a,1960-01-01,2022-01-01,0
+country,351,SA,Growth rate same period previous year,a,1960-01-01,2022-01-01,1
+country,2008,NSA,Millions of US Dollars,q,1952-01-01,2022-07-01,1
+country,584,NSA,Millions of US Dollars,q,1966-01-01,2022-10-01,1
+country,3835,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3787,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5083,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5213,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5237,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,477,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
+country,1915,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,470,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3686,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5278,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4863,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3650,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,861,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,675,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4940,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,994,NSA,Percent of Fiscal Year GDP,a,1990-01-01,2027-01-01,0
+state,2062,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+state,1973,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+country,25394,NSA,Percent,a,1996-01-01,2020-01-01,0
+state,131252,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+state,131291,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+state,131430,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131342,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+country,103,SA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
+country,1214,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
+country,321,SA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
+country,925,SA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
+country,1242,NSA,Percent,a,1960-01-01,2020-01-01,0
+state,759,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+country,1832,NSA,Current U.S. Dollars,a,1960-01-01,2021-01-01,0
+state,131242,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131248,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,690,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131284,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131389,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131420,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131460,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+country,308,NSA,Percent,a,1999-01-01,2019-01-01,0
+country,3602,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+state,246344,NSA,Percent,m,2017-07-01,2023-02-01,0
+country,1947,NSA,Percent of People Ages 15 and Above,a,1970-01-01,2021-01-01,0
+state,1514,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1029,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,74,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1569,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
+state,334,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,281,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,2011,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1883,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,119779,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,119743,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,119754,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,119765,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,119757,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,341,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
+state,131292,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131404,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131475,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131487,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,1191,NSA,Millions of Chained 2012 Dollars,a,2008-01-01,2021-01-01,0
+state,1863,NSA,Percent,a,1986-01-01,2022-01-01,0
+state,915,NSA,Thousands of Dollars,a,1951-01-01,2021-01-01,0
+state,956,NSA,Thousands of Dollars,a,1951-01-01,2021-01-01,0
+state,232,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1609,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,366,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1765,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,195,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,804,NSA,Dollars,a,1997-01-01,2017-01-01,0
+state,1190,NSA,Dollars,a,1992-01-01,2016-01-01,0
+country,971,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
+state,232,NSA,Dollars,a,1992-01-01,2017-01-01,0
+country,1308,NSA,Percent,a,1998-01-01,2019-01-01,0
+country,600,NSA,Percent,a,1979-01-01,2019-01-01,0
+country,1225,NSA,Percent,a,1980-01-01,2019-01-01,0
+country,391,NSA,Percent,a,1992-01-01,2020-01-01,0
+country,332,NSA,Percent,a,1996-01-01,2020-01-01,0
+country,26719,NSA,Percent,a,1962-01-01,2020-01-01,0
+country,2138,NSA,Percent,a,1975-01-01,2020-01-01,0
+country,912,NSA,Millions of US Dollars,q,1966-01-01,2022-10-01,1
+country,1528,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
+country,713,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5231,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,1286,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3904,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5053,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5009,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5077,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5302,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,1253,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,117,NSA,Index 2020=100,m,1994-01-01,2023-02-01,0
+state,270,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+state,1350,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+country,353,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
+country,1717,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
+country,1340,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
+country,1140,NSA,Percent,5 Year,1970-01-01,2010-01-01,0
+state,131288,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131297,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131309,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131339,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+state,131372,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131390,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+state,131445,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,394,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
+state,656,NSA,Persons,m,1976-01-01,2022-12-01,0
+state,405,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,156860,NSA,Number,w,1984-06-02,2023-03-04,0
+state,131245,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+country,3577,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
+country,293,NSA,Index,a,1996-01-01,2014-01-01,0
+country,26702,NSA,Percent,a,1962-01-01,2020-01-01,0
+state,1986,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,2054,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1130,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1189,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1797,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1212,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,2233,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1785,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1261,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1911,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1939,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,2021,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1544,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1618,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1447,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
+state,649,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
+state,451,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,897,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,119788,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,119785,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,119780,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,119751,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,119753,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,887,SSA,Millions of Dollars,q,1948-01-01,2022-07-01,0
+state,1062,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
+state,1616,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,131241,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,131253,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,131313,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131379,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,1374,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+state,1442,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+country,990,NSA,Percent,a,1975-01-01,2020-01-01,0
+state,218,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
+state,637,SSA,Millions of Dollars,q,1948-01-01,2022-07-01,0
+state,1831,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,24,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+country,100626,NSA,Percent of GDP,a,2004-01-01,2021-01-01,0
+state,248,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,41,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,872,NSA,Dollars,a,1992-01-01,2017-01-01,0
+country,1881,NSA,Percent of GDP,a,1972-01-01,2014-01-01,0
+country,1666,NSA,Special Drawing Rights,a,1955-01-01,2014-01-01,0
+country,1876,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
+state,1418,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
+state,49,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+country,1856,NSA,Percent,a,1983-01-01,2019-01-01,0
+country,158,NSA,Percent,a,1999-01-01,2019-01-01,0
+country,2105,NSA,Percent,a,1992-01-01,2020-01-01,0
+country,25394,NSA,Percent,a,1996-01-01,2020-01-01,0
+country,25411,NSA,Percent,a,1996-01-01,2020-01-01,0
+country,188,NSA,Percent,a,1960-01-01,2020-01-01,0
+country,1745,NSA,Percent,a,1960-01-01,2020-01-01,0
+country,1947,NSA,Percent of People Ages 15 and Above,a,1970-01-01,2021-01-01,0
+country,1610,NSA,Percent of Total,a,1960-01-01,2021-01-01,0
+country,200057,NSA,Percent,a,1960-01-01,2022-01-01,0
+country,351,SA,"US Dollars, monthly level",a,1960-01-01,2022-01-01,1
+country,100986,NSA,Millions of US Dollars,q,1966-01-01,2022-10-01,1
+country,3662,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3892,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5219,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4767,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4743,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5181,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,1859,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,1427,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,747,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4839,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,2196,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,155420,NSA,Millions of Dollars,m,1985-01-01,2023-01-01,1
+country,2194,NSA,Percent Change,a,2013-01-01,2023-01-01,0
+country,1346,NSA,Percent,a,1996-01-01,2020-01-01,0
+state,270,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+state,171,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+state,1973,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+state,1821,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
+country,877,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
+state,330,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,131311,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131345,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+state,131351,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131354,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131378,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+state,131324,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131381,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131393,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131403,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131424,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131492,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+country,280215,NSA,Index 2010=100,a,1960-01-01,2017-01-01,0
+country,2149,NSA,Percent,a,1980-01-01,2019-01-01,0
+country,1455,NSA,Index 2015=100,m,1970-01-01,2023-02-01,0
+country,1617,SA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
+state,2170,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+country,1077,NSA,Percent,a,1960-01-01,2020-01-01,0
+state,131278,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131320,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131326,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131329,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131344,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131335,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131396,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131405,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131438,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+country,3614,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+state,831,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,134654,NSA,US PCE Index 2012=100,a,2008-01-01,2021-01-01,0
+state,314,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,156861,NSA,Percent,w,1984-06-02,2023-03-04,0
+state,372,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1236,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1700,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1886,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,153,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,200,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
+state,278,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
+state,743,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,285,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1512,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1692,SSA,Millions of Dollars,q,1948-01-01,2022-07-01,0
+state,119769,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,119787,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,119759,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131348,NSA,Index 2009=100,a,1997-01-01,2016-01-01,0
+state,131274,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131280,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131364,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,131370,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,131398,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131437,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131450,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131478,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,1464,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+state,331,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+state,933,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,513,NSA,Dollars,a,1992-01-01,2016-01-01,0
+state,1304,NSA,Dollars,a,1997-01-01,2017-01-01,0
+state,1854,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,415,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1126,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,838,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1850,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,499,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,157,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,693,NSA,Dollars,a,1992-01-01,2017-01-01,0
+country,100936,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,2185,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+state,930,NSA,Dollars,a,2007-01-01,2016-01-01,0
+country,2049,NSA,Percent,a,1999-01-01,2019-01-01,0
+country,308,NSA,Percent,a,1999-01-01,2019-01-01,0
+country,1592,NSA,Percent,a,1980-01-01,2019-01-01,0
+country,1263,NSA,Percent,a,1980-01-01,2019-01-01,0
+country,1346,NSA,Percent,a,1996-01-01,2020-01-01,0
+country,1064,NSA,Millions of 2000 Dollars,a,1960-01-01,2020-01-01,0
+country,1127,NSA,Percent,a,1975-01-01,2020-01-01,0
+country,990,NSA,Percent,a,1975-01-01,2020-01-01,0
+country,1498,NSA,Number,a,2004-01-01,2021-01-01,0
+country,1480,SA,Index 2015=100,a,1960-01-01,2022-01-01,0
+country,1543,NSA,Percent per Annum,q,1948-01-01,2022-07-01,0
+country,100965,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
+country,2214,NSA,Index 2015=100,a,1960-01-01,2022-01-01,0
+country,228,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
+country,4731,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3799,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,1320,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4963,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3668,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5127,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4795,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5284,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5151,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3614,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5121,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,1121,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3769,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,815,NSA,Percent of GDP,a,1990-01-01,2023-01-01,0
+state,1638,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,127,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+state,598,NSA,"Persons, 4-Quarter Moving Average",q,2003-10-01,2022-07-01,0
+country,2105,NSA,Percent,a,1992-01-01,2020-01-01,0
+country,1370,NSA,Z-score,a,1996-01-01,2020-01-01,0
+country,25411,NSA,Percent,a,1996-01-01,2020-01-01,0
+state,131246,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131333,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131327,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131330,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131384,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131455,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+country,652,NSA,Index 2010=100,a,1960-01-01,2017-01-01,0
+country,1455,NSA,Index 2015=100,q,1970-01-01,2022-10-01,0
+country,2070,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
+country,103,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
+state,131254,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131278,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131287,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131332,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131386,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131429,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131457,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131341,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+country,38,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,3608,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3644,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+state,246342,NSA,Level,m,2016-07-01,2023-02-01,0
+country,221,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
+state,697,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
+state,2093,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1292,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,152,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1373,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,307,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,2017,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,684,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,119786,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,119764,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,1686,SSA,Millions of Dollars,q,1948-01-01,2022-07-01,0
+state,1015,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,131304,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131328,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131331,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131376,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131394,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131425,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131462,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,134644,NSA,Index,a,2008-01-01,2021-01-01,0
+state,134648,NSA,Index,a,2008-01-01,2021-01-01,0
+state,134649,NSA,Index,a,2008-01-01,2021-01-01,0
+state,726,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+state,1867,NSA,Thousands of Dollars,a,1951-01-01,2021-01-01,0
+state,715,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
+state,1550,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1825,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,413,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,40,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,644,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,561,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1013,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1403,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,429,NSA,Dollars,a,1992-01-01,2016-01-01,0
+state,1971,NSA,Dollars,a,1992-01-01,2016-01-01,0
+state,1651,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+country,293,NSA,Index,a,1996-01-01,2014-01-01,0
+country,889,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,2173,NSA,Percent,a,2011-01-01,2017-01-01,0
+country,2149,NSA,Percent,a,1980-01-01,2019-01-01,0
+country,816,NSA,Current U.S. Dollars,a,1960-01-01,2021-01-01,0
+country,124,NSA,Persons,a,1967-01-01,2012-01-01,0
+country,32691,NSA,Percent of GDP,a,2004-01-01,2021-01-01,0
+country,2116,SA,Growth rate previous period,a,1960-01-01,2022-01-01,1
+country,3593,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
+country,572,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3886,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5225,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,1698,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3692,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3921,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3898,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,871,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4801,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3698,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4851,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4784,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3811,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3632,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3644,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5243,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4845,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4979,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,449,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4761,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,1115,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3722,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,246376,NSA,Millions of Dollars,m,1985-01-01,2023-01-01,1
+country,106,NSA,Percent Change,a,2016-01-01,2023-01-01,0
+state,1182,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+country,100920,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,1881,NSA,Percent of GDP,a,1972-01-01,2014-01-01,0
+state,131249,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131300,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131315,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131375,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131397,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131458,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131480,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,1100,NSA,Number,q,1984-01-01,2020-07-01,0
+state,1378,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+country,264,NSA,Number,a,2004-01-01,2021-01-01,0
+country,1498,NSA,Number,a,2004-01-01,2021-01-01,0
+state,131310,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131362,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+country,3638,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+state,1991,NSA,Thousands of Persons,a,1999-01-01,2012-01-01,0
+state,134656,NSA,US PCE Index 2012=100,a,2008-01-01,2021-01-01,0
+state,87,SA,Percent,m,1982-01-01,2020-02-01,0
+country,369,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
+country,1452,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
+country,699,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+state,1313,SA,Units,m,1988-01-01,2023-01-01,0
+state,2084,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1721,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1572,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
+state,1092,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,306,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,2083,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,935,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1041,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,774,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1623,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1641,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1391,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,273,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1933,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,119774,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,119783,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,119747,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,119761,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,119756,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+country,1745,NSA,Percent,a,1960-01-01,2020-01-01,0
+state,131265,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131280,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,131352,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131337,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,200050,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131505,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,1437,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,802,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
+country,2138,NSA,Percent,a,1975-01-01,2020-01-01,0
+country,84,NSA,Percent of GDP,a,1960-01-01,2016-01-01,0
+state,1154,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1118,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,981,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,940,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,1318,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,613,NSA,Dollars,a,2011-01-01,2017-01-01,0
+state,249,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,798,NSA,Dollars,a,1992-01-01,2017-01-01,0
+country,877,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
+country,422,NSA,Percent,a,1960-01-01,2020-01-01,0
+country,1043,NSA,Current U.S. Dollars,a,1960-01-01,2021-01-01,0
+country,1832,NSA,Current U.S. Dollars,a,1960-01-01,2021-01-01,0
+country,349,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3577,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
+country,3590,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
+country,4957,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3728,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5015,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3805,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4749,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5175,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3841,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5071,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,2137,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,643,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,4902,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5139,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5089,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,5157,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,3910,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,281294,NSA,Growth rate previous period,m,1960-01-01,2023-02-01,0
+country,280,NSA,Percent of GDP,a,2021-01-01,2027-01-01,0
+state,1298,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
+country,998,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
+state,131447,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131282,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131285,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131318,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131345,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131360,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131378,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131336,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131387,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131390,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131416,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131449,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,131492,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
+state,131495,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
+state,1718,SA,Index 2007=100,m,1979-01-01,2022-12-01,0
+country,2077,NSA,Growth rate same period previous year,a,1960-01-01,2022-01-01,0
+country,1601,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
+country,2070,NSA,Percent of GDP,a,1960-01-01,2016-01-01,0
+country,605,NSA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
+country,1076,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
+country,1741,NSA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
+country,888,NSA,Number,a,2004-01-01,2021-01-01,0
+country,1909,NSA,Number,a,2004-01-01,2021-01-01,0
+state,131296,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,200048,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
+state,131365,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131444,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131479,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+country,3593,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
+country,3596,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
+country,1592,NSA,Percent,a,1980-01-01,2019-01-01,0
+state,458,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+state,2228,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
+country,26,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
+country,945,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
+country,1408,NSA,"Number per 100,000 adults",a,2004-01-01,2019-01-01,0
+state,894,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
+state,792,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,258,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,1636,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,174,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,870,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
+state,125,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
+state,119768,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,119789,NSA,Dollars,a,1997-01-01,2021-01-01,0
+state,882,NSA,Dollars,a,1929-01-01,2021-01-01,0
+state,119748,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,119758,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
+state,131250,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131271,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131277,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131283,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131313,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,131319,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131379,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,131382,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131388,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
+state,131391,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
+state,1836,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
+country,84,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
+state,1536,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,207,NSA,Dollars,a,1997-01-01,2017-01-01,0
+state,302,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,377,NSA,Dollars,a,1992-01-01,2017-01-01,0
+state,2183,NSA,Dollars,a,1992-01-01,2017-01-01,0

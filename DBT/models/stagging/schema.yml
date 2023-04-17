@@ -39,7 +39,7 @@ models:
         - name: groupid
           description: groupid accoiate with the value
 
-    - name: stg_series
+    - name: stg_series_dev
       description: Category id name and Parent id of the FRED website
       columns:
         - name: id
