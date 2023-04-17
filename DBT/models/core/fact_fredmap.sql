@@ -25,6 +25,7 @@ select
 m.date,
 FORMAT_DATE('%b-%g',m.date) as monthyear,
 ifnull(m.region,'Missing') as region,
+ifnull(co.code,'Missing') as countrycode,
 ifnull(co.continent,'Missing') as continent,
 ifnull(co.sub_region,'Missing') as sub_region ,
 co.latitude ,
