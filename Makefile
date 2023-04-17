@@ -17,11 +17,10 @@ deployment-create:
 
 
 vm-connect:
-	ssh -i ~/.ssh/fred_project ${Email}@${vm_Externalip}
+	ssh -i ~/.ssh/fred_project ${Email}@${vm_Externalipfred}
+# ssh -i ~/.ssh/fred_project ${Email}@${vm_Externalip}
 # May need to run "sudo chmod 777 Final_Project_FredETE" to make it accessable
 
-vm-connectfred:
-	ssh -i ~/.ssh/fred_project ${Email}@${vm_Externalipfred}
 
 vm-setup:
 	sudo apt-get update -y
@@ -38,5 +37,5 @@ vm-copycred:
 # gcloud compute scp --project="${Gcp_Project_id}" --zone="${Gcp_Zone}" .env ${Email}@productionvm:"./Final_Project_FredETE/"
 # May need to run "sudo chmod 777 Final_Project_FredETE" to make it accessable
 vm-codecopy:	
-	gcloud compute scp --project="${Gcp_Project_id}" --zone="${Gcp_Zone}" flows/Fred_Series.py ${Email}@fred-productionapi:"./Final_Project_FredETE/flows/"
+	gcloud compute scp --project="${Gcp_Project_id}" --zone="${Gcp_Zone}" flows/Fred_MapAPI.py ${Email}@fred-productionapi:"./Final_Project_FredETE/flows/"
 # gcloud compute scp --project="${Gcp_Project_id}" --zone="${Gcp_Zone}" flows/Fred_Series.py ${Email}@productionvm:"./Final_Project_FredETE/flows/"
