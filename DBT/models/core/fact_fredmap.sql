@@ -19,6 +19,7 @@ country as (
 
 select
 m.date,
+FORMAT_DATE('%b-%g',m.date) as monthyear,
 m.region,
 co.continent,
 co.sub_region,

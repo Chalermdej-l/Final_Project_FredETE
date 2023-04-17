@@ -1,0 +1,13 @@
+{{config(materialized="view")}}
+
+select 
+ [region_type]
+      ,[series_group]
+      ,[season]
+      ,[units]
+      ,[frequency]
+      ,EXTRACT(DATE FROM min_date) as mindate
+      ,EXTRACT(DATE FROM max_date) as maxdate
+ from {{ ref('series_group') }}
+ where active = 1
+
