@@ -14,7 +14,11 @@ category as (
 ),
 country as (
     select * 
-    from {{ ref('dim_country') }}
+  from {{ref('country')}}
+),
+series_group as (
+    select * 
+    from {{ ref('series_group') }}
 )
 
 select
@@ -23,6 +27,7 @@ FORMAT_DATE('%b-%g',m.date) as monthyear,
 m.region,
 co.continent,
 co.sub_region,
+sg.title as grouptitle,
 s.title as seriestitle,
 s.frequency,
 m.value,
@@ -32,11 +37,14 @@ c.name as categoryname,
 c.parent_name,
 s.popularity,
 s.group_popularity,
-m.series_id
 from map m
 inner join series s
 on m.series_id = s.id
+inner join series_group sg
+on m.groupid = sg.series_group
 left join category c
 on s.category_id = c.id 
 left join country co
 on m.code = co.code
+where m.value != 0 and m.value is not null
+and sg.Active = 1

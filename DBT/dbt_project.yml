@@ -42,8 +42,9 @@ seeds:
   final_project_fred:
     series_group:
       +column_types:
+        title: string
         region_type: string
-        series_group: integer
+        series_group: string
         season: string
         units: string
         frequency: string
