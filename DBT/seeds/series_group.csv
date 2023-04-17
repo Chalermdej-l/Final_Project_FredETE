@@ -1,1114 +1,1114 @@
-region_type,series_group,season,units,frequency,min_date,max_date,Active
-country,400,NSA,Index,a,1997-01-01,2014-01-01,0
-country,100954,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,493,NSA,Percent,a,1970-01-01,2020-01-01,0
-country,1909,NSA,Number,a,2004-01-01,2021-01-01,0
-country,506,NSA,Percent,a,1960-01-01,2021-01-01,0
-country,281299,SA,Growth rate previous period,a,1960-01-01,2022-01-01,0
-country,100903,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
-country,5207,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3674,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3823,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4875,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4725,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5272,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4991,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,268,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4807,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3869,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5100,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,1260,NSA,Percent Change,a,2016-01-01,2023-01-01,0
-country,540,NSA,Percent Change,a,1990-01-01,2023-01-01,0
-country,100954,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,391,NSA,Percent,a,1992-01-01,2020-01-01,0
-state,131240,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131264,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131339,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131461,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131483,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,1594,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-country,1214,SA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
-country,1617,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
-state,714,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,1781,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,131266,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131266,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131269,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131272,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131299,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131317,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131368,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131371,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131402,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131414,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131439,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-country,3626,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,469,NSA,Per 100 People,a,1960-01-01,2021-01-01,0
-country,657,NSA,Percent,a,1960-01-01,2020-01-01,0
-state,1795,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,1313,NSA,Units,m,1988-01-01,2023-01-01,0
-state,1784,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,667,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1593,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,173,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1280,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
-state,685,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,403,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1138,NSA,Number of Firms,a,2011-01-01,2017-01-01,0
-state,1444,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1294,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1151,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,737,NSA,Number of Firms,a,2007-01-01,2017-01-01,0
-state,986,NSA,Number of Firms,a,1997-01-01,2017-01-01,0
-state,324,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
-state,119778,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,119781,NSA,Dollars,a,1997-01-01,2021-01-01,0
-country,124,NSA,Persons,5 Year,1967-01-01,2012-01-01,0
-country,124,NSA,Persons,a,1960-01-01,2021-01-01,0
-state,131241,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131256,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131259,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131268,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131298,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131312,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131346,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,131355,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131361,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131401,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,134647,NSA,Index,a,2008-01-01,2021-01-01,0
-state,134645,NSA,Index,a,2008-01-01,2021-01-01,0
-state,115,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-state,1009,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-state,1430,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-state,1875,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-state,926,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
-country,32691,NSA,Percent of GDP,a,2004-01-01,2021-01-01,0
-country,32697,NSA,Percent of GDP,a,2004-01-01,2021-01-01,0
-state,1227,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,242,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1479,NSA,Dollars,a,1992-01-01,2017-01-01,0
-country,1545,NSA,Percent,a,1995-01-01,2013-01-01,0
-country,1913,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
-country,1895,NSA,Percent,a,1987-01-01,2019-01-01,0
-country,1370,NSA,Z-score,a,1996-01-01,2020-01-01,0
-country,1495,NSA,Percent,a,1996-01-01,2020-01-01,0
-country,657,NSA,Percent,a,1960-01-01,2020-01-01,0
-country,2222,NSA,Number,a,2004-01-01,2021-01-01,0
-country,32697,NSA,Percent of GDP,a,2004-01-01,2021-01-01,0
-country,2116,SA,Growth rate same period previous year,a,1960-01-01,2022-01-01,1
-country,1480,SA,Growth rate previous period,a,1961-01-01,2022-01-01,0
-country,636,NSA,Millions of US Dollars,q,1952-01-01,2022-07-01,1
-country,63,NSA,Millions of US Dollars,q,1952-01-01,2022-07-01,1
-country,1764,NSA,Percent per Annum,q,1928-01-01,2022-07-01,0
-country,2014,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
-country,1239,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
-country,3740,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,1255,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3829,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5169,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3847,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5290,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,80,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3626,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,1240,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4951,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3875,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-state,942,NSA,Index 1980:Q1=100,q,1975-01-01,2022-10-01,0
-country,100936,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,1491,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
-country,767,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
-state,131258,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131303,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131366,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131409,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131474,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,656,SA,Persons,m,1976-01-01,2022-12-01,0
-country,280207,NSA,Index 2010=100,a,1960-01-01,2017-01-01,0
-state,468,SSA,Millions of Dollars,q,1948-01-01,2022-07-01,0
-country,605,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
-state,131347,NSA,Millions of Dollars,a,1997-01-01,2016-01-01,0
-state,131248,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131344,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131362,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131374,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131457,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131482,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-country,3650,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-state,2088,NSA,Percent,a,1984-01-01,2022-01-01,0
-state,156241,NSA,Number,w,1984-06-09,2023-03-11,0
-country,1064,NSA,Millions of 2000 Dollars,a,1960-01-01,2020-01-01,0
-state,2201,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
-country,1335,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,889,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-state,1160,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,866,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1798,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1473,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,756,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1252,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1058,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,769,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,921,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,30814,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
-country,73,NSA,Number of Listed Companies per Million People,a,1975-01-01,2020-01-01,0
-state,119767,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,119766,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,77,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,131262,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131286,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131295,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131417,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131472,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131490,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,134652,NSA,Thousands of Chained 2012 Dollars,a,2008-01-01,2021-01-01,0
-state,134643,NSA,Index,a,2008-01-01,2021-01-01,0
-state,1684,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-state,712,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-state,1159,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-state,1691,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-state,1613,SSA,Millions of Dollars,q,1990-01-01,2013-01-01,0
-state,190,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,2207,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1315,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1088,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1409,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,416,NSA,Dollars,a,1992-01-01,2017-01-01,0
-country,1739,NSA,2005 International Dollars per Person,a,1950-01-01,2010-01-01,0
-country,100975,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,1340,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
-country,1835,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
-country,133,NSA,Percent,a,1990-01-01,2019-01-01,0
-country,26702,NSA,Percent,a,1962-01-01,2020-01-01,0
-country,351,SA,Growth rate previous period,a,1960-01-01,2022-01-01,1
-country,3757,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3817,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,2229,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4929,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5163,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5145,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3596,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,82,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,2129,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4773,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,617,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,142,NSA,Percent Change,a,1990-01-01,2023-01-01,0
-country,143,NSA,Percent of GDP,a,2021-01-01,2027-01-01,0
-state,1938,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,1298,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-state,1182,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-state,186,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-state,198,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-state,2065,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-country,100975,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-state,131240,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-state,131255,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131267,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131267,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-state,131270,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131276,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131294,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131321,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131357,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131436,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131461,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-state,131465,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-country,321,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
-country,188,NSA,Percent,a,1960-01-01,2020-01-01,0
-country,1155,NSA,1=Most Business-friendly Regulations,a,2015-01-01,2019-01-01,0
-state,1245,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-country,364,NSA,Number,a,2004-01-01,2021-01-01,0
-country,2222,NSA,Number,a,2004-01-01,2021-01-01,0
-state,124475,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131251,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131263,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131314,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131368,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131380,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131415,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131439,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131464,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-country,795,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,3632,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3620,NSA,Index 2015=100,m,1996-01-01,2016-01-01,0
-country,916,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,39,NSA,Percent,a,1960-01-01,2022-01-01,0
-country,39,NSA,Percent,q,1960-01-01,2022-10-01,0
-country,600,NSA,Percent,a,1979-01-01,2019-01-01,0
-country,67,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
-country,1606,NSA,People,5 Year,1962-01-01,2017-01-01,0
-state,88,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,543,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1461,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,236,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1791,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1961,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,431,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1952,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1116,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,717,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1808,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1906,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1113,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,718,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
-state,119742,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131247,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131346,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131419,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131442,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,134653,NSA,Chained 2012 Dollars,a,2008-01-01,2021-01-01,0
-state,134640,NSA,Index,a,2008-01-01,2021-01-01,0
-state,728,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-state,2102,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-state,750,SSA,Thousands of Dollars,q,1948-01-01,2022-07-01,0
-state,275,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,634,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1639,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,975,NSA,Dollars,a,1992-01-01,2017-01-01,0
-country,1782,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,221,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
-country,1335,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,5255,NSA,Index 2015=100,m,1996-01-01,2016-01-01,0
-country,652,NSA,Index 2010=100,a,1960-01-01,2017-01-01,0
-state,1798,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-country,176,NSA,Percent,a,1998-01-01,2019-01-01,0
-country,548,NSA,Percent,a,1998-01-01,2019-01-01,0
-country,876,NSA,Percent,a,1998-01-01,2019-01-01,0
-country,90,NSA,Percent,a,1960-01-01,2020-01-01,0
-country,1242,NSA,Percent,a,1960-01-01,2020-01-01,0
-country,1192,NSA,Index,a,1984-01-01,2020-01-01,0
-country,219,NSA,Percent of GDP,a,1980-01-01,2021-01-01,0
-country,2148,NSA,"Number per 1,000 Live Births",a,1960-01-01,2021-01-01,0
-country,469,NSA,Per 100 People,a,1960-01-01,2021-01-01,0
-country,83,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
-country,3775,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3680,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5296,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5261,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,1582,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3734,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,498,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,745,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4869,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3716,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,938,NSA,Percent of Fiscal Year GDP,a,2016-01-01,2023-01-01,0
-state,835,NSA,Number of Exemptions,a,1989-01-01,2020-01-01,0
-state,2062,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-state,2065,NSA,Thousands of Persons,m,1939-01-01,2023-01-01,0
-country,422,NSA,Percent,a,1960-01-01,2020-01-01,0
-state,131291,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131294,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-state,131309,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-state,131363,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-state,131418,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-country,2077,NSA,Growth rate previous period,q,1960-01-01,2022-10-01,0
-country,2070,NSA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
-country,1076,NSA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
-country,1741,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
-state,131251,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131293,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131353,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131377,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131392,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131435,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,200046,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131503,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-country,3590,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
-country,3582,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-state,1284,NSA,Percent,a,1999-01-01,2012-01-01,0
-state,299,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-country,83,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
-state,1537,SA,Units,m,1988-01-01,2023-01-01,0
-state,1083,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,346,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1918,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1193,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,114,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,677,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1834,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,964,NSA,Number of Firms,a,2002-01-01,2016-01-01,0
-state,139,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,924,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
-state,1769,NSA,Number of Firms,a,2007-01-01,2017-01-01,0
-state,1816,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,119752,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,119760,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-country,1823,NSA,Percent,a,1960-01-01,2020-01-01,0
-state,131289,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131307,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131385,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131391,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131410,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131419,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,131459,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,1224,SA,Percent,m,1976-01-01,2022-12-01,0
-state,1120,NSA,Dollars,a,1997-01-01,2017-01-01,0
-state,2160,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,884,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,823,NSA,Dollars,a,1997-01-01,2017-01-01,0
-state,1778,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1466,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,748,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,746,NSA,Dollars,a,1992-01-01,2017-01-01,0
-country,805,NSA,Percent,a,2004-01-01,2013-01-01,0
-country,1649,NSA,Index,a,2010-01-01,2014-01-01,0
-country,767,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
-country,1452,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
-country,699,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,26,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,974,NSA,Percent,a,1980-01-01,2019-01-01,0
-country,1501,NSA,Percent of GDP,a,1970-01-01,2020-01-01,0
-country,1077,NSA,Percent,a,1960-01-01,2020-01-01,0
-country,1460,NSA,2010 U.S. Dollars,a,1960-01-01,2021-01-01,0
-country,264,NSA,Number,a,2004-01-01,2021-01-01,0
-country,2116,SA,"US Dollars, monthly level",a,1960-01-01,2022-01-01,1
-country,1195,SA,"US Dollars, monthly level",a,1960-01-01,2022-01-01,1
-country,100887,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
-country,2012,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
-country,1301,NSA,Index 2020=100,m,1994-01-01,2023-02-01,0
-country,5059,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,625,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3793,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,1908,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5133,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4881,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4755,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,288,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,801,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3602,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3638,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,689,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,489,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,1715,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3781,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-state,171,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-state,127,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-state,186,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-country,100965,NSA,Billions of US Dollars,q,1993-07-01,2022-10-01,1
-country,1913,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
-country,1786,NSA,Percent,a,1960-01-01,2020-01-01,0
-country,463,NSA,Percent,a,1996-01-01,2020-01-01,0
-country,332,NSA,Percent,a,1996-01-01,2020-01-01,0
-state,131249,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-state,131447,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-state,131261,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131273,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131363,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131369,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131400,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-state,131406,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131412,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131418,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-country,925,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
-country,931,NSA,Number,a,2004-01-01,2021-01-01,0
-state,690,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131260,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131290,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131305,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131356,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131359,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131383,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131389,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131470,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,4,NSA,Percent,a,1999-01-01,2012-01-01,0
-state,2122,NSA,Percent,a,1986-01-01,2022-01-01,0
-state,246343,NSA,Percent,m,2017-07-01,2023-02-01,0
-state,134655,NSA,US PCE Index 2012=100,a,2008-01-01,2021-01-01,0
-state,1293,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
-country,2148,NSA,"Number per 1,000 Live Births",a,1960-01-01,2021-01-01,0
-state,1213,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
-country,1495,NSA,Percent,a,1996-01-01,2020-01-01,0
-state,777,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,1023,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
-country,1338,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
-country,1895,NSA,Percent,a,1987-01-01,2019-01-01,0
-state,1208,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,212,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1395,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1578,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,551,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1654,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1131,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1740,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1643,NSA,Number of Firms,a,1997-01-01,2017-01-01,0
-state,768,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1701,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,541,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1325,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,658,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,119770,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,131349,NSA,Millions of Chained 2009 Dollars,a,1997-01-01,2016-01-01,0
-state,131244,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131253,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131292,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,131334,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131316,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131352,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,131364,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131325,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131462,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,134650,NSA,Thousands of Chained 2012 Dollars,a,2008-01-01,2021-01-01,0
-state,134642,NSA,Index,a,2008-01-01,2021-01-01,0
-state,2139,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-state,149,NSA,Thousands of Dollars,a,1951-01-01,2021-01-01,0
-state,213,NSA,Thousands of Dollars,a,1951-01-01,2021-01-01,0
-state,1457,NSA,Thousands of Dollars,q,1984-01-01,1993-10-01,0
-state,840,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,973,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1117,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,410,NSA,Dollars,a,1992-01-01,2017-01-01,0
-country,1717,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
-country,38,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,1136,NSA,Percent,a,2011-01-01,2017-01-01,0
-country,1205,NSA,Percent,a,2011-01-01,2017-01-01,0
-country,1408,NSA,"Number per 100,000 adults",a,2004-01-01,2019-01-01,0
-country,1786,NSA,Percent,a,1960-01-01,2020-01-01,0
-country,1540,NSA,Percent,a,1996-01-01,2020-01-01,0
-country,247,NSA,Percent,a,1995-01-01,2020-01-01,0
-country,1823,NSA,Percent,a,1960-01-01,2020-01-01,0
-country,364,NSA,Number,a,2004-01-01,2021-01-01,0
-country,888,NSA,Number,a,2004-01-01,2021-01-01,0
-country,931,NSA,Number,a,2004-01-01,2021-01-01,0
-country,100626,NSA,Percent of GDP,a,2004-01-01,2021-01-01,0
-country,435,NSA,Millions of US Dollars,q,1952-01-01,2022-07-01,1
-country,369,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
-country,965,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5021,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3710,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4565,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5027,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,2059,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
-country,4997,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3746,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4857,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5065,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3704,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4813,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4908,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4985,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,1143,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3763,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5249,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3863,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,2052,NSA,U.S. Dollars,a,2016-01-01,2023-01-01,0
-state,1350,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-country,90,NSA,Percent,a,1960-01-01,2020-01-01,0
-country,1540,NSA,Percent,a,1996-01-01,2020-01-01,0
-state,131252,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131279,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131306,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131421,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131452,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-country,2077,NSA,Growth rate previous period,a,1960-01-01,2022-01-01,0
-state,156862,NSA,Number,w,1984-06-02,2023-03-04,0
-country,1455,NSA,Index 2015=100,a,1970-01-01,2022-01-01,0
-country,1601,SA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
-country,2070,SA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
-country,247,NSA,Percent,a,1995-01-01,2020-01-01,0
-state,226,NSA,Thousands of Dollars,q,1984-01-01,2001-10-01,0
-state,124475,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131275,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131308,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,200048,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131350,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131350,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131377,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131399,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131411,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,501,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,1801,NSA,Thousands of Persons,a,1999-01-01,2012-01-01,0
-country,39,NSA,Percent,m,1960-01-01,2023-02-01,0
-state,788,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-country,1835,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
-country,584,NSA,Millions of US Dollars,q,1966-01-01,2022-10-01,1
-state,1537,NSA,Units,m,1988-01-01,2023-01-01,0
-state,1297,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,765,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,432,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1533,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1241,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,518,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1200,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,520,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1756,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,201,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1484,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,119771,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,119776,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,119784,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,131250,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,131295,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,131301,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,200052,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131373,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131453,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131343,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,134651,NSA,Chained 2012 Dollars,a,2008-01-01,2021-01-01,0
-state,1549,NSA,Thousands of Persons,a,1900-01-01,2022-01-01,0
-country,1127,NSA,Percent,a,1975-01-01,2020-01-01,0
-country,84,NSA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
-country,84,SA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
-state,1534,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
-state,1071,NSA,Thousands of Dollars,q,1994-01-01,2020-07-01,0
-state,2150,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,2114,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1650,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,948,NSA,Dollars,a,2011-01-01,2017-01-01,0
-state,514,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1237,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,505,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,380,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1670,NSA,Dollars,a,1992-01-01,2016-01-01,0
-country,998,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
-country,795,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,67,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
-state,1359,NSA,Number of Firms,a,2002-01-01,2016-01-01,0
-state,884,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,561,NSA,Dollars,a,1992-01-01,2017-01-01,0
-country,300,NSA,Percent,a,1980-01-01,2019-01-01,0
-country,463,NSA,Percent,a,1996-01-01,2020-01-01,0
-country,1382,NSA,Births per Woman,a,1960-01-01,2020-01-01,0
-country,1515,NSA,Number of Years,a,1960-01-01,2020-01-01,0
-country,73,NSA,Number of Listed Companies per Million People,a,1975-01-01,2020-01-01,0
-country,281299,SA,Index 2015=100,a,1960-01-01,2022-01-01,0
-country,351,SA,Growth rate same period previous year,a,1960-01-01,2022-01-01,1
-country,2008,NSA,Millions of US Dollars,q,1952-01-01,2022-07-01,1
-country,584,NSA,Millions of US Dollars,q,1966-01-01,2022-10-01,1
-country,3835,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3787,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5083,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5213,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5237,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,477,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
-country,1915,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,470,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3686,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5278,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4863,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3650,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,861,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,675,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4940,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,994,NSA,Percent of Fiscal Year GDP,a,1990-01-01,2027-01-01,0
-state,2062,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-state,1973,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-country,25394,NSA,Percent,a,1996-01-01,2020-01-01,0
-state,131252,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-state,131291,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-state,131430,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131342,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-country,103,SA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
-country,1214,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
-country,321,SA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
-country,925,SA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
-country,1242,NSA,Percent,a,1960-01-01,2020-01-01,0
-state,759,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-country,1832,NSA,Current U.S. Dollars,a,1960-01-01,2021-01-01,0
-state,131242,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131248,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,690,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131284,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131389,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131420,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131460,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-country,308,NSA,Percent,a,1999-01-01,2019-01-01,0
-country,3602,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-state,246344,NSA,Percent,m,2017-07-01,2023-02-01,0
-country,1947,NSA,Percent of People Ages 15 and Above,a,1970-01-01,2021-01-01,0
-state,1514,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1029,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,74,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1569,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
-state,334,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,281,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,2011,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1883,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,119779,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,119743,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,119754,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,119765,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,119757,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,341,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
-state,131292,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131404,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131475,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131487,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,1191,NSA,Millions of Chained 2012 Dollars,a,2008-01-01,2021-01-01,0
-state,1863,NSA,Percent,a,1986-01-01,2022-01-01,0
-state,915,NSA,Thousands of Dollars,a,1951-01-01,2021-01-01,0
-state,956,NSA,Thousands of Dollars,a,1951-01-01,2021-01-01,0
-state,232,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1609,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,366,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1765,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,195,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,804,NSA,Dollars,a,1997-01-01,2017-01-01,0
-state,1190,NSA,Dollars,a,1992-01-01,2016-01-01,0
-country,971,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
-state,232,NSA,Dollars,a,1992-01-01,2017-01-01,0
-country,1308,NSA,Percent,a,1998-01-01,2019-01-01,0
-country,600,NSA,Percent,a,1979-01-01,2019-01-01,0
-country,1225,NSA,Percent,a,1980-01-01,2019-01-01,0
-country,391,NSA,Percent,a,1992-01-01,2020-01-01,0
-country,332,NSA,Percent,a,1996-01-01,2020-01-01,0
-country,26719,NSA,Percent,a,1962-01-01,2020-01-01,0
-country,2138,NSA,Percent,a,1975-01-01,2020-01-01,0
-country,912,NSA,Millions of US Dollars,q,1966-01-01,2022-10-01,1
-country,1528,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
-country,713,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5231,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,1286,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3904,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5053,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5009,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5077,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5302,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,1253,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,117,NSA,Index 2020=100,m,1994-01-01,2023-02-01,0
-state,270,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-state,1350,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-country,353,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
-country,1717,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
-country,1340,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
-country,1140,NSA,Percent,5 Year,1970-01-01,2010-01-01,0
-state,131288,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131297,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131309,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131339,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-state,131372,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131390,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-state,131445,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,394,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
-state,656,NSA,Persons,m,1976-01-01,2022-12-01,0
-state,405,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,156860,NSA,Number,w,1984-06-02,2023-03-04,0
-state,131245,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-country,3577,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
-country,293,NSA,Index,a,1996-01-01,2014-01-01,0
-country,26702,NSA,Percent,a,1962-01-01,2020-01-01,0
-state,1986,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,2054,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1130,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1189,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1797,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1212,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,2233,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1785,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1261,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1911,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1939,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,2021,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1544,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1618,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1447,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
-state,649,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
-state,451,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,897,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,119788,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,119785,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,119780,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,119751,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,119753,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,887,SSA,Millions of Dollars,q,1948-01-01,2022-07-01,0
-state,1062,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
-state,1616,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,131241,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,131253,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,131313,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131379,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,1374,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-state,1442,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-country,990,NSA,Percent,a,1975-01-01,2020-01-01,0
-state,218,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
-state,637,SSA,Millions of Dollars,q,1948-01-01,2022-07-01,0
-state,1831,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,24,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-country,100626,NSA,Percent of GDP,a,2004-01-01,2021-01-01,0
-state,248,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,41,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,872,NSA,Dollars,a,1992-01-01,2017-01-01,0
-country,1881,NSA,Percent of GDP,a,1972-01-01,2014-01-01,0
-country,1666,NSA,Special Drawing Rights,a,1955-01-01,2014-01-01,0
-country,1876,NSA,Billions of US Dollars,q,1966-01-01,2015-04-01,0
-state,1418,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
-state,49,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-country,1856,NSA,Percent,a,1983-01-01,2019-01-01,0
-country,158,NSA,Percent,a,1999-01-01,2019-01-01,0
-country,2105,NSA,Percent,a,1992-01-01,2020-01-01,0
-country,25394,NSA,Percent,a,1996-01-01,2020-01-01,0
-country,25411,NSA,Percent,a,1996-01-01,2020-01-01,0
-country,188,NSA,Percent,a,1960-01-01,2020-01-01,0
-country,1745,NSA,Percent,a,1960-01-01,2020-01-01,0
-country,1947,NSA,Percent of People Ages 15 and Above,a,1970-01-01,2021-01-01,0
-country,1610,NSA,Percent of Total,a,1960-01-01,2021-01-01,0
-country,200057,NSA,Percent,a,1960-01-01,2022-01-01,0
-country,351,SA,"US Dollars, monthly level",a,1960-01-01,2022-01-01,1
-country,100986,NSA,Millions of US Dollars,q,1966-01-01,2022-10-01,1
-country,3662,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3892,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5219,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4767,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4743,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5181,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,1859,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,1427,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,747,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4839,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,2196,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,155420,NSA,Millions of Dollars,m,1985-01-01,2023-01-01,1
-country,2194,NSA,Percent Change,a,2013-01-01,2023-01-01,0
-country,1346,NSA,Percent,a,1996-01-01,2020-01-01,0
-state,270,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-state,171,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-state,1973,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-state,1821,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
-country,877,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
-state,330,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,131311,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131345,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-state,131351,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131354,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131378,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-state,131324,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131381,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131393,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131403,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131424,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131492,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-country,280215,NSA,Index 2010=100,a,1960-01-01,2017-01-01,0
-country,2149,NSA,Percent,a,1980-01-01,2019-01-01,0
-country,1455,NSA,Index 2015=100,m,1970-01-01,2023-02-01,0
-country,1617,SA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
-state,2170,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-country,1077,NSA,Percent,a,1960-01-01,2020-01-01,0
-state,131278,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131320,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131326,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131329,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131344,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131335,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131396,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131405,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131438,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-country,3614,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-state,831,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,134654,NSA,US PCE Index 2012=100,a,2008-01-01,2021-01-01,0
-state,314,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,156861,NSA,Percent,w,1984-06-02,2023-03-04,0
-state,372,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1236,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1700,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1886,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,153,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,200,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
-state,278,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
-state,743,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,285,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1512,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1692,SSA,Millions of Dollars,q,1948-01-01,2022-07-01,0
-state,119769,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,119787,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,119759,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131348,NSA,Index 2009=100,a,1997-01-01,2016-01-01,0
-state,131274,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131280,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131364,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,131370,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,131398,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131437,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131450,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131478,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,1464,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-state,331,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-state,933,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,513,NSA,Dollars,a,1992-01-01,2016-01-01,0
-state,1304,NSA,Dollars,a,1997-01-01,2017-01-01,0
-state,1854,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,415,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1126,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,838,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1850,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,499,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,157,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,693,NSA,Dollars,a,1992-01-01,2017-01-01,0
-country,100936,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,2185,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-state,930,NSA,Dollars,a,2007-01-01,2016-01-01,0
-country,2049,NSA,Percent,a,1999-01-01,2019-01-01,0
-country,308,NSA,Percent,a,1999-01-01,2019-01-01,0
-country,1592,NSA,Percent,a,1980-01-01,2019-01-01,0
-country,1263,NSA,Percent,a,1980-01-01,2019-01-01,0
-country,1346,NSA,Percent,a,1996-01-01,2020-01-01,0
-country,1064,NSA,Millions of 2000 Dollars,a,1960-01-01,2020-01-01,0
-country,1127,NSA,Percent,a,1975-01-01,2020-01-01,0
-country,990,NSA,Percent,a,1975-01-01,2020-01-01,0
-country,1498,NSA,Number,a,2004-01-01,2021-01-01,0
-country,1480,SA,Index 2015=100,a,1960-01-01,2022-01-01,0
-country,1543,NSA,Percent per Annum,q,1948-01-01,2022-07-01,0
-country,100965,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
-country,2214,NSA,Index 2015=100,a,1960-01-01,2022-01-01,0
-country,228,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
-country,4731,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3799,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,1320,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4963,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3668,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5127,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4795,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5284,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5151,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3614,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5121,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,1121,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3769,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,815,NSA,Percent of GDP,a,1990-01-01,2023-01-01,0
-state,1638,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,127,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-state,598,NSA,"Persons, 4-Quarter Moving Average",q,2003-10-01,2022-07-01,0
-country,2105,NSA,Percent,a,1992-01-01,2020-01-01,0
-country,1370,NSA,Z-score,a,1996-01-01,2020-01-01,0
-country,25411,NSA,Percent,a,1996-01-01,2020-01-01,0
-state,131246,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131333,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131327,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131330,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131384,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131455,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-country,652,NSA,Index 2010=100,a,1960-01-01,2017-01-01,0
-country,1455,NSA,Index 2015=100,q,1970-01-01,2022-10-01,0
-country,2070,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
-country,103,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
-state,131254,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131278,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131287,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131332,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131386,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131429,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131457,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131341,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-country,38,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,3608,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3644,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-state,246342,NSA,Level,m,2016-07-01,2023-02-01,0
-country,221,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
-state,697,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
-state,2093,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1292,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,152,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1373,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,307,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,2017,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,684,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,119786,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,119764,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,1686,SSA,Millions of Dollars,q,1948-01-01,2022-07-01,0
-state,1015,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,131304,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131328,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131331,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131376,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131394,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131425,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131462,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,134644,NSA,Index,a,2008-01-01,2021-01-01,0
-state,134648,NSA,Index,a,2008-01-01,2021-01-01,0
-state,134649,NSA,Index,a,2008-01-01,2021-01-01,0
-state,726,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-state,1867,NSA,Thousands of Dollars,a,1951-01-01,2021-01-01,0
-state,715,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
-state,1550,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1825,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,413,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,40,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,644,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,561,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1013,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1403,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,429,NSA,Dollars,a,1992-01-01,2016-01-01,0
-state,1971,NSA,Dollars,a,1992-01-01,2016-01-01,0
-state,1651,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-country,293,NSA,Index,a,1996-01-01,2014-01-01,0
-country,889,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,2173,NSA,Percent,a,2011-01-01,2017-01-01,0
-country,2149,NSA,Percent,a,1980-01-01,2019-01-01,0
-country,816,NSA,Current U.S. Dollars,a,1960-01-01,2021-01-01,0
-country,124,NSA,Persons,a,1967-01-01,2012-01-01,0
-country,32691,NSA,Percent of GDP,a,2004-01-01,2021-01-01,0
-country,2116,SA,Growth rate previous period,a,1960-01-01,2022-01-01,1
-country,3593,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
-country,572,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3886,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5225,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,1698,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3692,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3921,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3898,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,871,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4801,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3698,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4851,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4784,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3811,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3632,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3644,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5243,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4845,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4979,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,449,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4761,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,1115,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3722,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,246376,NSA,Millions of Dollars,m,1985-01-01,2023-01-01,1
-country,106,NSA,Percent Change,a,2016-01-01,2023-01-01,0
-state,1182,NSA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-country,100920,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,1881,NSA,Percent of GDP,a,1972-01-01,2014-01-01,0
-state,131249,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131300,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131315,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131375,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131397,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131458,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131480,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,1100,NSA,Number,q,1984-01-01,2020-07-01,0
-state,1378,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-country,264,NSA,Number,a,2004-01-01,2021-01-01,0
-country,1498,NSA,Number,a,2004-01-01,2021-01-01,0
-state,131310,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131362,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-country,3638,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-state,1991,NSA,Thousands of Persons,a,1999-01-01,2012-01-01,0
-state,134656,NSA,US PCE Index 2012=100,a,2008-01-01,2021-01-01,0
-state,87,SA,Percent,m,1982-01-01,2020-02-01,0
-country,369,NSA,Millions of US Dollars,q,1962-10-01,2022-10-01,1
-country,1452,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
-country,699,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-state,1313,SA,Units,m,1988-01-01,2023-01-01,0
-state,2084,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1721,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1572,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
-state,1092,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,306,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,2083,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,935,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1041,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,774,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1623,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1641,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1391,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,273,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1933,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,119774,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,119783,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,119747,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,119761,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,119756,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-country,1745,NSA,Percent,a,1960-01-01,2020-01-01,0
-state,131265,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131280,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,131352,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131337,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,200050,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131505,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,1437,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,802,NSA,Thousands of Dollars,a,1942-01-01,2021-01-01,0
-country,2138,NSA,Percent,a,1975-01-01,2020-01-01,0
-country,84,NSA,Percent of GDP,a,1960-01-01,2016-01-01,0
-state,1154,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1118,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,981,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,940,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,1318,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,613,NSA,Dollars,a,2011-01-01,2017-01-01,0
-state,249,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,798,NSA,Dollars,a,1992-01-01,2017-01-01,0
-country,877,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
-country,422,NSA,Percent,a,1960-01-01,2020-01-01,0
-country,1043,NSA,Current U.S. Dollars,a,1960-01-01,2021-01-01,0
-country,1832,NSA,Current U.S. Dollars,a,1960-01-01,2021-01-01,0
-country,349,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3577,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
-country,3590,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
-country,4957,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3728,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5015,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3805,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4749,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5175,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3841,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5071,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,2137,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,643,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,4902,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5139,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5089,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,5157,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,3910,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,281294,NSA,Growth rate previous period,m,1960-01-01,2023-02-01,0
-country,280,NSA,Percent of GDP,a,2021-01-01,2027-01-01,0
-state,1298,SA,Thousands of Persons,m,1990-01-01,2023-01-01,0
-country,998,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
-state,131447,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131282,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131285,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131318,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131345,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131360,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131378,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131336,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131387,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131390,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131416,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131449,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,131492,SA,Index 2012=100,q,2005-01-01,2022-07-01,0
-state,131495,NSA,Index 2012=100,a,1997-01-01,2021-01-01,0
-state,1718,SA,Index 2007=100,m,1979-01-01,2022-12-01,0
-country,2077,NSA,Growth rate same period previous year,a,1960-01-01,2022-01-01,0
-country,1601,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
-country,2070,NSA,Percent of GDP,a,1960-01-01,2016-01-01,0
-country,605,NSA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
-country,1076,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
-country,1741,NSA,"US Dollars, Sum Over Component Sub-periods",q,1959-07-01,2016-10-01,0
-country,888,NSA,Number,a,2004-01-01,2021-01-01,0
-country,1909,NSA,Number,a,2004-01-01,2021-01-01,0
-state,131296,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,200048,SSA,Millions of Dollars,q,2005-01-01,2022-07-01,0
-state,131365,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131444,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131479,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-country,3593,NSA,Index 2015=100,m,2000-12-01,2023-02-01,0
-country,3596,NSA,Index 2015=100,m,1996-01-01,2023-02-01,0
-country,1592,NSA,Percent,a,1980-01-01,2019-01-01,0
-state,458,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-state,2228,NSA,Thousands of Dollars,q,1984-01-01,2020-07-01,0
-country,26,NSA,Billions of US Dollars,q,1993-07-01,2015-04-01,0
-country,945,NSA,Billions of US Dollars,q,1987-01-01,2015-04-01,0
-country,1408,NSA,"Number per 100,000 adults",a,2004-01-01,2019-01-01,0
-state,894,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
-state,792,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,258,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,1636,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,174,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,870,NSA,Number of Firms,a,1992-01-01,2017-01-01,0
-state,125,NSA,Number of Firms,a,1992-01-01,2016-01-01,0
-state,119768,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,119789,NSA,Dollars,a,1997-01-01,2021-01-01,0
-state,882,NSA,Dollars,a,1929-01-01,2021-01-01,0
-state,119748,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,119758,NSA,Millions of Dollars,a,1997-01-01,2021-01-01,0
-state,131250,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131271,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131277,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131283,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131313,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,131319,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131379,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,131382,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131388,NSA,Millions of Chained 2012 Dollars,a,1997-01-01,2021-01-01,0
-state,131391,SSA,Millions of Chained 2012 Dollars,q,2005-01-01,2022-07-01,0
-state,1836,SSA,Thousands of Dollars,q,1998-01-01,2022-07-01,0
-country,84,NSA,"US Dollars, Sum Over Component Sub-periods",a,1960-01-01,2016-01-01,0
-state,1536,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,207,NSA,Dollars,a,1997-01-01,2017-01-01,0
-state,302,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,377,NSA,Dollars,a,1992-01-01,2017-01-01,0
-state,2183,NSA,Dollars,a,1992-01-01,2017-01-01,0
+title,region_type,series_group,season,units,frequency,min_date,max_date,Active
+2014 Boone Indicator in Banking Market by Nation (Index),country,400,NSA,8,a,1997-01-01,2014-01-01,0
+"2015 Q2 Amount Outstanding Due Within One Year of International Debt Securities for General Government Sector, Nationality of Issuer by Nation (Billions of US Dollars)",country,100954,NSA,37,q,1993-07-01,2015-04-01,0
+2020 Remittance Inflows to GDP by Nation (Percent),country,493,NSA,22,a,1970-01-01,2020-01-01,0
+2021 Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 by Nation (Number),country,1909,NSA,50,a,2004-01-01,2021-01-01,0
+"2021 Inflation, consumer prices by Nation (Percent)",country,506,NSA,22,a,1960-01-01,2021-01-01,0
+2022 Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product by Nation (Growth rate previous period),country,281299,SA,14,a,1960-01-01,2022-01-01,1
+"2022 Q4 Amount Outstanding Due Within One Year of International Debt Securities for All Issuers, Residence of Issuer by Nation (Millions of US Dollars)",country,100903,NSA,12,q,1962-10-01,2022-10-01,1
+"2023 February Harmonized Index of Consumer Prices: Education, Health, and Social Protection  by Nation (Index 2015=100)",country,5207,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Food  by Nation (Index 2015=100),country,3674,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Footwear Including Repair  by Nation (Index 2015=100),country,3823,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Fuels and Lubricants for Personal Transport Equipment by Nation (Index 2015=100),country,4875,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Furniture and Furnishings  by Nation (Index 2015=100),country,4725,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Non-Energy Industrial Goods  by Nation (Index 2015=100),country,5272,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Other Major Durables for Recreation and Culture by Nation (Index 2015=100),country,4991,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Pets and Related Products; Veterinary and Other Services for Pets by Nation (Index 2015=100),country,268,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Pharmaceutical Products  by Nation (Index 2015=100),country,4807,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Refuse Collection  by Nation (Index 2015=100),country,3869,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Restaurants, cafés, and the Like by Nation (Index 2015=100)",country,5100,NSA,24,m,1996-01-01,2023-02-01,1
+2024 External Trade: Volume of Imports of Goods and Services by Nation (Percent Change),country,1260,NSA,32,a,2016-01-01,2023-01-01,1
+2027 National Accounts: Real Gross Domestic Product by Nation (Percent Change),country,540,NSA,32,a,1990-01-01,2023-01-01,1
+Amount Outstanding Due Within One Year of International Debt Securities for General Government Secto,country,100954,NSA,37,q,1993-07-01,2015-04-01,0
+Bank's Cost to Income Ratio,country,391,NSA,22,a,1992-01-01,2020-01-01,0
+Chain-Type Quantity Index for Real GDP: Accommodation and Food Services (NAICS 72),state,131240,NSA,27,a,1997-01-01,2021-01-01,0
+"Chain-Type Quantity Index for Real GDP: Apparel, Leather, and Allied Product Manufacturing (NAICS 31",state,131264,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Government and Government Enterprises,state,131339,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Retail Trade (NAICS 44-45),state,131461,NSA,27,a,1997-01-01,2021-01-01,0
+"Chain-Type Quantity Index for Real GDP: Transportation and Utilities (NAICS 22, 48-49)",state,131483,NSA,27,a,1997-01-01,2021-01-01,0
+Construction Wages and Salaries,state,1594,SSA,34,q,1998-01-01,2022-07-01,0
+Current Account Credit: Total Services,country,1214,SA,6,q,1959-07-01,2016-10-01,0
+Current Account Debit: Trade: Total Imports of Goods,country,1617,NSA,6,a,1960-01-01,2016-01-01,0
+Durable Manufacturing Earnings,state,714,SSA,34,q,1998-01-01,2022-07-01,0
+Educational Services Earnings,state,1781,SSA,34,q,1998-01-01,2022-07-01,0
+"Gross Domestic Product: Arts, Entertainment, and Recreation (NAICS 71)",state,131266,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Domestic Product: Arts, Entertainment, and Recreation (NAICS 71)",state,131266,SSA,5,q,2005-01-01,2022-07-01,0
+"Gross Domestic Product: Arts, Entertainment, Recreation, Accommodation, and Food Services (NAICS 71,",state,131269,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Domestic Product: Broadcasting (Except Internet) and Telecommunications (NAICS 515, 517)",state,131272,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Domestic Product: Electrical Equipment, Appliance, and Component Manufacturing (NAICS 335)",state,131299,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Food and Beverage and Tobacco Product Manufacturing (NAICS 311-312),state,131317,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Domestic Product: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21)",state,131368,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Miscellaneous Manufacturing (NAICS 339),state,131371,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Domestic Product: Other Transportation and Support Activities (NAICS 487-488, 492)",state,131402,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Private Industries,state,131414,SSA,5,q,2005-01-01,2022-07-01,0
+"Gross Domestic Product: Professional, Scientific, and Technical Services (NAICS 54)",state,131439,SSA,5,q,2005-01-01,2022-07-01,0
+Harmonized Index of Consumer Prices: Overall Index Excluding Liquid Fuels and Lubricants for Persona,country,3626,NSA,24,m,1996-01-01,2023-02-01,1
+Internet users,country,469,NSA,41,a,1960-01-01,2021-01-01,0
+Liquid Liabilities to GDP,country,657,NSA,22,a,1960-01-01,2020-01-01,0
+Management of Companies and Enterprises Wages and Salaries,state,1795,SSA,34,q,1998-01-01,2022-07-01,0
+New Private Housing Units Authorized By Building Permits: 1-Unit Structures,state,1313,NSA,42,m,1988-01-01,2023-01-01,0
+Number of Identified Exporters to Angola,state,1784,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Azerbaijan,state,667,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Belarus,state,1593,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Bermuda,state,173,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Brunei Darussalam,state,1280,NSA,46,a,1992-01-01,2016-01-01,0
+Number of Identified Exporters to Burundi,state,685,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Central African Republic,state,403,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Curacao,state,1138,NSA,46,a,2011-01-01,2017-01-01,0
+Number of Identified Exporters to Dominica,state,1444,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Gabon,state,1294,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Israel,state,1151,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Montenegro,state,737,NSA,46,a,2007-01-01,2017-01-01,0
+Number of Identified Exporters to Slovakia,state,986,NSA,46,a,1997-01-01,2017-01-01,0
+Number of Identified Exporters to Vatican City State,state,324,NSA,46,a,1992-01-01,2016-01-01,0
+Per Capita Personal Consumption Expenditures: Services,state,119778,NSA,43,a,1997-01-01,2021-01-01,0
+Per Capita Personal Consumption Expenditures: Services: Health Care,state,119781,NSA,43,a,1997-01-01,2021-01-01,0
+"Population, Total",country,124,NSA,45,5 Year,1967-01-01,2012-01-01,0
+"Population, Total",country,124,NSA,45,a,1960-01-01,2021-01-01,0
+Real Gross Domestic Product: Accommodation and Food Services (NAICS 72),state,131241,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Air Transportation (NAICS 481),state,131256,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Ambulatory Health Care Services (NAICS 621),state,131259,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Arts, Entertainment, and Recreation (NAICS 71)",state,131268,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Educational Services, Health Care, and Social Assistance (NAICS 61, 62)",state,131298,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Finance, Insurance, Real Estate, Rental, and Leasing (NAICS 52, 53)",state,131312,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Health Care and Social Assistance (NAICS 62),state,131346,SSA,33,q,2005-01-01,2022-07-01,0
+Real Gross Domestic Product: Insurance Carriers and Related Activities (NAICS 524),state,131355,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Machinery Manufacturing (NAICS 333),state,131361,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Other Services (Except Government and Government Enterprises) (NAICS 81,state,131401,SSA,33,q,2005-01-01,2022-07-01,0
+Regional Price Parities: Goods: Nonmetropolitan Portion,state,134647,NSA,8,a,2008-01-01,2021-01-01,0
+Regional Price Parities: Services: Other: Metropolitan Portion,state,134645,NSA,8,a,2008-01-01,2021-01-01,0
+"State Government Tax Collections, Death and Gift Taxes",state,115,NSA,34,a,1942-01-01,2021-01-01,0
+"State Government Tax Collections, Motor Fuels - Selective Sales Taxes",state,1009,NSA,34,a,1942-01-01,2021-01-01,0
+"State Government Tax Collections, Public Utilities - Selective Sales Taxes",state,1430,NSA,34,a,1942-01-01,2021-01-01,0
+"State Government Tax Collections, Tobacco Products - Selective Sales Taxes",state,1875,NSA,34,a,1942-01-01,2021-01-01,0
+"Total Loan and Lease Finance Receivables, Nonaccrual for Commercial Banks",state,926,NSA,34,q,1984-01-01,2020-07-01,0
+"Use of Financial Services: Key Indicators, Outstanding Loans From Commercial Banks",country,32691,NSA,29,a,2004-01-01,2021-01-01,0
+"Use of Financial Services: Key Indicators, Outstanding Loans From Commercial Banks to Households",country,32697,NSA,29,a,2004-01-01,2021-01-01,0
+Value of Exports to Dominican Republic,state,1227,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to France,state,242,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Norway,state,1479,NSA,43,a,1992-01-01,2017-01-01,0
+2013 Percentage of Foreign Banks Among Total Banks by Nation (Percent),country,1545,NSA,22,a,1995-01-01,2013-01-01,0
+"2015 Q2 Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer by Nation (Billions of US Dollars)",country,1913,NSA,37,q,1966-01-01,2015-04-01,0
+2019 Non-Life Insurance Premium Volume to GDP by Nation (Percent),country,1895,NSA,22,a,1987-01-01,2019-01-01,0
+2020 Bank Z-Score by Nation (Z-score),country,1370,NSA,16,a,1996-01-01,2020-01-01,0
+2020 Liquid Assets to Deposits and Short Term Funding by Nation (Percent),country,1495,NSA,22,a,1996-01-01,2020-01-01,0
+2020 Liquid Liabilities to GDP by Nation (Percent),country,657,NSA,22,a,1960-01-01,2020-01-01,0
+2021 Geographical Outreach: Number of Commercial Banks by Nation (Number),country,2222,NSA,50,a,2004-01-01,2021-01-01,0
+"2021 Use of Financial Services: Key Indicators, Outstanding Loans From Commercial Banks to Households by Nation (Percent of GDP)",country,32697,NSA,29,a,2004-01-01,2021-01-01,0
+2022 International Trade: Imports: Value (Goods): Total by Nation (Growth rate same period previous year),country,2116,SA,7,a,1960-01-01,2022-01-01,1
+2022 National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product - Total by Nation (Growth rate previous period),country,1480,SA,14,a,1961-01-01,2022-01-01,1
+"2022 Q3 Amount Outstanding of Total Debt Securities in Financial Corporations Sector, All Maturities, Residence of Issuer by Nation (Millions of US Dollars)",country,636,NSA,12,q,1952-01-01,2022-07-01,1
+"2022 Q3 Amount Outstanding of Total Debt Securities in General Government Sector, All Maturities, Residence of Issuer by Nation (Millions of US Dollars)",country,63,NSA,12,q,1952-01-01,2022-07-01,1
+2022 Q3 Residential Property Prices by Nation (Percent per Annum),country,1764,NSA,26,q,1928-01-01,2022-07-01,1
+"2022 Q4 Amount Outstanding of International Debt Securities for All Issuers, All Maturities, Residence of Issuer by Nation (Millions of US Dollars)",country,2014,NSA,12,q,1962-10-01,2022-10-01,1
+"2022 Q4 Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer by Nation (Millions of US Dollars)",country,1239,NSA,12,q,1962-10-01,2022-10-01,1
+"2023 February Harmonized Index of Consumer Prices: Coffee, Tea, and Cocoa  by Nation (Index 2015=100)",country,3740,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Heat Energy  by Nation (Index 2015=100),country,1255,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Housing, Water, Electricity, Gas, and Other Fuels  by Nation (Index 2015=100)",country,3829,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Insurance Connected with the Dwelling  by Nation (Index 2015=100),country,5169,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Materials for the Maintenance and Repair of the Dwelling by Nation (Index 2015=100),country,3847,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Non-Energy Industrial Goods, Semi-Durables Only  by Nation (Index 2015=100)",country,5290,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Other Services in Respect of Personal Transport Equipment by Nation (Index 2015=100),country,80,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Overall Index Excluding Liquid Fuels and Lubricants for Personal Transport Equipment by Nation (Index 2015=100),country,3626,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Postal Services by Nation (Index 2015=100),country,1240,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Recreation and Culture  by Nation (Index 2015=100),country,4951,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Sewerage Collection  by Nation (Index 2015=100),country,3875,NSA,24,m,1996-01-01,2023-02-01,1
+All-Transactions House Price Index,state,942,NSA,10,q,1975-01-01,2022-10-01,0
+Amount Outstanding Due Within One Year of International Debt Securities for Financial Corporations S,country,100936,NSA,37,q,1993-07-01,2015-04-01,0
+"Amount Outstanding of International Debt Securities for Issuers in Other Financial Corporations, All",country,1491,NSA,37,q,1987-01-01,2015-04-01,0
+"Announced Issues of International Bonds and Notes for All Issuers, Nationality of Issuer",country,767,NSA,37,q,1966-01-01,2015-04-01,0
+Chain-Type Quantity Index for Real GDP: Ambulatory Health Care Services (NAICS 621),state,131258,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Fabricated Metal Product Manufacturing (NAICS 332),state,131303,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Mining (Except Oil and Gas) (NAICS 212),state,131366,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Paper Manufacturing (NAICS 322),state,131409,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Textile Mills and Textile Product Mills (NAICS 313-314),state,131474,NSA,27,a,1997-01-01,2021-01-01,0
+Civilian Labor Force,state,656,SA,45,m,1976-01-01,2022-12-01,0
+Consumer Price Index: Services Less Housing,country,280207,NSA,38,a,1960-01-01,2017-01-01,0
+"Dividends, Interest and Rent",state,468,SSA,5,q,1948-01-01,2022-07-01,0
+Financial Account: Assets: Direct Investment Abroad,country,605,NSA,6,a,1960-01-01,2016-01-01,0
+"Gross Domestic Product by Industry: Private Industries: Educational Services, Health Care, and Socia",state,131347,NSA,5,a,1997-01-01,2016-01-01,0
+Gross Domestic Product: Administrative and Support and Waste Management and Remediation Services (NA,state,131248,SSA,5,q,2005-01-01,2022-07-01,0
+Gross Domestic Product: Health Care and Social Assistance (NAICS 62),state,131344,SSA,5,q,2005-01-01,2022-07-01,0
+Gross Domestic Product: Manufacturing (NAICS 31-33),state,131362,SSA,5,q,2005-01-01,2022-07-01,0
+"Gross Domestic Product: Miscellaneous Professional, Scientific, and Technical Services (NAICS 5412-5",state,131374,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Real Estate and Rental and Leasing (NAICS 53),state,131457,SSA,5,q,2005-01-01,2022-07-01,0
+"Gross Domestic Product: Transportation and Utilities (NAICS 22, 48-49)",state,131482,NSA,5,a,1997-01-01,2021-01-01,0
+Harmonized Index of Consumer Prices: Overall Index Excluding Tobacco ,country,3650,NSA,24,m,1996-01-01,2023-02-01,1
+Homeownership Rate,state,2088,NSA,22,a,1984-01-01,2022-01-01,0
+Initial Claims,state,156241,NSA,50,w,1984-06-09,2023-03-11,0
+Liquid Liabilities (Broad Money),country,1064,NSA,49,a,1960-01-01,2020-01-01,0
+Loan Loss Reserves for Commercial Banks,state,2201,NSA,34,q,1984-01-01,2020-07-01,0
+"Net Issues of International Money Market instruments for All Issuers, Nationality of Issuer",country,1335,NSA,37,q,1993-07-01,2015-04-01,0
+"Net Issues of International Money Market instruments for All Issuers, Residence of Issuer",country,889,NSA,37,q,1993-07-01,2015-04-01,0
+Number of Identified Exporters to Belize,state,1160,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Costa Rica,state,866,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Estonia,state,1798,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Finland,state,1473,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Hong Kong,state,756,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to India,state,1252,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Namibia,state,1058,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to New Caledonia,state,769,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to San Marino,state,921,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to The Democratic Republic of the Congo,state,30814,NSA,46,a,1992-01-01,2016-01-01,0
+Number of Listed Companies,country,73,NSA,11,a,1975-01-01,2020-01-01,0
+Per Capita Personal Consumption Expenditures: Goods,state,119767,NSA,43,a,1997-01-01,2021-01-01,0
+Per Capita Personal Consumption Expenditures: Total,state,119766,NSA,43,a,1997-01-01,2021-01-01,0
+Professional and Technical Services Earnings,state,77,SSA,34,q,1998-01-01,2022-07-01,0
+"Real Gross Domestic Product: Amusement, Gambling, and Recreation Industries (NAICS 713)",state,131262,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Computer Systems Design and Related Services (NAICS 5415),state,131286,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Educational Services (NAICS 61),state,131295,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Pipeline Transportation (NAICS 486),state,131417,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Social Assistance (NAICS 624),state,131472,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Truck Transportation (NAICS 484),state,131490,NSA,33,a,1997-01-01,2021-01-01,0
+Real Personal Income: Nonmetropolitan Portion,state,134652,NSA,17,a,2008-01-01,2021-01-01,0
+Regional Price Parities: Goods: Metropolitan Portion,state,134643,NSA,8,a,2008-01-01,2021-01-01,0
+"State Government Tax Collections, Hunting and Fishing Licenses",state,1684,NSA,34,a,1942-01-01,2021-01-01,0
+"State Government Tax Collections, Other License Taxes",state,712,NSA,34,a,1942-01-01,2021-01-01,0
+"State Government Tax Collections, Total Income Taxes",state,1159,NSA,34,a,1942-01-01,2021-01-01,0
+"State Government Tax Collections, Total Selective Sales Taxes",state,1691,NSA,34,a,1942-01-01,2021-01-01,0
+Transfers less State Unemployment Benefits,state,1613,SSA,5,q,1990-01-01,2013-01-01,0
+Utilities Earnings,state,190,SSA,34,q,1998-01-01,2022-07-01,0
+Value of Exports to Algeria,state,2207,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Egypt,state,1315,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Qatar,state,1088,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Spain,state,1409,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Vietnam,state,416,NSA,43,a,1992-01-01,2017-01-01,0
+2010 Purchasing Power Parity Converted Gross Domestic Income (adjusted for Terms of Trade changes) by Nation (2005 International Dollars per Person),country,1739,NSA,28,a,1950-01-01,2010-01-01,0
+"2015 Q2 Amount Outstanding Due Within One Year of International Debt Securities for Non-financial Corporations Sector, Nationality of Issuer by Nation (Billions of US Dollars)",country,100975,NSA,37,q,1993-07-01,2015-04-01,0
+"2015 Q2 Amount Outstanding of International Money Market instruments for All Issuers, Nationality of Issuer by Nation (Billions of US Dollars)",country,1340,NSA,37,q,1987-01-01,2015-04-01,0
+"2015 Q2 Net Issues of International Bonds and Notes for All Issuers, Nationality of Issuer by Nation (Billions of US Dollars)",country,1835,NSA,37,q,1966-01-01,2015-04-01,0
+2019 Pension Fund Assets to GDP by Nation (Percent),country,133,NSA,22,a,1990-01-01,2019-01-01,0
+"2020 Loans From Non-Resident Banks, Amounts Outstanding, to GDP by Nation (Percent)",country,26702,NSA,22,a,1962-01-01,2020-01-01,0
+2022 International Trade: Exports: Value (Goods): Total by Nation (Growth rate previous period),country,351,SA,14,a,1960-01-01,2022-01-01,1
+2023 February Harmonized Index of Consumer Prices: Alcoholic Beverages  by Nation (Index 2015=100),country,3757,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Cleaning, Repair, and Hire of Clothing  by Nation (Index 2015=100)",country,3817,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Combined Passenger Transport  by Nation (Index 2015=100),country,2229,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Communications  by Nation (Index 2015=100),country,4929,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Insurance  by Nation (Index 2015=100),country,5163,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Jewelry, Clocks, and Watches  by Nation (Index 2015=100)",country,5145,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Overall Index Excluding Energy  by Nation (Index 2015=100),country,3596,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Photographic and Cinematographic Equipment and Optical Instruments by Nation (Index 2015=100),country,82,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Services Related to Housing by Nation (Index 2015=100),country,2129,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Tools and Equipment for House and Garden by Nation (Index 2015=100),country,4773,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Transport Services by Nation (Index 2015=100),country,617,NSA,24,m,1996-01-01,2023-02-01,1
+2027 Prices: Consumer Price Index by Nation (Percent Change),country,142,NSA,32,a,1990-01-01,2023-01-01,1
+2027 Projection of General government gross debt by Nation (Percent of GDP),country,143,NSA,29,a,2021-01-01,2027-01-01,1
+Administrative and Waste Services Earnings,state,1938,SSA,34,q,1998-01-01,2022-07-01,0
+All Employees: Information,state,1298,NSA,51,m,1990-01-01,2023-01-01,0
+All Employees: Manufacturing,state,1182,SA,51,m,1990-01-01,2023-01-01,0
+All Employees: Other Services,state,186,NSA,51,m,1990-01-01,2023-01-01,0
+All Employees: Professional and Business Services,state,198,SA,51,m,1990-01-01,2023-01-01,0
+All Employees: Total Nonfarm,state,2065,SA,51,m,1990-01-01,2023-01-01,0
+Amount Outstanding Due Within One Year of International Debt Securities for Non-financial Corporatio,country,100975,NSA,37,q,1993-07-01,2015-04-01,0
+Chain-Type Quantity Index for Real GDP: Accommodation and Food Services (NAICS 72),state,131240,SA,27,q,2005-01-01,2022-07-01,0
+Chain-Type Quantity Index for Real GDP: Air Transportation (NAICS 481),state,131255,NSA,27,a,1997-01-01,2021-01-01,0
+"Chain-Type Quantity Index for Real GDP: Arts, Entertainment, and Recreation (NAICS 71)",state,131267,NSA,27,a,1997-01-01,2021-01-01,0
+"Chain-Type Quantity Index for Real GDP: Arts, Entertainment, and Recreation (NAICS 71)",state,131267,SA,27,q,2005-01-01,2022-07-01,0
+"Chain-Type Quantity Index for Real GDP: Arts, Entertainment, Recreation, Accommodation, and Food Ser",state,131270,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Chemical Manufacturing (NAICS 325),state,131276,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Educational Services (NAICS 61),state,131294,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Food Services and Drinking Places (NAICS 722),state,131321,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Legal Services (NAICS 5411),state,131357,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Printing and Related Support Activities (NAICS 323),state,131436,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Retail Trade (NAICS 44-45),state,131461,SA,27,q,2005-01-01,2022-07-01,0
+Chain-Type Quantity Index for Real GDP: Support Activities for Mining (NAICS 213),state,131465,NSA,27,a,1997-01-01,2021-01-01,0
+Current Account Credit: Trade: Total Exports of Goods,country,321,NSA,6,a,1960-01-01,2016-01-01,0
+Deposit Money Bank Assets to GDP,country,188,NSA,22,a,1960-01-01,2020-01-01,0
+Ease of doing business index,country,1155,NSA,39,a,2015-01-01,2019-01-01,0
+"Forestry, Fishing, Related Activities, and Other Earnings",state,1245,SSA,34,q,1998-01-01,2022-07-01,0
+"Geographical Outreach: Key Indicators ATMs Per 100,000 Adults",country,364,NSA,50,a,2004-01-01,2021-01-01,0
+Geographical Outreach: Number of Commercial Banks,country,2222,NSA,50,a,2004-01-01,2021-01-01,0
+Gross Domestic Product: Accommodation and Food Services (NAICS 72),state,124475,SSA,5,q,2005-01-01,2022-07-01,0
+"Gross Domestic Product: Agriculture, Forestry, Fishing and Hunting (NAICS 11)",state,131251,SSA,5,q,2005-01-01,2022-07-01,0
+"Gross Domestic Product: Apparel, Leather, and Allied Product Manufacturing (NAICS 315-316)",state,131263,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Domestic Product: Funds, Trusts, and Other Financial Vehicles (NAICS 525)",state,131314,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Domestic Product: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21)",state,131368,SSA,5,q,2005-01-01,2022-07-01,0
+Gross Domestic Product: Motion Picture and Sound Recording Industries (NAICS 512),state,131380,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Pipeline Transportation (NAICS 486),state,131415,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Domestic Product: Professional, Scientific, and Technical Services (NAICS 54)",state,131439,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Support Activities for Mining (NAICS 213),state,131464,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Issuance of International Money Market instruments for All Issuers, Residence of Issuer",country,795,NSA,37,q,1993-07-01,2015-04-01,0
+Harmonized Index of Consumer Prices: Overall Index Excluding Energy and Unprocessed Food ,country,3632,NSA,24,m,1996-01-01,2023-02-01,1
+Harmonized Index of Consumer Prices: Overall Index Excluding Frequent Out-of-Pocket Purchases ,country,3620,NSA,24,m,1996-01-01,2016-01-01,0
+Harmonized Index of Consumer Prices: Passenger Transport by Sea and Inland Waterway ,country,916,NSA,24,m,1996-01-01,2023-02-01,0
+Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total,country,39,NSA,22,a,1960-01-01,2022-01-01,1
+Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total,country,39,NSA,22,q,1960-01-01,2022-10-01,1
+Life Insurance Premium Volume to GDP,country,600,NSA,22,a,1979-01-01,2019-01-01,0
+"Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer",country,67,NSA,37,q,1966-01-01,2015-04-01,0
+Net migration,country,1606,NSA,31,5 Year,1962-01-01,2017-01-01,0
+Number of Identified Exporters to Christmas Island,state,88,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Cote d'Ivoire,state,543,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Haiti,state,1461,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Kyrgyzstan,state,236,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Latvia,state,1791,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Madagascar,state,1961,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Netherlands,state,431,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Nicaragua,state,1952,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Nigeria,state,1116,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Pakistan,state,717,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Qatar,state,1808,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Seychelles,state,1906,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Spain,state,1113,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to the Former Yugoslav Republic of Macedonia,state,718,NSA,46,a,1992-01-01,2016-01-01,0
+Personal Consumption Expenditures: Total,state,119742,NSA,5,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Administrative and Support Services (NAICS 561),state,131247,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Health Care and Social Assistance (NAICS 62),state,131346,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Private Industries,state,131419,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Professional and Business Services (NAICS 54, 55, 56)",state,131442,NSA,33,a,1997-01-01,2021-01-01,0
+Real Per Capita Personal Income: Nonmetropolitan Portion,state,134653,NSA,3,a,2008-01-01,2021-01-01,0
+Regional Price Parities: Services: Housing,state,134640,NSA,8,a,2008-01-01,2021-01-01,0
+"State Government Tax Collections, Corporations in General Licenses",state,728,NSA,34,a,1942-01-01,2021-01-01,0
+"State Government Tax Collections, Insurance Premiums - Selective Sales Taxes",state,2102,NSA,34,a,1942-01-01,2021-01-01,0
+State Unemployment Benefits,state,750,SSA,34,q,1948-01-01,2022-07-01,0
+Total Wages and Salaries,state,275,SSA,34,q,1998-01-01,2022-07-01,0
+Value of Exports to Bermuda,state,634,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Malaysia,state,1639,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Nigeria,state,975,NSA,43,a,1992-01-01,2017-01-01,0
+"2015 Q2 Amount Outstanding of International Debt Securities for Issuers in Non-Financial Corporations (Corporate Issuers), All Maturities, Nationality of Issuer by Nation (Billions of US Dollars)",country,1782,NSA,37,q,1993-07-01,2015-04-01,0
+"2015 Q2 Net Issues of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Residence of Issuer by Nation (Billions of US Dollars)",country,221,NSA,37,q,1987-01-01,2015-04-01,0
+"2015 Q2 Net Issues of International Money Market instruments for All Issuers, Nationality of Issuer by Nation (Billions of US Dollars)",country,1335,NSA,37,q,1993-07-01,2015-04-01,0
+2016 January Harmonized Index of Consumer Prices: Frequent Out-of-Pocket Purchases  by Nation (Index 2015=100),country,5255,NSA,24,m,1996-01-01,2016-01-01,0
+2017 Consumer Price Index by Nation (Index 2010=100),country,652,NSA,38,a,1960-01-01,2017-01-01,0
+2017 Number of Identified Exporters to Estonia by State (Number of Firms),state,1798,NSA,46,a,1992-01-01,2017-01-01,0
+2019 Bank Non-Performing Loans to Gross Loans by Nation (Percent),country,176,NSA,22,a,1998-01-01,2019-01-01,0
+2019 Bank Regulatory Capital to Risk-Weighted Assets by Nation (Percent),country,548,NSA,22,a,1998-01-01,2019-01-01,0
+2019 Provisions to Non-Performing Loans by Nation (Percent),country,876,NSA,22,a,1998-01-01,2019-01-01,0
+2020 Bank Credit to Bank Deposits by Nation (Percent),country,90,NSA,22,a,1960-01-01,2020-01-01,0
+2020 Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets by Nation (Percent),country,1242,NSA,22,a,1960-01-01,2020-01-01,0
+2020 Volatility of Stock Price Index by Nation (Index),country,1192,NSA,8,a,1984-01-01,2020-01-01,0
+2021 General government gross debt by Nation (Percent of GDP),country,219,NSA,29,a,1980-01-01,2021-01-01,0
+"2021 Infant Mortality Rate by Nation (Number per 1,000 Live Births)",country,2148,NSA,13,a,1960-01-01,2021-01-01,0
+2021 Internet users by Nation (Per 100 People),country,469,NSA,41,a,1960-01-01,2021-01-01,0
+"2022 Q4 Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer by Nation (Millions of US Dollars)",country,83,NSA,12,q,1962-10-01,2022-10-01,1
+2023 February Harmonized Index of Consumer Prices: Beer  by Nation (Index 2015=100),country,3775,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Bread and Cereals  by Nation (Index 2015=100),country,3680,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Industrial Goods  by Nation (Index 2015=100),country,5296,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Liquid Fuels and Fuels and Lubricants for Personal Transport Equipment by Nation (Index 2015=100),country,5261,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Miscellaneous Goods and Services by Nation (Index 2015=100),country,1582,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Non-Alcoholic Beverages  by Nation (Index 2015=100),country,3734,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Other Insurance  by Nation (Index 2015=100),country,498,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Services Related to Communication by Nation (Index 2015=100),country,745,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Spares Parts and Accessories for Personal Transport Equipment by Nation (Index 2015=100),country,4869,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Vegetables  by Nation (Index 2015=100),country,3716,NSA,24,m,1996-01-01,2023-02-01,1
+2024 Fiscal Situation of General Government: Gross Debt Position by Nation (Percent of Fiscal Year GDP),country,938,NSA,19,a,2016-01-01,2023-01-01,1
+Age 65 and Over Tax Exemptions,state,835,NSA,1,a,1989-01-01,2020-01-01,0
+All Employees: Construction,state,2062,NSA,51,m,1990-01-01,2023-01-01,0
+All Employees: Total Nonfarm,state,2065,NSA,51,m,1939-01-01,2023-01-01,0
+Central Bank Assets to GDP,country,422,NSA,22,a,1960-01-01,2020-01-01,0
+"Chain-Type Quantity Index for Real GDP: Durable Goods Manufacturing (NAICS 321, 327-339)",state,131291,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Educational Services (NAICS 61),state,131294,SA,27,q,2005-01-01,2022-07-01,0
+Chain-Type Quantity Index for Real GDP: Finance and Insurance (NAICS 52),state,131309,SA,27,q,2005-01-01,2022-07-01,0
+Chain-Type Quantity Index for Real GDP: Manufacturing (NAICS 31-33),state,131363,SA,27,q,2005-01-01,2022-07-01,0
+Chain-Type Quantity Index for Real GDP: Private Industries,state,131418,SA,27,q,2005-01-01,2022-07-01,0
+Consumer Price Index: All Items: Total: Total,country,2077,NSA,14,q,1960-01-01,2022-10-01,1
+Current Account Balance: Total Services,country,2070,NSA,6,q,1959-07-01,2016-10-01,0
+Financial Account: Liabilities: Direct Foreign Investment in Reporting Country,country,1076,NSA,6,q,1959-07-01,2016-10-01,0
+Financial Account: Net Direct Investment,country,1741,NSA,6,a,1960-01-01,2016-01-01,0
+"Gross Domestic Product: Agriculture, Forestry, Fishing and Hunting (NAICS 11)",state,131251,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Educational Services (NAICS 61),state,131293,SSA,5,q,2005-01-01,2022-07-01,0
+Gross Domestic Product: Insurance Carriers and Related Activities (NAICS 524),state,131353,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Management of Companies and Enterprises (NAICS 55),state,131377,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Nonmetallic Mineral Product Manufacturing (NAICS 327),state,131392,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Printing and Related Support Activities (NAICS 323),state,131435,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Private Goods-Producing Industries,state,200046,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Wholesale Trade (NAICS 42),state,131503,NSA,5,a,1997-01-01,2021-01-01,0
+Harmonized Index of Consumer Prices: All Items Excluding Fully Administered Prices ,country,3590,NSA,24,m,2000-12-01,2023-02-01,1
+Harmonized Index of Consumer Prices: Overall Index Excluding Alcohol and Tobacco ,country,3582,NSA,24,m,1996-01-01,2023-02-01,1
+Health Insurance Coverage: Uncovered Rate,state,1284,NSA,22,a,1999-01-01,2012-01-01,0
+Management of Companies and Enterprises Earnings,state,299,SSA,34,q,1998-01-01,2022-07-01,0
+"Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities",country,83,NSA,12,q,1962-10-01,2022-10-01,1
+New Private Housing Units Authorized by Building Permits,state,1537,SA,42,m,1988-01-01,2023-01-01,0
+Number of Identified Exporters to Algeria,state,1083,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Aruba,state,346,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Bahrain,state,1918,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Colombia,state,1193,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to France,state,114,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Iceland,state,677,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Ireland,state,1834,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Libyan Arab Jamahiriya,state,964,NSA,46,a,2002-01-01,2016-01-01,0
+Number of Identified Exporters to Portugal,state,139,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Saint Lucia,state,924,NSA,46,a,1992-01-01,2016-01-01,0
+Number of Identified Exporters to Serbia,state,1769,NSA,46,a,2007-01-01,2017-01-01,0
+Number of Identified Exporters to Uzbekistan,state,1816,NSA,46,a,1992-01-01,2017-01-01,0
+Personal Consumption Expenditures: Nondurable Goods: Gasoline and Other Energy Goods,state,119752,NSA,5,a,1997-01-01,2021-01-01,0
+Personal Consumption Expenditures: Services: Food Services and Accommodations,state,119760,NSA,5,a,1997-01-01,2021-01-01,0
+Private Credit by Deposit Money Banks to GDP,country,1823,NSA,22,a,1960-01-01,2020-01-01,0
+"Real Gross Domestic Product: Data Processing, Hosting, and Other Information Services (NAICS 518, 51",state,131289,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Farms (NAICS 111-112),state,131307,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Motor Vehicles, Bodies and Trailers, and Parts Manufacturing (NAICS 336",state,131385,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Nondurable Goods Manufacturing (NAICS 311-316, 322-326)",state,131391,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Paper Manufacturing (NAICS 322),state,131410,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Private Industries,state,131419,SSA,33,q,2005-01-01,2022-07-01,0
+Real Gross Domestic Product: Real Estate and Rental and Leasing (NAICS 53),state,131459,SSA,33,q,2005-01-01,2022-07-01,0
+Unemployment Rate,state,1224,SA,22,m,1976-01-01,2022-12-01,0
+Value of Exports to Albania,state,1120,NSA,43,a,1997-01-01,2017-01-01,0
+Value of Exports to Benin,state,2160,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Estonia,state,884,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Iraq,state,823,NSA,43,a,1997-01-01,2017-01-01,0
+Value of Exports to Ireland,state,1778,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Israel,state,1466,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Japan,state,748,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Saudi Arabia,state,746,NSA,43,a,1992-01-01,2017-01-01,0
+2013 Percentage of Foreign Bank Assets Among Total Bank Assets by Nation (Percent),country,805,NSA,22,a,2004-01-01,2013-01-01,0
+2014 H-Statistic in Banking Market by Nation (Index),country,1649,NSA,8,a,2010-01-01,2014-01-01,0
+"2015 Q2 Announced Issues of International Bonds and Notes for All Issuers, Nationality of Issuer by Nation (Billions of US Dollars)",country,767,NSA,37,q,1966-01-01,2015-04-01,0
+"2015 Q2 Net Issues of International Debt Securities for Issuers in Financial Institutions Sector (Banks), All Maturities, Residence of Issuer by Nation (Billions of US Dollars)",country,1452,NSA,37,q,1987-01-01,2015-04-01,0
+"2015 Q2 Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer by Nation (Billions of US Dollars)",country,699,NSA,37,q,1993-07-01,2015-04-01,0
+"2015 Q2 Net Issues of International Debt Securities for Issuers in Non-Financial Corporations (Corporate Issuers), All Maturities, Nationality of Issuer by Nation (Billions of US Dollars)",country,26,NSA,37,q,1993-07-01,2015-04-01,0
+2019 Outstanding Total International Debt Securities to GDP by Nation (Percent),country,974,NSA,22,a,1980-01-01,2019-01-01,0
+"2020 Central government debt, total (% of GDP) by Nation (Percent of GDP)",country,1501,NSA,29,a,1970-01-01,2020-01-01,0
+2020 Financial System Deposits to GDP by Nation (Percent),country,1077,NSA,22,a,1960-01-01,2020-01-01,0
+2021 Constant GDP per capita by Nation (2010 U.S. Dollars),country,1460,NSA,21,a,1960-01-01,2021-01-01,0
+"2021 Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults by Nation (Number)",country,264,NSA,50,a,2004-01-01,2021-01-01,0
+"2022 International Trade: Imports: Value (Goods): Total by Nation (US Dollars, monthly level)",country,2116,SA,44,a,1960-01-01,2022-01-01,1
+"2022 International Trade: Net Trade: Value (Goods): Total by Nation (US Dollars, monthly level)",country,1195,SA,44,a,1960-01-01,2022-01-01,1
+"2022 Q4 Amount Outstanding Due Within One Year of International Debt Securities for All Issuers, Nationality of Issuer by Nation (Millions of US Dollars)",country,100887,NSA,12,q,1962-10-01,2022-10-01,1
+"2022 Q4 Amounts Outstanding of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer by Nation (Millions of US Dollars)",country,2012,NSA,12,q,1962-10-01,2022-10-01,1
+2023 February Broad Effective Exchange Rate by Nation (Index 2020=100),country,1301,NSA,25,m,1994-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Books  by Nation (Index 2015=100),country,5059,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Catering Services by Nation (Index 2015=100),country,625,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Clothing  by Nation (Index 2015=100),country,3793,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Dental Services by Nation (Index 2015=100),country,1908,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Electrical Appliances for Personal Care and Other Appliances, Articles, and Products for Personal Care by Nation (Index 2015=100)",country,5133,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Maintenance and Repair of Personal Transport Equipment  by Nation (Index 2015=100),country,4881,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Major Household Appliances Whether Electric or not and Small Electric Household Appliances  by Nation (Index 2015=100),country,4755,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Medical Services and Paramedical Services by Nation (Index 2015=100),country,288,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Other Purchased Transport Services by Nation (Index 2015=100),country,801,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Overall Index Excluding Education, Health, and Social Protection  by Nation (Index 2015=100)",country,3602,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Overall Index Excluding Housing, Water, Electricity, Gas, and Other Fuels  by Nation (Index 2015=100)",country,3638,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Recreational and Sporting Services by Nation (Index 2015=100),country,689,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Services for the Maintenance and Repair of the Dwelling by Nation (Index 2015=100),country,489,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Services Related to Recreation and Personal Care, Excluding Package Holidays and Accommodation by Nation (Index 2015=100)",country,1715,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Tobacco  by Nation (Index 2015=100),country,3781,NSA,24,m,1996-01-01,2023-02-01,1
+All Employees: Financial Activities,state,171,NSA,51,m,1990-01-01,2023-01-01,0
+All Employees: Mining and Logging,state,127,SA,51,m,1990-01-01,2023-01-01,0
+All Employees: Other Services,state,186,SA,51,m,1990-01-01,2023-01-01,0
+Amount Outstanding Due Within One Year of International Debt Securities for General Government Secto,country,100965,NSA,37,q,1993-07-01,2022-10-01,1
+"Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer",country,1913,NSA,37,q,1966-01-01,2015-04-01,0
+Bank Deposits to GDP,country,1786,NSA,22,a,1960-01-01,2020-01-01,0
+Bank's Net Interest Margin,country,463,NSA,22,a,1996-01-01,2020-01-01,0
+Bank's Non-Interest Income to Total Income,country,332,NSA,22,a,1996-01-01,2020-01-01,0
+Chain-Type Quantity Index for Real GDP: Administrative and Support and Waste Management and Remediat,state,131249,SA,27,q,2005-01-01,2022-07-01,0
+Chain-Type Quantity Index for Real GDP: All Industry Total,state,131447,SA,27,q,2005-01-01,2022-07-01,0
+"Chain-Type Quantity Index for Real GDP: Amusement, Gambling, and Recreation Industries (NAICS 713)",state,131261,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Broadcasting (Except Internet) and Telecommunications (NAICS,state,131273,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Manufacturing (NAICS 31-33),state,131363,NSA,27,a,1997-01-01,2021-01-01,0
+"Chain-Type Quantity Index for Real GDP: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21)",state,131369,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Other Services (Except Government and Government Enterprises,state,131400,SA,27,q,2005-01-01,2022-07-01,0
+Chain-Type Quantity Index for Real GDP: Other Transportation Equipment Manufacturing (NAICS 3364-336,state,131406,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Petroleum and Coal Products Manufacturing (NAICS 324),state,131412,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Private Industries,state,131418,NSA,27,a,1997-01-01,2021-01-01,0
+Current Account Debit: Total Services,country,925,NSA,6,a,1960-01-01,2016-01-01,0
+"Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks",country,931,NSA,50,a,2004-01-01,2021-01-01,0
+Gross Domestic Product: All Industry Total,state,690,SSA,5,q,2005-01-01,2022-07-01,0
+"Gross Domestic Product: Amusement, Gambling, and Recreation Industries (NAICS 713)",state,131260,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Domestic Product: Durable Goods Manufacturing (NAICS 321, 327-339)",state,131290,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Farms (NAICS 111-112),state,131305,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Legal Services (NAICS 5411),state,131356,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Machinery Manufacturing (NAICS 333),state,131359,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Domestic Product: Motor Vehicles, Bodies and Trailers, and Parts Manufacturing (NAICS 3361-336",state,131383,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Domestic Product: Nondurable Goods Manufacturing (NAICS 311-316, 322-326)",state,131389,SSA,5,q,2005-01-01,2022-07-01,0
+Gross Domestic Product: Social Assistance (NAICS 624),state,131470,NSA,5,a,1997-01-01,2021-01-01,0
+Health Insurance Coverage: Coverage Rate,state,4,NSA,22,a,1999-01-01,2012-01-01,0
+Home Vacancy Rate,state,2122,NSA,22,a,1986-01-01,2022-01-01,0
+Housing Inventory: Active Listing Count Month-Over-Month,state,246343,NSA,22,m,2017-07-01,2023-02-01,0
+Implicit Regional Price Deflator: Metropolitan Portion,state,134655,NSA,20,a,2008-01-01,2021-01-01,0
+Income (Loss) before Income Taxes and Extraordinary Items and Other Adjustments for Commercial Banks,state,1293,NSA,34,q,1984-01-01,2020-07-01,0
+Infant Mortality Rate,country,2148,NSA,13,a,1960-01-01,2021-01-01,0
+Interest-Bearing Balances for Commercial Banks,state,1213,NSA,34,q,1984-01-01,2020-07-01,0
+Liquid Assets to Deposits and Short Term Funding,country,1495,NSA,22,a,1996-01-01,2020-01-01,0
+Mining Earnings,state,777,SSA,34,q,1998-01-01,2022-07-01,0
+Net Income for Commercial Banks,state,1023,NSA,34,q,1984-01-01,2020-07-01,0
+"Net Issues of International Debt Securities for Issuers in Financial Institutions Sector (Banks), Al",country,1338,NSA,37,q,1987-01-01,2015-04-01,0
+Non-Life Insurance Premium Volume to GDP,country,1895,NSA,22,a,1987-01-01,2019-01-01,0
+Number of Identified Exporters to Albania,state,1208,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Andorra,state,212,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Anguilla,state,1395,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Australia,state,1578,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Barbados,state,551,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Bosnia and Herzegovina,state,1654,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Cameroon,state,1131,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Cyprus,state,1740,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Czech Republic,state,1643,NSA,46,a,1997-01-01,2017-01-01,0
+Number of Identified Exporters to Honduras,state,768,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Kuwait,state,1701,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Niger,state,541,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Papua New Guinea,state,1325,NSA,46,a,1992-01-01,2017-01-01,0
+Other Services (except Public Administration) Earnings,state,658,SSA,34,q,1998-01-01,2022-07-01,0
+Per Capita Personal Consumption Expenditures: Goods: Durable Goods: Furnishings and Durable Househol,state,119770,NSA,43,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product by Industry: Private Industries: Educational Services, Health Care, and ",state,131349,NSA,48,a,1997-01-01,2016-01-01,0
+Real Gross Domestic Product: Accommodation (NAICS 721),state,131244,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Agriculture, Forestry, Fishing and Hunting (NAICS 11)",state,131253,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Durable Goods Manufacturing (NAICS 321, 327-339)",state,131292,SSA,33,q,2005-01-01,2022-07-01,0
+Real Gross Domestic Product: Federal Civilian,state,131334,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Funds, Trusts, and Other Financial Vehicles (NAICS 525)",state,131316,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Information (NAICS 51),state,131352,SSA,33,q,2005-01-01,2022-07-01,0
+Real Gross Domestic Product: Manufacturing (NAICS 31-33),state,131364,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Monetary Authorities-Central Bank, Credit Intermediation, and Related S",state,131325,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Retail Trade (NAICS 44-45),state,131462,NSA,33,a,1997-01-01,2021-01-01,0
+Real Personal Income: Metropolitan Portion,state,134650,NSA,17,a,2008-01-01,2021-01-01,0
+Regional Price Parities: All Items: Metropolitan Portion,state,134642,NSA,8,a,2008-01-01,2021-01-01,0
+"State Government Tax Collections, Alcoholic Beverages - Selective Sales Taxes",state,2139,NSA,34,a,1942-01-01,2021-01-01,0
+"State Government Tax Collections, Motor Vehicle Operators Licenses",state,149,NSA,34,a,1951-01-01,2021-01-01,0
+"State Government Tax Collections, Occupation and Business Licenses",state,213,NSA,34,a,1951-01-01,2021-01-01,0
+Total Investment Securities at Book Value for Commercial Banks,state,1457,NSA,34,q,1984-01-01,1993-10-01,0
+Value of Exports to Aruba,state,840,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Austria,state,973,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to China,state,1117,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Niger,state,410,NSA,43,a,1992-01-01,2017-01-01,0
+"2015 Q2 Amount Outstanding of International Debt Securities for Issuers in Other Financial Corporations, All Maturities, Residence of Issuer by Nation (Billions of US Dollars)",country,1717,NSA,37,q,1987-01-01,2015-04-01,0
+"2015 Q2 Gross Issuance of International Money Market instruments for All Issuers, Nationality of Issuer by Nation (Billions of US Dollars)",country,38,NSA,37,q,1993-07-01,2015-04-01,0
+2017 People 15 Years and Over Borrowing from a Financial Institution in the Past Year by Nation (Percent),country,1136,NSA,22,a,2011-01-01,2017-01-01,0
+2017 People 15 Years and Over Saving at a Financial Institution in the Past Year by Nation (Percent),country,1205,NSA,22,a,2011-01-01,2017-01-01,0
+"2019 Number of Bank Branches by Nation (Number per 100,000 adults)",country,1408,NSA,35,a,2004-01-01,2019-01-01,0
+2020 Bank Deposits to GDP by Nation (Percent),country,1786,NSA,22,a,1960-01-01,2020-01-01,0
+2020 Bank's Overhead Costs to Total Assets by Nation (Percent),country,1540,NSA,22,a,1996-01-01,2020-01-01,0
+2020 External Loans and Deposits of Reporting Banks in Relation to the Banking Sector by Nation (Percent),country,247,NSA,22,a,1995-01-01,2020-01-01,0
+2020 Private Credit by Deposit Money Banks to GDP by Nation (Percent),country,1823,NSA,22,a,1960-01-01,2020-01-01,0
+"2021 Geographical Outreach: Key Indicators ATMs Per 100,000 Adults by Nation (Number)",country,364,NSA,50,a,2004-01-01,2021-01-01,0
+2021 Geographical Outreach: Key Indicators ATMs Per 1000 Km2 by Nation (Number),country,888,NSA,50,a,2004-01-01,2021-01-01,0
+"2021 Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks by Nation (Number)",country,931,NSA,50,a,2004-01-01,2021-01-01,0
+"2021 Use of Financial Services: Key Indicators, Outstanding Deposits With Commercial Banks by Nation (Percent of GDP)",country,100626,NSA,29,a,2004-01-01,2021-01-01,0
+"2022 Q3 Amount Outstanding of Total Debt Securities in Non-Financial Corporations Sector, All Maturities, Residence of Issuer by Nation (Millions of US Dollars)",country,435,NSA,12,q,1952-01-01,2022-07-01,1
+"2022 Q4 Net Issues of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer by Nation (Millions of US Dollars)",country,369,NSA,12,q,1962-10-01,2022-10-01,1
+2023 February Harmonized Index of Consumer Prices: Cultural Services by Nation (Index 2015=100),country,965,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Equipment for Sport, Camping, and Open-Air Recreation by Nation (Index 2015=100)",country,5021,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Fruit  by Nation (Index 2015=100),country,3710,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Furniture and Furnishings, Carpets and Other Floor Coverings  by Nation (Index 2015=100)",country,4565,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Gardens, Plants, and Flowers  by Nation (Index 2015=100)",country,5027,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Mainly Administered Prices  by Nation (Index 2015=100),country,2059,NSA,24,m,2000-12-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Major Durables for Indoor and Outdoor Recreation Including Musical Instruments by Nation (Index 2015=100),country,4997,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Mineral Waters, Soft Drinks, and Fruit and Vegetable Juices  by Nation (Index 2015=100)",country,3746,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Motor Cycles, Bicycles, and Animal Drawn Vehicles  by Nation (Index 2015=100)",country,4857,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Newspapers and Periodicals  by Nation (Index 2015=100),country,5065,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Oils and Fats  by Nation (Index 2015=100),country,3704,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Other Medical Products, Therapeutic Appliances, and Equipment  by Nation (Index 2015=100)",country,4813,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Passenger Transport by Air  by Nation (Index 2015=100),country,4908,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Repair of Audio-Visual, Photographic, and Information Processing Equipment by Nation (Index 2015=100)",country,4985,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Services Related to Package Holidays and Accommodation by Nation (Index 2015=100),country,1143,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Spirits  by Nation (Index 2015=100),country,3763,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Unprocessed Food  by Nation (Index 2015=100),country,5249,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Water Supply  by Nation (Index 2015=100),country,3863,NSA,24,m,1996-01-01,2023-02-01,1
+2024 National Accounts: Gross Domestic Product by Nation (U.S. Dollars),country,2052,NSA,23,a,2016-01-01,2023-01-01,1
+All Employees: Government,state,1350,NSA,51,m,1990-01-01,2023-01-01,0
+Bank Credit to Bank Deposits,country,90,NSA,22,a,1960-01-01,2020-01-01,0
+Bank's Overhead Costs to Total Assets,country,1540,NSA,22,a,1996-01-01,2020-01-01,0
+"Chain-Type Quantity Index for Real GDP: Agriculture, Forestry, Fishing and Hunting (NAICS 11)",state,131252,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Construction (NAICS 23),state,131279,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Farms (NAICS 111-112),state,131306,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Plastics and Rubber Products Manufacturing (NAICS 326),state,131421,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Real Estate (NAICS 531),state,131452,NSA,27,a,1997-01-01,2021-01-01,0
+Consumer Price Index: All Items: Total: Total,country,2077,NSA,14,a,1960-01-01,2022-01-01,1
+Covered Employment,state,156862,NSA,50,w,1984-06-02,2023-03-04,0
+Currency Conversions: Real Effective Exchange Rates: Overall Economy: CPI,country,1455,NSA,24,a,1970-01-01,2022-01-01,1
+Current Account Balance: Total Income,country,1601,SA,6,q,1959-07-01,2016-10-01,0
+Current Account Balance: Total Services,country,2070,SA,6,q,1959-07-01,2016-10-01,0
+External Loans and Deposits of Reporting Banks in Relation to the Banking Sector,country,247,NSA,22,a,1995-01-01,2020-01-01,0
+Federal Funds Sold and Securities Purchased Under Agreements to Resell in Domestic Offices of the Ba,state,226,NSA,34,q,1984-01-01,2001-10-01,0
+Gross Domestic Product: Accommodation and Food Services (NAICS 72),state,124475,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Chemical Manufacturing (NAICS 325),state,131275,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Finance and Insurance (NAICS 52),state,131308,SSA,5,q,2005-01-01,2022-07-01,0
+Gross Domestic Product: Government and Government Enterprises,state,200048,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Information (NAICS 51),state,131350,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Information (NAICS 51),state,131350,SSA,5,q,2005-01-01,2022-07-01,0
+Gross Domestic Product: Management of Companies and Enterprises (NAICS 55),state,131377,SSA,5,q,2005-01-01,2022-07-01,0
+Gross Domestic Product: Other Services (Except Government and Government Enterprises) (NAICS 81),state,131399,SSA,5,q,2005-01-01,2022-07-01,0
+Gross Domestic Product: Petroleum and Coal Products Manufacturing (NAICS 324),state,131411,NSA,5,a,1997-01-01,2021-01-01,0
+Health Care and Social Assistance Earnings,state,501,SSA,34,q,1998-01-01,2022-07-01,0
+Health Insurance Coverage: People Not Covered,state,1801,NSA,51,a,1999-01-01,2012-01-01,0
+Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total,country,39,NSA,22,m,1960-01-01,2023-02-01,1
+Mining Wages and Salaries,state,788,SSA,34,q,1998-01-01,2022-07-01,0
+"Net Issues of International Bonds and Notes for All Issuers, Nationality of Issuer",country,1835,NSA,37,q,1966-01-01,2015-04-01,0
+Net Issues of International Debt Securities for Issuers in Non-Financial Corporations (Corporate Iss,country,584,NSA,12,q,1966-01-01,2022-10-01,1
+New Private Housing Units Authorized By Building Permits,state,1537,NSA,42,m,1988-01-01,2023-01-01,0
+Number of Identified Exporters to Antigua and Barbuda,state,1297,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Argentina,state,765,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Benin,state,432,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Ethiopia,state,1533,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Faroe Islands,state,1241,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Greenland,state,518,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Jordan,state,1200,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Lebanon,state,520,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Malaysia,state,1756,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Mongolia,state,201,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Mozambique,state,1484,NSA,46,a,1992-01-01,2017-01-01,0
+Per Capita Personal Consumption Expenditures: Goods: Durable Goods: Recreational Goods and Vehicles,state,119771,NSA,43,a,1997-01-01,2021-01-01,0
+Per Capita Personal Consumption Expenditures: Nondurable Goods: Gasoline and Other Energy Goods,state,119776,NSA,43,a,1997-01-01,2021-01-01,0
+Per Capita Personal Consumption Expenditures: Services: Food Services and Accommodations,state,119784,NSA,43,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Administrative and Support and Waste Management and Remediation Service,state,131250,SSA,33,q,2005-01-01,2022-07-01,0
+Real Gross Domestic Product: Educational Services (NAICS 61),state,131295,SSA,33,q,2005-01-01,2022-07-01,0
+"Real Gross Domestic Product: Electrical Equipment, Appliance, and Component Manufacturing (NAICS 335",state,131301,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Government and Government Enterprises,state,200052,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Miscellaneous Manufacturing (NAICS 339),state,131373,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Real Estate (NAICS 531),state,131453,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: State and Local,state,131343,NSA,33,a,1997-01-01,2021-01-01,0
+Real Per Capita Personal Income: Metropolitan Portion,state,134651,NSA,3,a,2008-01-01,2021-01-01,0
+Resident Population,state,1549,NSA,51,a,1900-01-01,2022-01-01,0
+Stock Market Total Value Traded to GDP,country,1127,NSA,22,a,1975-01-01,2020-01-01,0
+Total Current Account Balance,country,84,NSA,6,q,1959-07-01,2016-10-01,0
+Total Current Account Balance,country,84,SA,6,q,1959-07-01,2016-10-01,0
+"Total Loan and Lease Finance Receivables, Past Due 90 Days or More and Still Accruing for Commercial",state,1534,NSA,34,q,1984-01-01,2020-07-01,0
+Total Trading Assets for Commercial Banks,state,1071,NSA,34,q,1994-01-01,2020-07-01,0
+Value of Exports to Afghanistan,state,2150,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Australia,state,2114,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Colombia,state,1650,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Curacao,state,948,NSA,43,a,2011-01-01,2017-01-01,0
+Value of Exports to Georgia,state,514,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Netherlands,state,1237,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Pakistan,state,505,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to South Africa,state,380,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Taiwan,state,1670,NSA,43,a,1992-01-01,2016-01-01,0
+"2015 Q2 Amount Outstanding of International Debt Securities for Issuers in Financial Institutions Sector (Banks), All Maturities, Residence of Issuer by Nation (Billions of US Dollars)",country,998,NSA,37,q,1987-01-01,2015-04-01,0
+"2015 Q2 Gross Issuance of International Money Market instruments for All Issuers, Residence of Issuer by Nation (Billions of US Dollars)",country,795,NSA,37,q,1993-07-01,2015-04-01,0
+"2015 Q2 Net Issues of International Bonds and Notes for All Issuers, Residence of Issuer by Nation (Billions of US Dollars)",country,67,NSA,37,q,1966-01-01,2015-04-01,0
+2016 Number of Identified Exporters to Timor-Leste by State (Number of Firms),state,1359,NSA,46,a,2002-01-01,2016-01-01,0
+2017 Value of Exports to Estonia by State (Dollars),state,884,NSA,43,a,1992-01-01,2017-01-01,0
+2017 Value of Exports to Lithuania by State (Dollars),state,561,NSA,43,a,1992-01-01,2017-01-01,0
+2019 Outstanding International Public Debt Securities to GDP by Nation (Percent),country,300,NSA,22,a,1980-01-01,2019-01-01,0
+2020 Bank's Net Interest Margin by Nation (Percent),country,463,NSA,22,a,1996-01-01,2020-01-01,0
+"2020 Fertility Rate, Total by Nation (Births per Woman)",country,1382,NSA,52,a,1960-01-01,2020-01-01,0
+"2020 Life Expectancy at Birth, Total by Nation (Number of Years)",country,1515,NSA,36,a,1960-01-01,2020-01-01,0
+2020 Number of Listed Companies by Nation (Number of Listed Companies per Million People),country,73,NSA,11,a,1975-01-01,2020-01-01,0
+2022 Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product by Nation (Index 2015=100),country,281299,SA,24,a,1960-01-01,2022-01-01,1
+2022 International Trade: Exports: Value (Goods): Total by Nation (Growth rate same period previous year),country,351,SA,7,a,1960-01-01,2022-01-01,1
+"2022 Q3 Amount Outstanding of Total Debt Securities for All Issuers, All Maturities, Residence of Issuer by Nation (Millions of US Dollars)",country,2008,NSA,12,q,1952-01-01,2022-07-01,1
+"2022 Q4 Net Issues of International Debt Securities for Issuers in Non-Financial Corporations (Corporate Issuers), All Maturities, Residence of Issuer by Nation (Millions of US Dollars)",country,584,NSA,12,q,1966-01-01,2022-10-01,1
+2023 February Harmonized Index of Consumer Prices: Actual Rentals for Housing by Nation (Index 2015=100),country,3835,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Clothing and Footwear  by Nation (Index 2015=100),country,3787,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Education  by Nation (Index 2015=100),country,5083,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Energy and Unprocessed Food  by Nation (Index 2015=100),country,5213,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Food Including Alcohol and Tobacco  by Nation (Index 2015=100),country,5237,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Fully Administered Prices  by Nation (Index 2015=100),country,477,NSA,24,m,2000-12-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Goods (Overall Index Excluding Services) by Nation (Index 2015=100),country,1915,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Information Processing Equipment by Nation (Index 2015=100),country,470,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Meat  by Nation (Index 2015=100),country,3686,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Non-Energy Industrial Goods, Durables Only  by Nation (Index 2015=100)",country,5278,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Operation of Personal Transport Equipment  by Nation (Index 2015=100),country,4863,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Overall Index Excluding Tobacco  by Nation (Index 2015=100),country,3650,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Passenger Transport by Railway  by Nation (Index 2015=100),country,861,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Services Related to Recreation, Including Repairs and Personal Care by Nation (Index 2015=100)",country,675,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Telephone and Telefax Equipment  by Nation (Index 2015=100),country,4940,NSA,24,m,1996-01-01,2023-02-01,1
+2027 Fiscal Situation of General Government: Net Lending/borrowing by Nation (Percent of Fiscal Year GDP),country,994,NSA,19,a,1990-01-01,2027-01-01,1
+All Employees: Construction,state,2062,SA,51,m,1990-01-01,2023-01-01,0
+All Employees: Leisure and Hospitality,state,1973,SA,51,m,1990-01-01,2023-01-01,0
+Bank's Return On Assets,country,25394,NSA,22,a,1996-01-01,2020-01-01,0
+"Chain-Type Quantity Index for Real GDP: Agriculture, Forestry, Fishing and Hunting (NAICS 11)",state,131252,SA,27,q,2005-01-01,2022-07-01,0
+"Chain-Type Quantity Index for Real GDP: Durable Goods Manufacturing (NAICS 321, 327-339)",state,131291,SA,27,q,2005-01-01,2022-07-01,0
+Chain-Type Quantity Index for Real GDP: Primary Metal Manufacturing (NAICS 331),state,131430,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: State and Local,state,131342,NSA,27,a,1997-01-01,2021-01-01,0
+Current Account Balance: Total Trade of Goods,country,103,SA,6,q,1959-07-01,2016-10-01,0
+Current Account Credit: Total Services,country,1214,NSA,6,a,1960-01-01,2016-01-01,0
+Current Account Credit: Trade: Total Exports of Goods,country,321,SA,6,q,1959-07-01,2016-10-01,0
+Current Account Debit: Total Services,country,925,SA,6,q,1959-07-01,2016-10-01,0
+Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,country,1242,NSA,22,a,1960-01-01,2020-01-01,0
+Finance and Insurance Earnings,state,759,SSA,34,q,1998-01-01,2022-07-01,0
+Gross Domestic Product,country,1832,NSA,15,a,1960-01-01,2021-01-01,0
+Gross Domestic Product: Accommodation (NAICS 721),state,131242,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Administrative and Support and Waste Management and Remediation Services (NA,state,131248,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: All Industry Total,state,690,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Computer Systems Design and Related Services (NAICS 5415),state,131284,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Domestic Product: Nondurable Goods Manufacturing (NAICS 311-316, 322-326)",state,131389,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Plastics and Rubber Products Manufacturing (NAICS 326),state,131420,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Retail Trade (NAICS 44-45),state,131460,SSA,5,q,2005-01-01,2022-07-01,0
+Gross Portfolio Equity Assets to GDP,country,308,NSA,22,a,1999-01-01,2019-01-01,0
+"Harmonized Index of Consumer Prices: Overall Index Excluding Education, Health, and Social Protectio",country,3602,NSA,24,m,1996-01-01,2023-02-01,1
+Housing Inventory: Active Listing Count Year-Over-Year,state,246344,NSA,22,m,2017-07-01,2023-02-01,0
+"Literacy Rate, Adult Total",country,1947,NSA,9,a,1970-01-01,2021-01-01,0
+Number of Identified Exporters to Austria,state,1514,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Bangladesh,state,1029,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Grenada,state,74,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Republic of Korea,state,1569,NSA,46,a,1992-01-01,2016-01-01,0
+Number of Identified Exporters to Sweden,state,334,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Thailand,state,281,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Turkmenistan,state,2011,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Zambia,state,1883,NSA,46,a,1992-01-01,2017-01-01,0
+Per Capita Personal Consumption Expenditures: Services: Household Consumption Expenditures for Servi,state,119779,NSA,43,a,1997-01-01,2021-01-01,0
+Personal Consumption Expenditures: Goods,state,119743,NSA,5,a,1997-01-01,2021-01-01,0
+Personal Consumption Expenditures: Services,state,119754,NSA,5,a,1997-01-01,2021-01-01,0
+Personal Consumption Expenditures: Services: Final Consumption Expenditures of Nonprofit Institution,state,119765,NSA,5,a,1997-01-01,2021-01-01,0
+Personal Consumption Expenditures: Services: Health Care,state,119757,NSA,5,a,1997-01-01,2021-01-01,0
+Quarterly Average of Total Assets for Commercial Banks,state,341,NSA,34,q,1984-01-01,2020-07-01,0
+"Real Gross Domestic Product: Durable Goods Manufacturing (NAICS 321, 327-339)",state,131292,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Other Transportation and Support Activities (NAICS 487-488, 492)",state,131404,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Textile Mills and Textile Product Mills (NAICS 313-314),state,131475,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Transportation and Warehousing (NAICS 48-49),state,131487,NSA,33,a,1997-01-01,2021-01-01,0
+Real Personal Income,state,1191,NSA,33,a,2008-01-01,2021-01-01,0
+Rental Vacancy Rate,state,1863,NSA,22,a,1986-01-01,2022-01-01,0
+"State Government Tax Collections, Amusements - Selective Sales Taxes",state,915,NSA,34,a,1951-01-01,2021-01-01,0
+"State Government Tax Collections, Amusements Licenses",state,956,NSA,34,a,1951-01-01,2021-01-01,0
+Value of Exports to Bahamas,state,232,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Chile,state,1609,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Ecuador,state,366,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Germany,state,1765,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Guatemala,state,195,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Kazakhstan,state,804,NSA,43,a,1997-01-01,2017-01-01,0
+Value of Exports to Macao,state,1190,NSA,43,a,1992-01-01,2016-01-01,0
+"2015 Q2 Amount Outstanding of International Bonds and Notes for All Issuers, Residence of Issuer by Nation (Billions of US Dollars)",country,971,NSA,37,q,1966-01-01,2015-04-01,0
+2017 Value of Exports to Bahamas by State (Dollars),state,232,NSA,43,a,1992-01-01,2017-01-01,0
+2019 Bank Capital to Total Assets by Nation (Percent),country,1308,NSA,22,a,1998-01-01,2019-01-01,0
+2019 Life Insurance Premium Volume to GDP by Nation (Percent),country,600,NSA,22,a,1979-01-01,2019-01-01,0
+2019 Mutual Fund Assets to GDP by Nation (Percent),country,1225,NSA,22,a,1980-01-01,2019-01-01,0
+2020 Bank's Cost to Income Ratio by Nation (Percent),country,391,NSA,22,a,1992-01-01,2020-01-01,0
+2020 Bank's Non-Interest Income to Total Income by Nation (Percent),country,332,NSA,22,a,1996-01-01,2020-01-01,0
+"2020 Loans From Non-Resident Banks, Net, to GDP by Nation (Percent)",country,26719,NSA,22,a,1962-01-01,2020-01-01,0
+2020 Stock Market Capitalization to GDP by Nation (Percent),country,2138,NSA,22,a,1975-01-01,2020-01-01,0
+"2022 Q4 Amount Outstanding of International Debt Securities for Issuers in Non-Financial Corporations (Corporate Issuers), All Maturities, Residence of Issuer by Nation (Millions of US Dollars)",country,912,NSA,12,q,1966-01-01,2022-10-01,1
+"2022 Q4 Net Issues of International Debt Securities for All Issuers, All Maturities, Residence of Issuer by Nation (Millions of US Dollars)",country,1528,NSA,12,q,1962-10-01,2022-10-01,1
+"2023 February Harmonized Index of Consumer Prices: Alcoholic Beverages, Tobacco, and Narcotics by Nation (Index 2015=100)",country,713,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Energy and Seasonal Food  by Nation (Index 2015=100),country,5231,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Goods and Services for Routine Household Maintenance by Nation (Index 2015=100),country,1286,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Liquid Fuels  by Nation (Index 2015=100),country,3904,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Newspapers, Books, and Stationery  by Nation (Index 2015=100)",country,5053,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Other Recreational Items and Equipment, Gardens, and Pets  by Nation (Index 2015=100)",country,5009,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Package Holidays  by Nation (Index 2015=100),country,5077,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Seasonal Food  by Nation (Index 2015=100),country,5302,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Services Related to Transport by Nation (Index 2015=100),country,1253,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Real Broad Effective Exchange Rate by Nation (Index 2020=100),country,117,NSA,25,m,1994-01-01,2023-02-01,1
+All Employees: Education and Health Services,state,270,SA,51,m,1990-01-01,2023-01-01,0
+All Employees: Government,state,1350,SA,51,m,1990-01-01,2023-01-01,0
+Amount Outstanding of International Debt Securities for Issuers in Financial Institutions Sector (Ba,country,353,NSA,37,q,1987-01-01,2015-04-01,0
+"Amount Outstanding of International Debt Securities for Issuers in Other Financial Corporations, All",country,1717,NSA,37,q,1987-01-01,2015-04-01,0
+"Amount Outstanding of International Money Market instruments for All Issuers, Nationality of Issuer",country,1340,NSA,37,q,1987-01-01,2015-04-01,0
+Barro-Lee: Population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary),country,1140,NSA,22,5 Year,1970-01-01,2010-01-01,0
+"Chain-Type Quantity Index for Real GDP: Data Processing, Hosting, and Other Information Services (NA",state,131288,NSA,27,a,1997-01-01,2021-01-01,0
+"Chain-Type Quantity Index for Real GDP: Educational Services, Health Care, and Social Assistance (NA",state,131297,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Finance and Insurance (NAICS 52),state,131309,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Government and Government Enterprises,state,131339,SA,27,q,2005-01-01,2022-07-01,0
+Chain-Type Quantity Index for Real GDP: Miscellaneous Manufacturing (NAICS 339),state,131372,NSA,27,a,1997-01-01,2021-01-01,0
+"Chain-Type Quantity Index for Real GDP: Nondurable Goods Manufacturing (NAICS 311-316, 322-326)",state,131390,SA,27,q,2005-01-01,2022-07-01,0
+Chain-Type Quantity Index for Real GDP: Publishing Industries (Except Internet) (NAICS 511),state,131445,NSA,27,a,1997-01-01,2021-01-01,0
+Charge-offs on Allowance for Loan and Lease Losses for Commercial Banks,state,394,NSA,34,q,1984-01-01,2020-07-01,0
+Civilian Labor Force,state,656,NSA,45,m,1976-01-01,2022-12-01,0
+Construction Earnings,state,405,SSA,34,q,1998-01-01,2022-07-01,0
+Continued Claims (Insured Unemployment),state,156860,NSA,50,w,1984-06-02,2023-03-04,0
+Gross Domestic Product: Administrative and Support Services (NAICS 561),state,131245,NSA,5,a,1997-01-01,2021-01-01,0
+Harmonized Index of Consumer Prices: All Items Excluding Administered Prices ,country,3577,NSA,24,m,2000-12-01,2023-02-01,1
+Lerner Index in Banking Market,country,293,NSA,8,a,1996-01-01,2014-01-01,0
+"Loans From Non-Resident Banks, Amounts Outstanding, to GDP",country,26702,NSA,22,a,1962-01-01,2020-01-01,0
+Nondurable Manufacturing Earnings,state,1986,SSA,34,q,1998-01-01,2022-07-01,0
+Number of Identified Exporters to Afghanistan ,state,2054,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Bahamas,state,1130,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Bulgaria,state,1189,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Cayman Islands,state,1797,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Chile,state,1212,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Croatia,state,2233,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Ecuador,state,1785,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Fiji,state,1261,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Gambia,state,1911,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Guatemala,state,1939,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Indonesia,state,2021,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Liberia,state,1544,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Mali,state,1618,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Republic of Moldova,state,1447,NSA,46,a,1992-01-01,2016-01-01,0
+Number of Identified Exporters to Saint Kitts and Nevis,state,649,NSA,46,a,1992-01-01,2016-01-01,0
+Number of Identified Exporters to Trinidad and Tobago,state,451,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to United Kingdom,state,897,NSA,46,a,1992-01-01,2017-01-01,0
+Per Capita Personal Consumption Expenditures: Services: Final Consumption Expenditures of Nonprofit ,state,119788,NSA,43,a,1997-01-01,2021-01-01,0
+Per Capita Personal Consumption Expenditures: Services: Financial Services and Insurance,state,119785,NSA,43,a,1997-01-01,2021-01-01,0
+Per Capita Personal Consumption Expenditures: Services: Housing and Utilities,state,119780,NSA,43,a,1997-01-01,2021-01-01,0
+Personal Consumption Expenditures: Nondurable Goods: Clothing and Footwear,state,119751,NSA,5,a,1997-01-01,2021-01-01,0
+Personal Consumption Expenditures: Nondurable Goods: Other Nondurable Goods,state,119753,NSA,5,a,1997-01-01,2021-01-01,0
+Personal Contributions for Social Insurance,state,887,SSA,5,q,1948-01-01,2022-07-01,0
+"Quarterly Weighted Average of Total Loans and Leases, Net of Unearned Income for Commercial Banks",state,1062,NSA,34,q,1984-01-01,2020-07-01,0
+"Real Estate, Rental and Leasing Earnings",state,1616,SSA,34,q,1998-01-01,2022-07-01,0
+Real Gross Domestic Product: Accommodation and Food Services (NAICS 72),state,131241,SSA,33,q,2005-01-01,2022-07-01,0
+"Real Gross Domestic Product: Agriculture, Forestry, Fishing and Hunting (NAICS 11)",state,131253,SSA,33,q,2005-01-01,2022-07-01,0
+Real Gross Domestic Product: Finance and Insurance (NAICS 52),state,131313,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Management of Companies and Enterprises (NAICS 55),state,131379,NSA,33,a,1997-01-01,2021-01-01,0
+"State Government Tax Collections, Alcoholic Beverages Licenses",state,1374,NSA,34,a,1942-01-01,2021-01-01,0
+"State Government Tax Collections, Taxes Not Elsewhere Classified",state,1442,NSA,34,a,1942-01-01,2021-01-01,0
+Stock Market Turnover Ratio (Value Traded/Capitalization),country,990,NSA,22,a,1975-01-01,2020-01-01,0
+Total Equity Capital for Commercial Banks,state,218,NSA,34,q,1984-01-01,2020-07-01,0
+Total Personal Income,state,637,SSA,5,q,1948-01-01,2022-07-01,0
+Transportation and Warehousing Earnings,state,1831,SSA,34,q,1998-01-01,2022-07-01,0
+Transportation and Warehousing Wages and Salaries,state,24,SSA,34,q,1998-01-01,2022-07-01,0
+"Use of Financial Services: Key Indicators, Outstanding Deposits With Commercial Banks",country,100626,NSA,29,a,2004-01-01,2021-01-01,0
+Value of Exports to Anguilla,state,248,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Canada,state,41,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Zambia,state,872,NSA,43,a,1992-01-01,2017-01-01,0
+2014 Cash surplus/deficit (% of GDP) by Nation (Percent of GDP),country,1881,NSA,29,a,1972-01-01,2014-01-01,0
+2014 Reserve Assets by Nation (Special Drawing Rights),country,1666,NSA,40,a,1955-01-01,2014-01-01,0
+"2015 Q2 Amount Outstanding of International Bonds and Notes for All Issuers, Nationality of Issuer by Nation (Billions of US Dollars)",country,1876,NSA,37,q,1966-01-01,2015-04-01,0
+2016 Number of Identified Exporters to Heard Island and McDonald Islands by State (Number of Firms),state,1418,NSA,46,a,1992-01-01,2016-01-01,0
+2017 Number of Identified Exporters to Lithuania by State (Number of Firms),state,49,NSA,46,a,1992-01-01,2017-01-01,0
+2019 Consolidated Foreign Claims of BIS-Reporting Banks to GDP by Nation (Percent),country,1856,NSA,22,a,1983-01-01,2019-01-01,0
+2019 Gross Portfolio Equity Liabilities to GDP by Nation (Percent),country,158,NSA,22,a,1999-01-01,2019-01-01,0
+2020 Bank Concentration by Nation (Percent),country,2105,NSA,22,a,1992-01-01,2020-01-01,0
+2020 Bank's Return On Assets by Nation (Percent),country,25394,NSA,22,a,1996-01-01,2020-01-01,0
+2020 Bank's Return On Equity by Nation (Percent),country,25411,NSA,22,a,1996-01-01,2020-01-01,0
+2020 Deposit Money Bank Assets to GDP by Nation (Percent),country,188,NSA,22,a,1960-01-01,2020-01-01,0
+2020 Private Credit by Deposit Money Banks and Other Financial Institutions to GDP by Nation (Percent),country,1745,NSA,22,a,1960-01-01,2020-01-01,0
+"2021 Literacy Rate, Adult Total by Nation (Percent of People Ages 15 and Above)",country,1947,NSA,9,a,1970-01-01,2021-01-01,0
+2021 Population ages 65 and above by Nation (Percent of Total),country,1610,NSA,30,a,1960-01-01,2021-01-01,0
+2022 Harmonised Unemployment - Monthly Rates: Total: All Persons by Nation (Percent),country,200057,NSA,22,a,1960-01-01,2022-01-01,1
+"2022 International Trade: Exports: Value (Goods): Total by Nation (US Dollars, monthly level)",country,351,SA,44,a,1960-01-01,2022-01-01,1
+"2022 Q4 Amount Outstanding Due Within One Year of International Debt Securities for Non-financial Corporations Sector, Residence of Issuer by Nation (Millions of US Dollars)",country,100986,NSA,12,q,1966-01-01,2022-10-01,1
+2023 February Harmonized Index of Consumer Prices: All Items  by Nation (Index 2015=100),country,3662,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Electricity  by Nation (Index 2015=100),country,3892,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Electricity, Gas, Solid Fuels and Heat Energy  by Nation (Index 2015=100)",country,5219,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Glassware, Tableware, and Household Utensils  by Nation (Index 2015=100)",country,4767,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Household Textiles  by Nation (Index 2015=100),country,4743,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Insurance Connected with Transport  by Nation (Index 2015=100),country,5181,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Out-Patient Services by Nation (Index 2015=100),country,1859,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Telephone and Telefax Equipment and Services by Nation (Index 2015=100),country,1427,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Telephone and Telefax Services by Nation (Index 2015=100),country,747,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Transport  by Nation (Index 2015=100),country,4839,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Water Supply and Miscellaneous Services Relating to the Dwelling by Nation (Index 2015=100),country,2196,NSA,24,m,1996-01-01,2023-02-01,1
+2023 January U.S. Imports of Goods by Customs Basis by Nation (Millions of Dollars),country,155420,NSA,5,m,1985-01-01,2023-01-01,1
+2024 National Accounts: Real Total Domestic Demand by Nation (Percent Change),country,2194,NSA,32,a,2013-01-01,2023-01-01,1
+5-Bank Asset Concentration,country,1346,NSA,22,a,1996-01-01,2020-01-01,0
+All Employees: Education and Health Services,state,270,NSA,51,m,1990-01-01,2023-01-01,0
+All Employees: Financial Activities,state,171,SA,51,m,1990-01-01,2023-01-01,0
+All Employees: Leisure and Hospitality,state,1973,NSA,51,m,1990-01-01,2023-01-01,0
+Allocated Transfer Risk Reserves for Commercial Banks,state,1821,NSA,34,q,1984-01-01,2020-07-01,0
+"Amount Outstanding of International Money Market instruments for All Issuers, Residence of Issuer",country,877,NSA,37,q,1987-01-01,2015-04-01,0
+"Arts, Entertainment and Recreation Earnings",state,330,SSA,34,q,1998-01-01,2022-07-01,0
+"Chain-Type Quantity Index for Real GDP: Finance, Insurance, Real Estate, Rental, and Leasing (NAICS ",state,131311,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Health Care and Social Assistance (NAICS 62),state,131345,SA,27,q,2005-01-01,2022-07-01,0
+Chain-Type Quantity Index for Real GDP: Information (NAICS 51),state,131351,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Insurance Carriers and Related Activities (NAICS 524),state,131354,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Management of Companies and Enterprises (NAICS 55),state,131378,SA,27,q,2005-01-01,2022-07-01,0
+"Chain-Type Quantity Index for Real GDP: Monetary Authorities-Central Bank, Credit Intermediation, an",state,131324,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Motion Picture and Sound Recording Industries (NAICS 512),state,131381,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Nonmetallic Mineral Product Manufacturing (NAICS 327),state,131393,NSA,27,a,1997-01-01,2021-01-01,0
+"Chain-Type Quantity Index for Real GDP: Other Transportation and Support Activities (NAICS 487-488, ",state,131403,NSA,27,a,1997-01-01,2021-01-01,0
+"Chain-Type Quantity Index for Real GDP: Performing Arts, Spectator Sports, Museums, and Related Acti",state,131424,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Utilities (NAICS 22),state,131492,NSA,27,a,1997-01-01,2021-01-01,0
+"Consumer Price Index: Rent, Repairs, and Maintenance",country,280215,NSA,38,a,1960-01-01,2017-01-01,0
+Credit to Government and State-Owned Enterprises to GDP,country,2149,NSA,22,a,1980-01-01,2019-01-01,0
+Currency Conversions: Real Effective Exchange Rates: Overall Economy: CPI,country,1455,NSA,24,m,1970-01-01,2023-02-01,1
+Current Account Debit: Trade: Total Imports of Goods,country,1617,SA,6,q,1959-07-01,2016-10-01,0
+Educational Services Wages and Salaries,state,2170,SSA,34,q,1998-01-01,2022-07-01,0
+Financial System Deposits to GDP,country,1077,NSA,22,a,1960-01-01,2020-01-01,0
+Gross Domestic Product: Construction (NAICS 23),state,131278,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Food Services and Drinking Places (NAICS 722),state,131320,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Domestic Product: Forestry, Fishing, and Related Activities (NAICS 113-115)",state,131326,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Furniture and Related Product Manufacturing (NAICS 337),state,131329,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Health Care and Social Assistance (NAICS 62),state,131344,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Military,state,131335,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Oil and Gas Extraction (NAICS 211),state,131396,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Other Transportation Equipment Manufacturing (NAICS 3364-3369),state,131405,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Domestic Product: Professional and Business Services (NAICS 54, 55, 56)",state,131438,NSA,5,a,1997-01-01,2021-01-01,0
+Harmonized Index of Consumer Prices: Overall Index Excluding Energy and Seasonal Food ,country,3614,NSA,24,m,1996-01-01,2023-02-01,1
+Health Care and Social Assistance Wages and Salaries,state,831,SSA,34,q,1998-01-01,2022-07-01,0
+Implicit Regional Price Deflator,state,134654,NSA,20,a,2008-01-01,2021-01-01,0
+Information Earnings,state,314,SSA,34,q,1998-01-01,2022-07-01,0
+Insured Unemployment Rate,state,156861,NSA,22,w,1984-06-02,2023-03-04,0
+Number of Identified Exporters to Belgium,state,372,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Canada,state,1236,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Denmark,state,1700,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Dominican Republic,state,1886,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Equatorial Guinea,state,153,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Gaza Strip Administered by Israel,state,200,NSA,46,a,1992-01-01,2016-01-01,0
+Number of Identified Exporters to Macao,state,278,NSA,46,a,1992-01-01,2016-01-01,0
+Number of Identified Exporters to Panama,state,743,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Paraguay,state,285,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Switzerland,state,1512,NSA,46,a,1992-01-01,2017-01-01,0
+Other Labor Income,state,1692,SSA,5,q,1948-01-01,2022-07-01,0
+Per Capita Personal Consumption Expenditures: Goods: Durable Goods: Motor Vehicles and Parts,state,119769,NSA,43,a,1997-01-01,2021-01-01,0
+Per Capita Personal Consumption Expenditures: Services: Final Consumption Expenditures of Nonprofit ,state,119787,NSA,43,a,1997-01-01,2021-01-01,0
+Personal Consumption Expenditures: Services: Recreation Services,state,119759,NSA,5,a,1997-01-01,2021-01-01,0
+Quantity Indexes for Real Gross Domestic Product by Industry: Private Industries: Educational Servic,state,131348,NSA,2,a,1997-01-01,2016-01-01,0
+"Real Gross Domestic Product: Broadcasting (Except Internet) and Telecommunications (NAICS 515, 517)",state,131274,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Construction (NAICS 23),state,131280,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Manufacturing (NAICS 31-33),state,131364,SSA,33,q,2005-01-01,2022-07-01,0
+"Real Gross Domestic Product: Mining, Quarrying, and Oil and Gas Extraction (NAICS 21)",state,131370,SSA,33,q,2005-01-01,2022-07-01,0
+Real Gross Domestic Product: Oil and Gas Extraction (NAICS 211),state,131398,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Printing and Related Support Activities (NAICS 323),state,131437,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Rail Transportation (NAICS 482),state,131450,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Trade (NAICS 42, 44-45)",state,131478,NSA,33,a,1997-01-01,2021-01-01,0
+"State Government Tax Collections, Other Selective Sales and Gross Receipts Taxes",state,1464,NSA,34,a,1942-01-01,2021-01-01,0
+"State Government Tax Collections, Severance Taxes",state,331,NSA,34,a,1942-01-01,2021-01-01,0
+Value of Exports to Angola,state,933,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Bolivarian Republic of Venezuela,state,513,NSA,43,a,1992-01-01,2016-01-01,0
+Value of Exports to Bosnia and Herzegovina,state,1304,NSA,43,a,1997-01-01,2017-01-01,0
+Value of Exports to Cayman Islands,state,1854,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Central African Republic,state,415,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Greece,state,1126,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Hong Kong,state,838,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to India,state,1850,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Italy,state,499,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Kuwait,state,157,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to United Arab Emirates,state,693,NSA,43,a,1992-01-01,2017-01-01,0
+"2015 Q2 Amount Outstanding Due Within One Year of International Debt Securities for Financial Corporations Sector, Residence of Issuer by Nation (Billions of US Dollars)",country,100936,NSA,37,q,1993-07-01,2015-04-01,0
+"2015 Q2 Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Nationality of Issuer by Nation (Billions of US Dollars)",country,2185,NSA,37,q,1993-07-01,2015-04-01,0
+2016 Value of Exports to Heard Island and McDonald Islands by State (Dollars),state,930,NSA,43,a,2007-01-01,2016-01-01,0
+2019 Gross Portfolio Debt Liabilities to GDP by Nation (Percent),country,2049,NSA,22,a,1999-01-01,2019-01-01,0
+2019 Gross Portfolio Equity Assets to GDP by Nation (Percent),country,308,NSA,22,a,1999-01-01,2019-01-01,0
+2019 Insurance Company Assets to GDP by Nation (Percent),country,1592,NSA,22,a,1980-01-01,2019-01-01,0
+2019 Outstanding International Private Debt Securities to GDP by Nation (Percent),country,1263,NSA,22,a,1980-01-01,2019-01-01,0
+2020 5-Bank Asset Concentration by Nation (Percent),country,1346,NSA,22,a,1996-01-01,2020-01-01,0
+2020 Liquid Liabilities (Broad Money) by Nation (Millions of 2000 Dollars),country,1064,NSA,49,a,1960-01-01,2020-01-01,0
+2020 Stock Market Total Value Traded to GDP by Nation (Percent),country,1127,NSA,22,a,1975-01-01,2020-01-01,0
+2020 Stock Market Turnover Ratio (Value Traded/Capitalization) by Nation (Percent),country,990,NSA,22,a,1975-01-01,2020-01-01,0
+"2021 Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide by Nation (Number)",country,1498,NSA,50,a,2004-01-01,2021-01-01,0
+2022 National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product - Total by Nation (Index 2015=100),country,1480,SA,24,a,1960-01-01,2022-01-01,1
+2022 Q3 Real Residential Property Prices by Nation (Percent per Annum),country,1543,NSA,26,q,1948-01-01,2022-07-01,1
+"2022 Q4 Amount Outstanding Due Within One Year of International Debt Securities for General Government Sector, Residence of Issuer by Nation (Millions of US Dollars)",country,100965,NSA,12,q,1962-10-01,2022-10-01,1
+2022 Share Prices: All Shares/Broad: Total: Total by Nation (Index 2015=100),country,2214,NSA,24,a,1960-01-01,2022-01-01,1
+2023 February Harmonized Index of Consumer Prices: Administered Prices  by Nation (Index 2015=100),country,228,NSA,24,m,2000-12-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Carpets and Other Floor Coverings  by Nation (Index 2015=100),country,4731,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Clothing Materials  by Nation (Index 2015=100),country,3799,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Domestic Services and Household Services by Nation (Index 2015=100),country,1320,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Equipment for the Reception, Recording, and Reproduction of sound and Pictures by Nation (Index 2015=100)",country,4963,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Food and Non-Alcoholic Beverages  by Nation (Index 2015=100),country,3668,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Hairdressing Salons and Personal Grooming Establishments  by Nation (Index 2015=100),country,5127,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Health  by Nation (Index 2015=100),country,4795,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Non-Energy Industrial Goods, Non-Durables Only  by Nation (Index 2015=100)",country,5284,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Other Personal Effects  by Nation (Index 2015=100),country,5151,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Overall Index Excluding Energy and Seasonal Food  by Nation (Index 2015=100),country,3614,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Personal Care  by Nation (Index 2015=100),country,5121,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Services (Overall Index Excluding Goods) by Nation (Index 2015=100),country,1121,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Wine  by Nation (Index 2015=100),country,3769,NSA,24,m,1996-01-01,2023-02-01,1
+2024 Balance of Payments: Total Net Current Account by Nation (Percent of GDP),country,815,NSA,29,a,1990-01-01,2023-01-01,1
+Accommodation and Food Services Earnings,state,1638,SSA,34,q,1998-01-01,2022-07-01,0
+All Employees: Mining and Logging,state,127,NSA,51,m,1990-01-01,2023-01-01,0
+All Marginally Attached Workers,state,598,NSA,4,q,2003-10-01,2022-07-01,0
+Bank Concentration,country,2105,NSA,22,a,1992-01-01,2020-01-01,0
+Bank Z-Score,country,1370,NSA,16,a,1996-01-01,2020-01-01,0
+Bank's Return On Equity,country,25411,NSA,22,a,1996-01-01,2020-01-01,0
+Chain-Type Quantity Index for Real GDP: Administrative and Support Services (NAICS 561),state,131246,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Federal Civilian,state,131333,NSA,27,a,1997-01-01,2021-01-01,0
+"Chain-Type Quantity Index for Real GDP: Forestry, Fishing, and Related Activities (NAICS 113-115)",state,131327,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Furniture and Related Product Manufacturing (NAICS 337),state,131330,NSA,27,a,1997-01-01,2021-01-01,0
+"Chain-Type Quantity Index for Real GDP: Motor Vehicles, Bodies and Trailers, and Parts Manufacturing",state,131384,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Rental and Leasing Services and Lessors of Nonfinancial Inta,state,131455,NSA,27,a,1997-01-01,2021-01-01,0
+Consumer Price Index,country,652,NSA,38,a,1960-01-01,2017-01-01,0
+Currency Conversions: Real Effective Exchange Rates: Overall Economy: CPI,country,1455,NSA,24,q,1970-01-01,2022-10-01,1
+Current Account Balance: Total Services,country,2070,NSA,6,a,1960-01-01,2016-01-01,0
+Current Account Balance: Total Trade of Goods,country,103,NSA,6,a,1960-01-01,2016-01-01,0
+Gross Domestic Product: Air Transportation (NAICS 481),state,131254,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Construction (NAICS 23),state,131278,SSA,5,q,2005-01-01,2022-07-01,0
+"Gross Domestic Product: Data Processing, Hosting, and Other Information Services (NAICS 518, 519)",state,131287,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Federal Civilian,state,131332,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Domestic Product: Natural Resources and Mining (NAICS 11, 21)",state,131386,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Primary Metal Manufacturing (NAICS 331),state,131429,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Real Estate and Rental and Leasing (NAICS 53),state,131457,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: State and Local,state,131341,NSA,5,a,1997-01-01,2021-01-01,0
+"Gross Issuance of International Money Market instruments for All Issuers, Nationality of Issuer",country,38,NSA,37,q,1993-07-01,2015-04-01,0
+"Harmonized Index of Consumer Prices: Overall Index Excluding Energy, Food, Alcohol, and Tobacco ",country,3608,NSA,24,m,1996-01-01,2023-02-01,1
+Harmonized Index of Consumer Prices: Overall Index Excluding Seasonal Food ,country,3644,NSA,24,m,1996-01-01,2023-02-01,1
+Housing Inventory: Active Listing Count,state,246342,NSA,47,m,2016-07-01,2023-02-01,0
+"Net Issues of International Debt Securities for Issuers in Other Financial Corporations, All Maturit",country,221,NSA,37,q,1987-01-01,2015-04-01,0
+Number of Identified Exporters to French Southern Territories,state,697,NSA,46,a,1992-01-01,2016-01-01,0
+Number of Identified Exporters to Iraq,state,2093,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Malta,state,1292,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Morocco,state,152,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Palau,state,1373,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Slovenia,state,307,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Turks and Caicos Islands,state,2017,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Vietnam,state,684,NSA,46,a,1992-01-01,2017-01-01,0
+Per Capita Personal Consumption Expenditures: Services: Other Services,state,119786,NSA,43,a,1997-01-01,2021-01-01,0
+Personal Consumption Expenditures: Services: Final Consumption Expenditures of Nonprofit Institution,state,119764,NSA,5,a,1997-01-01,2021-01-01,0
+Proprietors' Nonfarm Income,state,1686,SSA,5,q,1948-01-01,2022-07-01,0
+Real Gross Domestic Product: All Industry Total,state,1015,SSA,33,q,2005-01-01,2022-07-01,0
+Real Gross Domestic Product: Fabricated Metal Product Manufacturing (NAICS 332),state,131304,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Forestry, Fishing, and Related Activities (NAICS 113-115)",state,131328,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Furniture and Related Product Manufacturing (NAICS 337),state,131331,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Miscellaneous Professional, Scientific, and Technical Services (NAICS 5",state,131376,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Nonmetallic Mineral Product Manufacturing (NAICS 327),state,131394,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Performing Arts, Spectator Sports, Museums, and Related Activities (NAI",state,131425,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Retail Trade (NAICS 44-45),state,131462,SSA,33,q,2005-01-01,2022-07-01,0
+Regional Price Parities: Services: Housing: Metropolitan Portion,state,134644,NSA,8,a,2008-01-01,2021-01-01,0
+Regional Price Parities: Services: Housing: Nonmetropolitan Portion,state,134648,NSA,8,a,2008-01-01,2021-01-01,0
+Regional Price Parities: Services: Other: Nonmetropolitan Portion,state,134649,NSA,8,a,2008-01-01,2021-01-01,0
+"State Government Tax Collections, Corporation Net Income Taxes",state,726,NSA,34,a,1942-01-01,2021-01-01,0
+"State Government Tax Collections, Motor Vehicle Licenses",state,1867,NSA,34,a,1951-01-01,2021-01-01,0
+Total Nonperforming Loans for Commercial Banks,state,715,NSA,34,q,1984-01-01,2020-07-01,0
+Value of Exports to Armenia,state,1550,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Bangladesh,state,1825,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Barbados,state,413,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Denmark,state,40,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Honduras,state,644,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Lithuania,state,561,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Mexico,state,1013,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to New Zealand,state,1403,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Republic of Korea,state,429,NSA,43,a,1992-01-01,2016-01-01,0
+Value of Exports to the Plurinational State of Bolivia,state,1971,NSA,43,a,1992-01-01,2016-01-01,0
+Wholesale Trade Earnings,state,1651,SSA,34,q,1998-01-01,2022-07-01,0
+2014 Lerner Index in Banking Market by Nation (Index),country,293,NSA,8,a,1996-01-01,2014-01-01,0
+"2015 Q2 Net Issues of International Money Market instruments for All Issuers, Residence of Issuer by Nation (Billions of US Dollars)",country,889,NSA,37,q,1993-07-01,2015-04-01,0
+2017 People 15 Years and Over with Account at a Formal Financial Institution by Nation (Percent),country,2173,NSA,22,a,2011-01-01,2017-01-01,0
+2019 Credit to Government and State-Owned Enterprises to GDP by Nation (Percent),country,2149,NSA,22,a,1980-01-01,2019-01-01,0
+2021 Gross Domestic Product Per Capita by Nation (Current U.S. Dollars),country,816,NSA,15,a,1960-01-01,2021-01-01,0
+"2021 Population, Total by Nation (Persons)",country,124,NSA,45,a,1967-01-01,2012-01-01,0
+"2021 Use of Financial Services: Key Indicators, Outstanding Loans From Commercial Banks by Nation (Percent of GDP)",country,32691,NSA,29,a,2004-01-01,2021-01-01,0
+2022 International Trade: Imports: Value (Goods): Total by Nation (Growth rate previous period),country,2116,SA,14,a,1960-01-01,2022-01-01,1
+2023 February Harmonized Index of Consumer Prices: All Items Excluding Mainly Administered Prices  by Nation (Index 2015=100),country,3593,NSA,24,m,2000-12-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Canteens  by Nation (Index 2015=100),country,572,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Electricity, Gas, and Other Fuels  by Nation (Index 2015=100)",country,3886,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Energy  by Nation (Index 2015=100),country,5225,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Financial Services, Not Elsewhere Classified by Nation (Index 2015=100)",country,1698,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Fish and Seafood  by Nation (Index 2015=100),country,3692,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Furnishings, Household Equipment, and Routine Maintenance of the House  by Nation (Index 2015=100)",country,3921,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Gas  by Nation (Index 2015=100),country,3898,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Hospital Services by Nation (Index 2015=100),country,871,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Medical Products, Appliances, and Equipment  by Nation (Index 2015=100)",country,4801,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Milk, Cheese, and Eggs  by Nation (Index 2015=100)",country,3698,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Motor Cars  by Nation (Index 2015=100),country,4851,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Nondurable Household Goods  by Nation (Index 2015=100),country,4784,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Other Articles of Clothing and Clothing Accessories  by Nation (Index 2015=100),country,3811,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Overall Index Excluding Energy and Unprocessed Food  by Nation (Index 2015=100),country,3632,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Overall Index Excluding Seasonal Food  by Nation (Index 2015=100),country,3644,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Processed Food Including Alcohol and Tobacco  by Nation (Index 2015=100),country,5243,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Purchase of Vehicles  by Nation (Index 2015=100),country,4845,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Recording Media  by Nation (Index 2015=100),country,4979,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Recreational and Cultural Services by Nation (Index 2015=100),country,449,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Repair of Household Appliances  by Nation (Index 2015=100),country,4761,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Services, Miscellaneous by Nation (Index 2015=100)",country,1115,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Sugar, Jam, Honey, Chocolate, and Confectionery  by Nation (Index 2015=100)",country,3722,NSA,24,m,1996-01-01,2023-02-01,1
+2023 January U.S. Exports of Goods by F.A.S. Basis by Nation (Millions of Dollars),country,246376,NSA,5,m,1985-01-01,2023-01-01,1
+2024 External Trade: Volume of Exports of Goods and Services by Nation (Percent Change),country,106,NSA,32,a,2016-01-01,2023-01-01,1
+All Employees: Manufacturing,state,1182,NSA,51,m,1990-01-01,2023-01-01,0
+Amount Outstanding Due Within One Year of International Debt Securities for Financial Corporations S,country,100920,NSA,37,q,1993-07-01,2015-04-01,0
+Cash surplus/deficit (% of GDP),country,1881,NSA,29,a,1972-01-01,2014-01-01,0
+Chain-Type Quantity Index for Real GDP: Administrative and Support and Waste Management and Remediat,state,131249,NSA,27,a,1997-01-01,2021-01-01,0
+"Chain-Type Quantity Index for Real GDP: Electrical Equipment, Appliance, and Component Manufacturing",state,131300,NSA,27,a,1997-01-01,2021-01-01,0
+"Chain-Type Quantity Index for Real GDP: Funds, Trusts, and Other Financial Vehicles (NAICS 525)",state,131315,NSA,27,a,1997-01-01,2021-01-01,0
+"Chain-Type Quantity Index for Real GDP: Miscellaneous Professional, Scientific, and Technical Servic",state,131375,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Oil and Gas Extraction (NAICS 211),state,131397,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Real Estate and Rental and Leasing (NAICS 53),state,131458,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Transit and Ground Passenger Transportation (NAICS 485),state,131480,NSA,27,a,1997-01-01,2021-01-01,0
+Commercial Banks,state,1100,NSA,50,q,1984-01-01,2020-07-01,0
+Earnings by Place of Work,state,1378,SSA,34,q,1998-01-01,2022-07-01,0
+"Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults",country,264,NSA,50,a,2004-01-01,2021-01-01,0
+"Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide",country,1498,NSA,50,a,2004-01-01,2021-01-01,0
+"Gross Domestic Product: Finance, Insurance, Real Estate, Rental, and Leasing (NAICS 52, 53)",state,131310,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Manufacturing (NAICS 31-33),state,131362,NSA,5,a,1997-01-01,2021-01-01,0
+"Harmonized Index of Consumer Prices: Overall Index Excluding Housing, Water, Electricity, Gas, and O",country,3638,NSA,24,m,1996-01-01,2023-02-01,1
+Health Insurance Coverage: Total Number of People,state,1991,NSA,51,a,1999-01-01,2012-01-01,0
+Implicit Regional Price Deflator: Nonmetropolitan Portion,state,134656,NSA,20,a,2008-01-01,2021-01-01,0
+Leading Index,state,87,SA,22,m,1982-01-01,2020-02-01,0
+"Net Issues of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer",country,369,NSA,12,q,1962-10-01,2022-10-01,1
+"Net Issues of International Debt Securities for Issuers in Financial Institutions Sector (Banks), Al",country,1452,NSA,37,q,1987-01-01,2015-04-01,0
+"Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities",country,699,NSA,37,q,1993-07-01,2015-04-01,0
+New Private Housing Units Authorized by Building Permits: 1-Unit Structures,state,1313,SA,42,m,1988-01-01,2023-01-01,0
+Number of Identified Exporters to Botswana,state,2084,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Chad,state,1721,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Federated States of Micronesia,state,1572,NSA,46,a,1992-01-01,2016-01-01,0
+Number of Identified Exporters to Ghana,state,1092,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Greece,state,306,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Guyana,state,2083,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Hungary,state,935,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Italy,state,1041,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Jamaica,state,774,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Kenya,state,1623,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Russia,state,1641,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Sri Lanka,state,1391,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Tokelau,state,273,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to United Arab Emirates,state,1933,NSA,46,a,1992-01-01,2017-01-01,0
+Per Capita Personal Consumption Expenditures: Nondurable Goods: Food and Beverages Purchased for Off,state,119774,NSA,43,a,1997-01-01,2021-01-01,0
+Per Capita Personal Consumption Expenditures: Services: Recreation Services,state,119783,NSA,43,a,1997-01-01,2021-01-01,0
+Personal Consumption Expenditures: Goods: Durable Goods: Recreational Goods and Vehicles,state,119747,NSA,5,a,1997-01-01,2021-01-01,0
+Personal Consumption Expenditures: Services: Financial Services and Insurance,state,119761,NSA,5,a,1997-01-01,2021-01-01,0
+Personal Consumption Expenditures: Services: Housing and Utilities,state,119756,NSA,5,a,1997-01-01,2021-01-01,0
+Private Credit by Deposit Money Banks and Other Financial Institutions to GDP,country,1745,NSA,22,a,1960-01-01,2020-01-01,0
+"Real Gross Domestic Product: Apparel, Leather, and Allied Product Manufacturing (NAICS 315-316)",state,131265,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Construction (NAICS 23),state,131280,SSA,33,q,2005-01-01,2022-07-01,0
+Real Gross Domestic Product: Information (NAICS 51),state,131352,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Military,state,131337,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Private Goods-Producing Industries,state,200050,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Wholesale Trade (NAICS 42),state,131505,SSA,33,q,2005-01-01,2022-07-01,0
+Residence Adjustment,state,1437,SSA,34,q,1998-01-01,2022-07-01,0
+"State Government Tax Collections, Property Taxes",state,802,NSA,34,a,1942-01-01,2021-01-01,0
+Stock Market Capitalization to GDP,country,2138,NSA,22,a,1975-01-01,2020-01-01,0
+Total Current Account Balance,country,84,NSA,29,a,1960-01-01,2016-01-01,0
+Value of Exports to Argentina,state,1154,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Bulgaria,state,1118,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Equatorial Guinea,state,981,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Finland,state,940,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Jamaica,state,1318,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Sint Maarten,state,613,NSA,43,a,2011-01-01,2017-01-01,0
+Value of Exports to Switzerland,state,249,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Thailand,state,798,NSA,43,a,1992-01-01,2017-01-01,0
+"2015 Q2 Amount Outstanding of International Money Market instruments for All Issuers, Residence of Issuer by Nation (Billions of US Dollars)",country,877,NSA,37,q,1987-01-01,2015-04-01,0
+2020 Central Bank Assets to GDP by Nation (Percent),country,422,NSA,22,a,1960-01-01,2020-01-01,0
+2021 Gross National Income by Nation (Current U.S. Dollars),country,1043,NSA,15,a,1960-01-01,2021-01-01,0
+2022 Gross Domestic Product by Nation (Current U.S. Dollars),country,1832,NSA,15,a,1960-01-01,2021-01-01,0
+2023 February Harmonized Index of Consumer Prices: Accommodation Services by Nation (Index 2015=100),country,349,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: All Items Excluding Administered Prices  by Nation (Index 2015=100),country,3577,NSA,24,m,2000-12-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: All Items Excluding Fully Administered Prices  by Nation (Index 2015=100),country,3590,NSA,24,m,2000-12-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Audio-Visual, Photographic, and Information Processing Equipment by Nation (Index 2015=100)",country,4957,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Food Products, Not Elsewhere Classified  by Nation (Index 2015=100)",country,3728,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Games, Toys, and Hobbies  by Nation (Index 2015=100)",country,5015,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Garments  by Nation (Index 2015=100),country,3805,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Household Appliances  by Nation (Index 2015=100),country,4749,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Insurance Connected with Health  by Nation (Index 2015=100),country,5175,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Maintenance and Repair of the Dwelling  by Nation (Index 2015=100),country,3841,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Miscellaneous Printed Matter, Stationery, and Drawing Materials  by Nation (Index 2015=100)",country,5071,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Other Services Relating to the Dwelling, Not Elsewhere Classified by Nation (Index 2015=100)",country,2137,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Other Services, Not Elsewhere Classified by Nation (Index 2015=100)",country,643,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Passenger Transport by Road  by Nation (Index 2015=100),country,4902,NSA,24,m,1996-01-01,2023-02-01,1
+"2023 February Harmonized Index of Consumer Prices: Personal Effects, Not Elsewhere Classified  by Nation (Index 2015=100)",country,5139,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Restaurants and Hotels  by Nation (Index 2015=100),country,5089,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Social Protection  by Nation (Index 2015=100),country,5157,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Solid Fuels  by Nation (Index 2015=100),country,3910,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Total Share Prices for All Shares by Nation (Growth rate previous period),country,281294,NSA,14,m,1960-01-01,2023-02-01,1
+2027 Projection of General government net lending/borrowing by Nation (Percent of GDP),country,280,NSA,29,a,2021-01-01,2027-01-01,1
+All Employees: Information,state,1298,SA,51,m,1990-01-01,2023-01-01,0
+Amount Outstanding of International Debt Securities for Issuers in Financial Institutions Sector (Ba,country,998,NSA,37,q,1987-01-01,2015-04-01,0
+Chain-Type Quantity Index for Real GDP: All Industry Total,state,131447,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Computer and Electronic Product Manufacturing (NAICS 334),state,131282,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Computer Systems Design and Related Services (NAICS 5415),state,131285,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Food and Beverage and Tobacco Product Manufacturing (NAICS 3,state,131318,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Health Care and Social Assistance (NAICS 62),state,131345,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Machinery Manufacturing (NAICS 333),state,131360,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Management of Companies and Enterprises (NAICS 55),state,131378,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Military,state,131336,NSA,27,a,1997-01-01,2021-01-01,0
+"Chain-Type Quantity Index for Real GDP: Natural Resources and Mining (NAICS 11, 21)",state,131387,NSA,27,a,1997-01-01,2021-01-01,0
+"Chain-Type Quantity Index for Real GDP: Nondurable Goods Manufacturing (NAICS 311-316, 322-326)",state,131390,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Pipeline Transportation (NAICS 486),state,131416,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Rail Transportation (NAICS 482),state,131449,NSA,27,a,1997-01-01,2021-01-01,0
+Chain-Type Quantity Index for Real GDP: Utilities (NAICS 22),state,131492,SA,27,q,2005-01-01,2022-07-01,0
+Chain-Type Quantity Index for Real GDP: Warehousing and Storage (NAICS 493),state,131495,NSA,27,a,1997-01-01,2021-01-01,0
+Coincident Economic Activity Index,state,1718,SA,18,m,1979-01-01,2022-12-01,0
+Consumer Price Index: All Items: Total: Total,country,2077,NSA,7,a,1960-01-01,2022-01-01,1
+Current Account Balance: Total Income,country,1601,NSA,6,a,1960-01-01,2016-01-01,0
+Current Account Balance: Total Services,country,2070,NSA,29,a,1960-01-01,2016-01-01,0
+Financial Account: Assets: Direct Investment Abroad,country,605,NSA,6,q,1959-07-01,2016-10-01,0
+Financial Account: Liabilities: Direct Foreign Investment in Reporting Country,country,1076,NSA,6,a,1960-01-01,2016-01-01,0
+Financial Account: Net Direct Investment,country,1741,NSA,6,q,1959-07-01,2016-10-01,0
+Geographical Outreach: Key Indicators ATMs Per 1000 Km2,country,888,NSA,50,a,2004-01-01,2021-01-01,0
+Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2,country,1909,NSA,50,a,2004-01-01,2021-01-01,0
+"Gross Domestic Product: Educational Services, Health Care, and Social Assistance (NAICS 61, 62)",state,131296,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Government and Government Enterprises,state,200048,SSA,5,q,2005-01-01,2022-07-01,0
+Gross Domestic Product: Mining (Except Oil and Gas) (NAICS 212),state,131365,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Publishing Industries (Except Internet) (NAICS 511),state,131444,NSA,5,a,1997-01-01,2021-01-01,0
+Gross Domestic Product: Transit and Ground Passenger Transportation (NAICS 485),state,131479,NSA,5,a,1997-01-01,2021-01-01,0
+Harmonized Index of Consumer Prices: All Items Excluding Mainly Administered Prices ,country,3593,NSA,24,m,2000-12-01,2023-02-01,1
+Harmonized Index of Consumer Prices: Overall Index Excluding Energy ,country,3596,NSA,24,m,1996-01-01,2023-02-01,1
+Insurance Company Assets to GDP,country,1592,NSA,22,a,1980-01-01,2019-01-01,0
+Net Earnings by Place of Residence,state,458,SSA,34,q,1998-01-01,2022-07-01,0
+Net Interest Income for Commercial Banks,state,2228,NSA,34,q,1984-01-01,2020-07-01,0
+Net Issues of International Debt Securities for Issuers in Non-Financial Corporations (Corporate Iss,country,26,NSA,37,q,1993-07-01,2015-04-01,0
+"Net Issues of International Debt Securities for Issuers in Other Financial Corporations, All Maturit",country,945,NSA,37,q,1987-01-01,2015-04-01,0
+Number of Bank Branches,country,1408,NSA,35,a,2004-01-01,2019-01-01,0
+Number of Identified Exporters to British Indian Ocean Territory,state,894,NSA,46,a,1992-01-01,2016-01-01,0
+Number of Identified Exporters to China,state,792,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Japan,state,258,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Mexico,state,1636,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to New Zealand,state,174,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to Norway,state,870,NSA,46,a,1992-01-01,2017-01-01,0
+Number of Identified Exporters to the Plurinational State of Bolivia,state,125,NSA,46,a,1992-01-01,2016-01-01,0
+Per Capita Personal Consumption Expenditures: Goods: Durable Goods,state,119768,NSA,43,a,1997-01-01,2021-01-01,0
+Per Capita Personal Consumption Expenditures: Services: Final Consumption Expenditures of Nonprofit ,state,119789,NSA,43,a,1997-01-01,2021-01-01,0
+Per Capita Personal Income,state,882,NSA,43,a,1929-01-01,2021-01-01,0
+Personal Consumption Expenditures: Goods: Durable Goods: Other Durable Goods,state,119748,NSA,5,a,1997-01-01,2021-01-01,0
+Personal Consumption Expenditures: Services: Transportation Services,state,119758,NSA,5,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Administrative and Support and Waste Management and Remediation Service,state,131250,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Arts, Entertainment, Recreation, Accommodation, and Food Services (NAIC",state,131271,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Chemical Manufacturing (NAICS 325),state,131277,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Computer and Electronic Product Manufacturing (NAICS 334),state,131283,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Finance and Insurance (NAICS 52),state,131313,SSA,33,q,2005-01-01,2022-07-01,0
+Real Gross Domestic Product: Food and Beverage and Tobacco Product Manufacturing (NAICS 311-312),state,131319,NSA,33,a,1997-01-01,2021-01-01,0
+Real Gross Domestic Product: Management of Companies and Enterprises (NAICS 55),state,131379,SSA,33,q,2005-01-01,2022-07-01,0
+Real Gross Domestic Product: Motion Picture and Sound Recording Industries (NAICS 512),state,131382,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Natural Resources and Mining (NAICS 11, 21)",state,131388,NSA,33,a,1997-01-01,2021-01-01,0
+"Real Gross Domestic Product: Nondurable Goods Manufacturing (NAICS 311-316, 322-326)",state,131391,SSA,33,q,2005-01-01,2022-07-01,0
+Retail Trade Earnings,state,1836,SSA,34,q,1998-01-01,2022-07-01,0
+Total Current Account Balance,country,84,NSA,6,a,1960-01-01,2016-01-01,0
+Value of Exports to Costa Rica,state,1536,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Czech Republic,state,207,NSA,43,a,1997-01-01,2017-01-01,0
+Value of Exports to Indonesia,state,302,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to Trinidad and Tobago,state,377,NSA,43,a,1992-01-01,2017-01-01,0
+Value of Exports to United Kingdom,state,2183,NSA,43,a,1992-01-01,2017-01-01,0
