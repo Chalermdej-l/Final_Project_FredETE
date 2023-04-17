@@ -57,3 +57,5 @@ seeds:
         country: string
         continent: string
         sub_region: string
+        latitude: float
+        longitude: float

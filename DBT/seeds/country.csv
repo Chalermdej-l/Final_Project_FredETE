@@ -1,250 +1,250 @@
-code,country,continent,sub_region
-AD,Andorra,Europe,Southern Europe
-AE,United Arab Emirates,Asia,Western Asia
-AF,Afghanistan,Asia,Southern Asia
-AG,Antigua and Barbuda,Americas,Caribbean
-AI,Anguilla,Americas,Caribbean
-AL,Albania,Europe,Southern Europe
-AM,Armenia,Asia,Western Asia
-AO,Angola,Africa,Middle Africa
-AQ,Antarctica,Missing,Missing
-AR,Argentina,Americas,South America
-AS,American Samoa,Oceania,Polynesia
-AT,Austria,Europe,Western Europe
-AU,Australia,Oceania,Australia and New Zealand
-AW,Aruba,Americas,Caribbean
-AX,Åland Islands,Europe,Northern Europe
-AZ,Azerbaijan,Asia,Western Asia
-BA,Bosnia and Herzegovina,Europe,Southern Europe
-BB,Barbados,Americas,Caribbean
-BD,Bangladesh,Asia,Southern Asia
-BE,Belgium,Europe,Western Europe
-BF,Burkina Faso,Africa,Western Africa
-BG,Bulgaria,Europe,Eastern Europe
-BH,Bahrain,Asia,Western Asia
-BI,Burundi,Africa,Eastern Africa
-BJ,Benin,Africa,Western Africa
-BL,Saint Barthélemy,Americas,Caribbean
-BM,Bermuda,Americas,Northern America
-BN,Brunei Darussalam,Asia,South-Eastern Asia
-BO,Bolivia (Plurinational State of),Americas,South America
-BQ,"Bonaire, Sint Eustatius and Saba",Americas,Caribbean
-BR,Brazil,Americas,South America
-BS,Bahamas,Americas,Caribbean
-BT,Bhutan,Asia,Southern Asia
-BV,Bouvet Island,Missing,Missing
-BW,Botswana,Africa,Southern Africa
-BY,Belarus,Europe,Eastern Europe
-BZ,Belize,Americas,Central America
-CA,Canada,Americas,Northern America
-CC,Cocos (Keeling) Islands,Missing,Missing
-CD,Congo (Democratic Republic of the),Africa,Middle Africa
-CF,Central African Republic,Africa,Middle Africa
-CG,Congo,Africa,Middle Africa
-CH,Switzerland,Europe,Western Europe
-CI,Côte d'Ivoire,Africa,Western Africa
-CK,Cook Islands,Oceania,Polynesia
-CL,Chile,Americas,South America
-CM,Cameroon,Africa,Middle Africa
-CN,China,Asia,Eastern Asia
-CO,Colombia,Americas,South America
-CR,Costa Rica,Americas,Central America
-CU,Cuba,Americas,Caribbean
-CV,Cabo Verde,Africa,Western Africa
-CW,Curaçao,Americas,Caribbean
-CX,Christmas Island,Missing,Missing
-CY,Cyprus,Asia,Western Asia
-CZ,Czech Republic,Europe,Eastern Europe
-DE,Germany,Europe,Western Europe
-DJ,Djibouti,Africa,Eastern Africa
-DK,Denmark,Europe,Northern Europe
-DM,Dominica,Americas,Caribbean
-DO,Dominican Republic,Americas,Caribbean
-DZ,Algeria,Africa,Northern Africa
-EC,Ecuador,Americas,South America
-EE,Estonia,Europe,Northern Europe
-EG,Egypt,Africa,Northern Africa
-EH,Western Sahara,Africa,Northern Africa
-ER,Eritrea,Africa,Eastern Africa
-ES,Spain,Europe,Southern Europe
-ET,Ethiopia,Africa,Eastern Africa
-FI,Finland,Europe,Northern Europe
-FJ,Fiji,Oceania,Melanesia
-FK,Falkland Islands (Malvinas),Americas,South America
-FM,Micronesia (Federated States of),Oceania,Micronesia
-FO,Faroe Islands,Europe,Northern Europe
-FR,France,Europe,Western Europe
-GA,Gabon,Africa,Middle Africa
-GB,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe
-GD,Grenada,Americas,Caribbean
-GE,Georgia,Asia,Western Asia
-GF,French Guiana,Americas,South America
-GG,Guernsey,Europe,Northern Europe
-GH,Ghana,Africa,Western Africa
-GI,Gibraltar,Europe,Southern Europe
-GL,Greenland,Americas,Northern America
-GM,Gambia,Africa,Western Africa
-GN,Guinea,Africa,Western Africa
-GP,Guadeloupe,Americas,Caribbean
-GQ,Equatorial Guinea,Africa,Middle Africa
-GR,Greece,Europe,Southern Europe
-GS,South Georgia and the South Sandwich Islands,Missing,Missing
-GT,Guatemala,Americas,Central America
-GU,Guam,Oceania,Micronesia
-GW,Guinea-Bissau,Africa,Western Africa
-GY,Guyana,Americas,South America
-HK,Hong Kong,Asia,Eastern Asia
-HM,Heard Island and McDonald Islands,Missing,Missing
-HN,Honduras,Americas,Central America
-HR,Croatia,Europe,Southern Europe
-HT,Haiti,Americas,Caribbean
-HU,Hungary,Europe,Eastern Europe
-ID,Indonesia,Asia,South-Eastern Asia
-IE,Ireland,Europe,Northern Europe
-IL,Israel,Asia,Western Asia
-IM,Isle of Man,Europe,Northern Europe
-IN,India,Asia,Southern Asia
-IO,British Indian Ocean Territory,Missing,Missing
-IQ,Iraq,Asia,Western Asia
-IR,Iran (Islamic Republic of),Asia,Southern Asia
-IS,Iceland,Europe,Northern Europe
-IT,Italy,Europe,Southern Europe
-JE,Jersey,Europe,Northern Europe
-JM,Jamaica,Americas,Caribbean
-JO,Jordan,Asia,Western Asia
-JP,Japan,Asia,Eastern Asia
-KE,Kenya,Africa,Eastern Africa
-KG,Kyrgyzstan,Asia,Central Asia
-KH,Cambodia,Asia,South-Eastern Asia
-KI,Kiribati,Oceania,Micronesia
-KM,Comoros,Africa,Eastern Africa
-KN,Saint Kitts and Nevis,Americas,Caribbean
-KP,Korea (Democratic People's Republic of),Asia,Eastern Asia
-KR,Korea (Republic of),Asia,Eastern Asia
-KW,Kuwait,Asia,Western Asia
-KY,Cayman Islands,Americas,Caribbean
-KZ,Kazakhstan,Asia,Central Asia
-LA,Lao People's Democratic Republic,Asia,South-Eastern Asia
-LB,Lebanon,Asia,Western Asia
-LC,Saint Lucia,Americas,Caribbean
-LI,Liechtenstein,Europe,Western Europe
-LK,Sri Lanka,Asia,Southern Asia
-LR,Liberia,Africa,Western Africa
-LS,Lesotho,Africa,Southern Africa
-LT,Lithuania,Europe,Northern Europe
-LU,Luxembourg,Europe,Western Europe
-LV,Latvia,Europe,Northern Europe
-LY,Libya,Africa,Northern Africa
-MA,Morocco,Africa,Northern Africa
-MC,Monaco,Europe,Western Europe
-MD,Moldova (Republic of),Europe,Eastern Europe
-ME,Montenegro,Europe,Southern Europe
-MF,Saint Martin (French part),Americas,Caribbean
-MG,Madagascar,Africa,Eastern Africa
-MH,Marshall Islands,Oceania,Micronesia
-MK,Macedonia (the former Yugoslav Republic of),Europe,Southern Europe
-ML,Mali,Africa,Western Africa
-MM,Myanmar,Asia,South-Eastern Asia
-MN,Mongolia,Asia,Eastern Asia
-MO,Macao,Asia,Eastern Asia
-MP,Northern Mariana Islands,Oceania,Micronesia
-MQ,Martinique,Americas,Caribbean
-MR,Mauritania,Africa,Western Africa
-MS,Montserrat,Americas,Caribbean
-MT,Malta,Europe,Southern Europe
-MU,Mauritius,Africa,Eastern Africa
-MV,Maldives,Asia,Southern Asia
-MW,Malawi,Africa,Eastern Africa
-MX,Mexico,Americas,Central America
-MY,Malaysia,Asia,South-Eastern Asia
-MZ,Mozambique,Africa,Eastern Africa
-NA,Namibia,Africa,Southern Africa
-NC,New Caledonia,Oceania,Melanesia
-NE,Niger,Africa,Western Africa
-NF,Norfolk Island,Oceania,Australia and New Zealand
-NG,Nigeria,Africa,Western Africa
-NI,Nicaragua,Americas,Central America
-NL,Netherlands,Europe,Western Europe
-NO,Norway,Europe,Northern Europe
-NP,Nepal,Asia,Southern Asia
-NR,Nauru,Oceania,Micronesia
-NU,Niue,Oceania,Polynesia
-NZ,New Zealand,Oceania,Australia and New Zealand
-OM,Oman,Asia,Western Asia
-PA,Panama,Americas,Central America
-PE,Peru,Americas,South America
-PF,French Polynesia,Oceania,Polynesia
-PG,Papua New Guinea,Oceania,Melanesia
-PH,Philippines,Asia,South-Eastern Asia
-PK,Pakistan,Asia,Southern Asia
-PL,Poland,Europe,Eastern Europe
-PM,Saint Pierre and Miquelon,Americas,Northern America
-PN,Pitcairn,Oceania,Polynesia
-PR,Puerto Rico,Americas,Caribbean
-PS,"Palestine, State of",Asia,Western Asia
-PT,Portugal,Europe,Southern Europe
-PW,Palau,Oceania,Micronesia
-PY,Paraguay,Americas,South America
-QA,Qatar,Asia,Western Asia
-RE,Réunion,Africa,Eastern Africa
-RO,Romania,Europe,Eastern Europe
-RS,Serbia,Europe,Southern Europe
-RU,Russian Federation,Europe,Eastern Europe
-RW,Rwanda,Africa,Eastern Africa
-SA,Saudi Arabia,Asia,Western Asia
-SB,Solomon Islands,Oceania,Melanesia
-SC,Seychelles,Africa,Eastern Africa
-SD,Sudan,Africa,Northern Africa
-SE,Sweden,Europe,Northern Europe
-SG,Singapore,Asia,South-Eastern Asia
-SH,"Saint Helena, Ascension and Tristan da Cunha",Africa,Western Africa
-SI,Slovenia,Europe,Southern Europe
-SJ,Svalbard and Jan Mayen,Europe,Northern Europe
-SK,Slovakia,Europe,Eastern Europe
-SL,Sierra Leone,Africa,Western Africa
-SM,San Marino,Europe,Southern Europe
-SN,Senegal,Africa,Western Africa
-SO,Somalia,Africa,Eastern Africa
-SR,Suriname,Americas,South America
-SS,South Sudan,Africa,Eastern Africa
-ST,Sao Tome and Principe,Africa,Middle Africa
-SV,El Salvador,Americas,Central America
-SX,Sint Maarten (Dutch part),Americas,Caribbean
-SY,Syrian Arab Republic,Asia,Western Asia
-SZ,Swaziland,Africa,Southern Africa
-TC,Turks and Caicos Islands,Americas,Caribbean
-TD,Chad,Africa,Middle Africa
-TF,French Southern Territories,Missing,Missing
-TG,Togo,Africa,Western Africa
-TH,Thailand,Asia,South-Eastern Asia
-TJ,Tajikistan,Asia,Central Asia
-TK,Tokelau,Oceania,Polynesia
-TL,Timor-Leste,Asia,South-Eastern Asia
-TM,Turkmenistan,Asia,Central Asia
-TN,Tunisia,Africa,Northern Africa
-TO,Tonga,Oceania,Polynesia
-TR,Turkey,Asia,Western Asia
-TT,Trinidad and Tobago,Americas,Caribbean
-TV,Tuvalu,Oceania,Polynesia
-TW,"Taiwan, Province of China",Asia,Eastern Asia
-TZ,"Tanzania, United Republic of",Africa,Eastern Africa
-UA,Ukraine,Europe,Eastern Europe
-UG,Uganda,Africa,Eastern Africa
-UM,United States Minor Outlying Islands,Missing,Missing
-US,United States of America,Americas,Northern America
-UY,Uruguay,Americas,South America
-UZ,Uzbekistan,Asia,Central Asia
-VA,Holy See,Europe,Southern Europe
-VC,Saint Vincent and the Grenadines,Americas,Caribbean
-VE,Venezuela (Bolivarian Republic of),Americas,South America
-VG,Virgin Islands (British),Americas,Caribbean
-VI,Virgin Islands (U.S.),Americas,Caribbean
-VN,Viet Nam,Asia,South-Eastern Asia
-VU,Vanuatu,Oceania,Melanesia
-WF,Wallis and Futuna,Oceania,Polynesia
-WS,Samoa,Oceania,Polynesia
-YE,Yemen,Asia,Western Asia
-YT,Mayotte,Africa,Eastern Africa
-ZA,South Africa,Africa,Southern Africa
-ZM,Zambia,Africa,Eastern Africa
-ZW,Zimbabwe,Africa,Eastern Africa
+code,country,continent,sub_region,latitude,longitude
+AD,Andorra,Europe,Southern Europe,42.546245,1.601554
+AE,United Arab Emirates,Asia,Western Asia,23.424076,53.847818
+AF,Afghanistan,Asia,Southern Asia,33.93911,67.709953
+AG,Antigua and Barbuda,Americas,Caribbean,17.060816,-61.796428
+AI,Anguilla,Americas,Caribbean,18.220554,-63.068615
+AL,Albania,Europe,Southern Europe,41.153332,20.168331
+AM,Armenia,Asia,Western Asia,40.069099,45.038189
+AO,Angola,Africa,Middle Africa,-11.202692,17.873887
+AQ,Antarctica,Missing,Missing,-75.250973,-0.071389
+AR,Argentina,Americas,South America,-38.416097,-63.616672
+AS,American Samoa,Oceania,Polynesia,-14.270972,-170.132217
+AT,Austria,Europe,Western Europe,47.516231,14.550072
+AU,Australia,Oceania,Australia and New Zealand,-25.274398,133.775136
+AW,Aruba,Americas,Caribbean,12.52111,-69.968338
+AX,Åland Islands,Europe,Northern Europe,60.185203,19.8687711
+AZ,Azerbaijan,Asia,Western Asia,40.143105,47.576927
+BA,Bosnia and Herzegovina,Europe,Southern Europe,43.915886,17.679076
+BB,Barbados,Americas,Caribbean,13.193887,-59.543198
+BD,Bangladesh,Asia,Southern Asia,23.684994,90.356331
+BE,Belgium,Europe,Western Europe,50.503887,4.469936
+BF,Burkina Faso,Africa,Western Africa,12.238333,-1.561593
+BG,Bulgaria,Europe,Eastern Europe,42.733883,25.48583
+BH,Bahrain,Asia,Western Asia,25.930414,50.637772
+BI,Burundi,Africa,Eastern Africa,-3.373056,29.918886
+BJ,Benin,Africa,Western Africa,9.30769,2.315834
+BL,Saint Barthélemy,Americas,Caribbean,17.911471,-62.825373
+BM,Bermuda,Americas,Northern America,32.321384,-64.75737
+BN,Brunei Darussalam,Asia,South-Eastern Asia,4.535277,114.727669
+BO,Bolivia (Plurinational State of),Americas,South America,-16.290154,-63.588653
+BQ,"Bonaire, Sint Eustatius and Saba",Americas,Caribbean,17.497962,-62.972122
+BR,Brazil,Americas,South America,-14.235004,-51.92528
+BS,Bahamas,Americas,Caribbean,25.03428,-77.39628
+BT,Bhutan,Asia,Southern Asia,27.514162,90.433601
+BV,Bouvet Island,Missing,Missing,-54.423199,3.413194
+BW,Botswana,Africa,Southern Africa,-22.328474,24.684866
+BY,Belarus,Europe,Eastern Europe,53.709807,27.953389
+BZ,Belize,Americas,Central America,17.189877,-88.49765
+CA,Canada,Americas,Northern America,56.130366,-106.346771
+CC,Cocos (Keeling) Islands,Missing,Missing,-12.164165,96.870956
+CD,Congo (Democratic Republic of the),Africa,Middle Africa,-4.038333,21.758664
+CF,Central African Republic,Africa,Middle Africa,6.611111,20.939444
+CG,Congo,Africa,Middle Africa,-0.228021,15.827659
+CH,Switzerland,Europe,Western Europe,46.818188,8.227512
+CI,Côte d'Ivoire,Africa,Western Africa,7.539989,-5.54708
+CK,Cook Islands,Oceania,Polynesia,-21.236736,-159.777671
+CL,Chile,Americas,South America,-35.675147,-71.542969
+CM,Cameroon,Africa,Middle Africa,7.369722,12.354722
+CN,China,Asia,Eastern Asia,35.86166,104.195397
+CO,Colombia,Americas,South America,4.570868,-74.297333
+CR,Costa Rica,Americas,Central America,9.748917,-83.753428
+CU,Cuba,Americas,Caribbean,21.521757,-77.781167
+CV,Cabo Verde,Africa,Western Africa,16.002082,-24.013197
+CW,Curaçao,Americas,Caribbean,12.16686,-68.902611
+CX,Christmas Island,Missing,Missing,-10.447525,105.690449
+CY,Cyprus,Asia,Western Asia,35.126413,33.429859
+CZ,Czech Republic,Europe,Eastern Europe,49.817492,15.472962
+DE,Germany,Europe,Western Europe,51.165691,10.451526
+DJ,Djibouti,Africa,Eastern Africa,11.825138,42.590275
+DK,Denmark,Europe,Northern Europe,56.26392,9.501785
+DM,Dominica,Americas,Caribbean,15.414999,-61.370976
+DO,Dominican Republic,Americas,Caribbean,18.735693,-70.162651
+DZ,Algeria,Africa,Northern Africa,28.033886,1.659626
+EC,Ecuador,Americas,South America,-1.831239,-78.183406
+EE,Estonia,Europe,Northern Europe,58.595272,25.013607
+EG,Egypt,Africa,Northern Africa,26.820553,30.802498
+EH,Western Sahara,Africa,Northern Africa,24.215527,-12.885834
+ER,Eritrea,Africa,Eastern Africa,15.179384,39.782334
+ES,Spain,Europe,Southern Europe,40.463667,-3.74922
+ET,Ethiopia,Africa,Eastern Africa,9.145,40.489673
+FI,Finland,Europe,Northern Europe,61.92411,25.748151
+FJ,Fiji,Oceania,Melanesia,-16.578193,179.414413
+FK,Falkland Islands (Malvinas),Americas,South America,-51.796253,-59.523613
+FM,Micronesia (Federated States of),Oceania,Micronesia,7.425554,150.550812
+FO,Faroe Islands,Europe,Northern Europe,61.892635,-6.911806
+FR,France,Europe,Western Europe,46.227638,2.213749
+GA,Gabon,Africa,Middle Africa,-0.803689,11.609444
+GB,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,55.378051,-3.435973
+GD,Grenada,Americas,Caribbean,12.262776,-61.604171
+GE,Georgia,Asia,Western Asia,42.315407,43.356892
+GF,French Guiana,Americas,South America,3.933889,-53.125782
+GG,Guernsey,Europe,Northern Europe,49.465691,-2.585278
+GH,Ghana,Africa,Western Africa,7.946527,-1.023194
+GI,Gibraltar,Europe,Southern Europe,36.137741,-5.345374
+GL,Greenland,Americas,Northern America,71.706936,-42.604303
+GM,Gambia,Africa,Western Africa,13.443182,-15.310139
+GN,Guinea,Africa,Western Africa,9.945587,-9.696645
+GP,Guadeloupe,Americas,Caribbean,16.995971,-62.067641
+GQ,Equatorial Guinea,Africa,Middle Africa,1.650801,10.267895
+GR,Greece,Europe,Southern Europe,39.074208,21.824312
+GS,South Georgia and the South Sandwich Islands,Missing,Missing,-54.429579,-36.587909
+GT,Guatemala,Americas,Central America,15.783471,-90.230759
+GU,Guam,Oceania,Micronesia,13.444304,144.793731
+GW,Guinea-Bissau,Africa,Western Africa,11.803749,-15.180413
+GY,Guyana,Americas,South America,4.860416,-58.93018
+HK,Hong Kong,Asia,Eastern Asia,22.396428,114.109497
+HM,Heard Island and McDonald Islands,Missing,Missing,-53.08181,73.504158
+HN,Honduras,Americas,Central America,15.199999,-86.241905
+HR,Croatia,Europe,Southern Europe,45.1,15.2
+HT,Haiti,Americas,Caribbean,18.971187,-72.285215
+HU,Hungary,Europe,Eastern Europe,47.162494,19.503304
+ID,Indonesia,Asia,South-Eastern Asia,-0.789275,113.921327
+IE,Ireland,Europe,Northern Europe,53.41291,-8.24389
+IL,Israel,Asia,Western Asia,31.046051,34.851612
+IM,Isle of Man,Europe,Northern Europe,54.236107,-4.548056
+IN,India,Asia,Southern Asia,20.593684,78.96288
+IO,British Indian Ocean Territory,Missing,Missing,-6.343194,71.876519
+IQ,Iraq,Asia,Western Asia,33.223191,43.679291
+IR,Iran (Islamic Republic of),Asia,Southern Asia,32.427908,53.688046
+IS,Iceland,Europe,Northern Europe,64.963051,-19.020835
+IT,Italy,Europe,Southern Europe,41.87194,12.56738
+JE,Jersey,Europe,Northern Europe,49.214439,-2.13125
+JM,Jamaica,Americas,Caribbean,18.109581,-77.297508
+JO,Jordan,Asia,Western Asia,30.585164,36.238414
+JP,Japan,Asia,Eastern Asia,36.204824,138.252924
+KE,Kenya,Africa,Eastern Africa,-0.023559,37.906193
+KG,Kyrgyzstan,Asia,Central Asia,41.20438,74.766098
+KH,Cambodia,Asia,South-Eastern Asia,12.565679,104.990963
+KI,Kiribati,Oceania,Micronesia,-3.370417,-168.734039
+KM,Comoros,Africa,Eastern Africa,-11.875001,43.872219
+KN,Saint Kitts and Nevis,Americas,Caribbean,17.357822,-62.782998
+KP,Korea (Democratic People's Republic of),Asia,Eastern Asia,40.339852,127.510093
+KR,Korea (Republic of),Asia,Eastern Asia,35.907757,127.766922
+KW,Kuwait,Asia,Western Asia,29.31166,47.481766
+KY,Cayman Islands,Americas,Caribbean,19.513469,-80.566956
+KZ,Kazakhstan,Asia,Central Asia,48.019573,66.923684
+LA,Lao People's Democratic Republic,Asia,South-Eastern Asia,19.85627,102.495496
+LB,Lebanon,Asia,Western Asia,33.854721,35.862285
+LC,Saint Lucia,Americas,Caribbean,13.909444,-60.978893
+LI,Liechtenstein,Europe,Western Europe,47.166,9.555373
+LK,Sri Lanka,Asia,Southern Asia,7.873054,80.771797
+LR,Liberia,Africa,Western Africa,6.428055,-9.429499
+LS,Lesotho,Africa,Southern Africa,-29.609988,28.233608
+LT,Lithuania,Europe,Northern Europe,55.169438,23.881275
+LU,Luxembourg,Europe,Western Europe,49.815273,6.129583
+LV,Latvia,Europe,Northern Europe,56.879635,24.603189
+LY,Libya,Africa,Northern Africa,26.3351,17.228331
+MA,Morocco,Africa,Northern Africa,31.791702,-7.09262
+MC,Monaco,Europe,Western Europe,43.750298,7.412841
+MD,Moldova (Republic of),Europe,Eastern Europe,47.411631,28.369885
+ME,Montenegro,Europe,Southern Europe,42.708678,19.37439
+MF,Saint Martin (French part),Americas,Caribbean,18.086255,-63.052023
+MG,Madagascar,Africa,Eastern Africa,-18.766947,46.869107
+MH,Marshall Islands,Oceania,Micronesia,7.131474,171.184478
+MK,Macedonia (the former Yugoslav Republic of),Europe,Southern Europe,41.608635,21.745275
+ML,Mali,Africa,Western Africa,17.570692,-3.996166
+MM,Myanmar,Asia,South-Eastern Asia,21.913965,95.956223
+MN,Mongolia,Asia,Eastern Asia,46.862496,103.846656
+MO,Macao,Asia,Eastern Asia,22.198745,113.543873
+MP,Northern Mariana Islands,Oceania,Micronesia,17.33083,145.38469
+MQ,Martinique,Americas,Caribbean,14.641528,-61.024174
+MR,Mauritania,Africa,Western Africa,21.00789,-10.940835
+MS,Montserrat,Americas,Caribbean,16.742498,-62.187366
+MT,Malta,Europe,Southern Europe,35.937496,14.375416
+MU,Mauritius,Africa,Eastern Africa,-20.348404,57.552152
+MV,Maldives,Asia,Southern Asia,3.202778,73.22068
+MW,Malawi,Africa,Eastern Africa,-13.254308,34.301525
+MX,Mexico,Americas,Central America,23.634501,-102.552784
+MY,Malaysia,Asia,South-Eastern Asia,4.210484,101.975766
+MZ,Mozambique,Africa,Eastern Africa,-18.665695,35.529562
+NA,Namibia,Africa,Southern Africa,-22.95764,18.49041
+NC,New Caledonia,Oceania,Melanesia,-20.904305,165.618042
+NE,Niger,Africa,Western Africa,17.607789,8.081666
+NF,Norfolk Island,Oceania,Australia and New Zealand,-29.040835,167.954712
+NG,Nigeria,Africa,Western Africa,9.081999,8.675277
+NI,Nicaragua,Americas,Central America,12.865416,-85.207229
+NL,Netherlands,Europe,Western Europe,52.132633,5.291266
+NO,Norway,Europe,Northern Europe,60.472024,8.468946
+NP,Nepal,Asia,Southern Asia,28.394857,84.124008
+NR,Nauru,Oceania,Micronesia,-0.522778,166.931503
+NU,Niue,Oceania,Polynesia,-19.054445,-169.867233
+NZ,New Zealand,Oceania,Australia and New Zealand,-40.900557,174.885971
+OM,Oman,Asia,Western Asia,21.512583,55.923255
+PA,Panama,Americas,Central America,8.537981,-80.782127
+PE,Peru,Americas,South America,-9.189967,-75.015152
+PF,French Polynesia,Oceania,Polynesia,-17.679742,-149.406843
+PG,Papua New Guinea,Oceania,Melanesia,-6.314993,143.95555
+PH,Philippines,Asia,South-Eastern Asia,12.879721,121.774017
+PK,Pakistan,Asia,Southern Asia,30.375321,69.345116
+PL,Poland,Europe,Eastern Europe,51.919438,19.145136
+PM,Saint Pierre and Miquelon,Americas,Northern America,46.941936,-56.27111
+PN,Pitcairn,Oceania,Polynesia,-24.703615,-127.439308
+PR,Puerto Rico,Americas,Caribbean,18.220833,-66.590149
+PS,"Palestine, State of",Asia,Western Asia,31.952162,35.233154
+PT,Portugal,Europe,Southern Europe,39.399872,-8.224454
+PW,Palau,Oceania,Micronesia,7.51498,134.58252
+PY,Paraguay,Americas,South America,-23.442503,-58.443832
+QA,Qatar,Asia,Western Asia,25.354826,51.183884
+RE,Réunion,Africa,Eastern Africa,-21.115141,55.536384
+RO,Romania,Europe,Eastern Europe,45.943161,24.96676
+RS,Serbia,Europe,Southern Europe,44.016521,21.005859
+RU,Russian Federation,Europe,Eastern Europe,61.52401,105.318756
+RW,Rwanda,Africa,Eastern Africa,-1.940278,29.873888
+SA,Saudi Arabia,Asia,Western Asia,23.885942,45.079162
+SB,Solomon Islands,Oceania,Melanesia,-9.64571,160.156194
+SC,Seychelles,Africa,Eastern Africa,-4.679574,55.491977
+SD,Sudan,Africa,Northern Africa,12.862807,30.217636
+SE,Sweden,Europe,Northern Europe,60.128161,18.643501
+SG,Singapore,Asia,South-Eastern Asia,1.352083,103.819836
+SH,"Saint Helena, Ascension and Tristan da Cunha",Africa,Western Africa,-24.143474,-10.030696
+SI,Slovenia,Europe,Southern Europe,46.151241,14.995463
+SJ,Svalbard and Jan Mayen,Europe,Northern Europe,77.553604,23.670272
+SK,Slovakia,Europe,Eastern Europe,48.669026,19.699024
+SL,Sierra Leone,Africa,Western Africa,8.460555,-11.779889
+SM,San Marino,Europe,Southern Europe,43.94236,12.457777
+SN,Senegal,Africa,Western Africa,14.497401,-14.452362
+SO,Somalia,Africa,Eastern Africa,5.152149,46.199616
+SR,Suriname,Americas,South America,3.919305,-56.027783
+SS,South Sudan,Africa,Eastern Africa,6.306289,29.48184
+ST,Sao Tome and Principe,Africa,Middle Africa,0.18636,6.613081
+SV,El Salvador,Americas,Central America,13.794185,-88.89653
+SX,Sint Maarten (Dutch part),Americas,Caribbean,18.042315,-63.073451
+SY,Syrian Arab Republic,Asia,Western Asia,34.802075,38.996815
+SZ,Swaziland,Africa,Southern Africa,-26.522503,31.465866
+TC,Turks and Caicos Islands,Americas,Caribbean,21.694025,-71.797928
+TD,Chad,Africa,Middle Africa,15.454166,18.732207
+TF,French Southern Territories,Missing,Missing,-49.280366,69.348557
+TG,Togo,Africa,Western Africa,8.619543,0.824782
+TH,Thailand,Asia,South-Eastern Asia,15.870032,100.992541
+TJ,Tajikistan,Asia,Central Asia,38.861034,71.276093
+TK,Tokelau,Oceania,Polynesia,-8.967363,-171.855881
+TL,Timor-Leste,Asia,South-Eastern Asia,-8.874217,125.727539
+TM,Turkmenistan,Asia,Central Asia,38.969719,59.556278
+TN,Tunisia,Africa,Northern Africa,33.886917,9.537499
+TO,Tonga,Oceania,Polynesia,-21.178986,-175.198242
+TR,Turkey,Asia,Western Asia,38.963745,35.243322
+TT,Trinidad and Tobago,Americas,Caribbean,10.691803,-61.222503
+TV,Tuvalu,Oceania,Polynesia,-7.109535,177.64933
+TW,"Taiwan, Province of China",Asia,Eastern Asia,23.69781,120.960515
+TZ,"Tanzania, United Republic of",Africa,Eastern Africa,-6.369028,34.888822
+UA,Ukraine,Europe,Eastern Europe,48.379433,31.16558
+UG,Uganda,Africa,Eastern Africa,1.373333,32.290275
+UM,United States Minor Outlying Islands,Missing,Missing,0,0
+US,United States of America,Americas,Northern America,37.09024,-95.712891
+UY,Uruguay,Americas,South America,-32.522779,-55.765835
+UZ,Uzbekistan,Asia,Central Asia,41.377491,64.585262
+VA,Holy See,Europe,Southern Europe,41.902916,12.453389
+VC,Saint Vincent and the Grenadines,Americas,Caribbean,12.984305,-61.287228
+VE,Venezuela (Bolivarian Republic of),Americas,South America,6.42375,-66.58973
+VG,Virgin Islands (British),Americas,Caribbean,18.420695,-64.639968
+VI,Virgin Islands (U.S.),Americas,Caribbean,18.335765,-64.896335
+VN,Viet Nam,Asia,South-Eastern Asia,14.058324,108.277199
+VU,Vanuatu,Oceania,Melanesia,-15.376706,166.959158
+WF,Wallis and Futuna,Oceania,Polynesia,-13.768752,-177.156097
+WS,Samoa,Oceania,Polynesia,-13.759029,-172.104629
+YE,Yemen,Asia,Western Asia,15.552727,48.516388
+YT,Mayotte,Africa,Eastern Africa,-12.8275,45.166244
+ZA,South Africa,Africa,Southern Africa,-30.559482,22.937506
+ZM,Zambia,Africa,Eastern Africa,-13.133897,27.849332
+ZW,Zimbabwe,Africa,Eastern Africa,-19.015438,29.154857
