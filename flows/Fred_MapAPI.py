@@ -64,6 +64,7 @@ def getApiMap(para_regiontype,para_seriesgroup,para_season,para_unit,para_freque
 def cleandata(df,groupid):
     str_col = ['region','code','series_id']
     df_map = pd.json_normalize(df,record_path=['data'],meta=['date'])
+    df_map['date'] = pd.to_datetime(df_map['date'])
     df_map['groupid'] = int(groupid)            
     df_map[str_col] = df_map[str_col].astype('string')
     df_map['value'] = df_map['value'].astype('float')
