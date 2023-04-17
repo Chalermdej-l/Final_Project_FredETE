@@ -101,25 +101,11 @@ class clean_df:
 
 class query_bq:
     query_getseriesPara = f'''
-        SELECT id FROM `{os.getenv("Prefect_Credential")}.dbo.Category` where 
-    id not in (SELECT distinct parent_id FROM `{os.getenv("Prefect_Credential")}.dbo.Category`)
-    order by id
+    SELECT distinct id FROM `{os.getenv("Gcp_Project_id")}.dbt_devlopmentemp.stg_category_dev`
+where id not in (
+SELECT distinct parent_id FROM `{os.getenv("Gcp_Project_id")}.dbt_devlopmentemp.stg_category_dev`)
+order by id
     '''
-#     query_getMapPara = '''
-#     SELECT
-#       [region_type]
-#       ,[series_group]
-#       ,[season]
-#       ,u.units
-#       ,[frequency]
-#       ,EXTRACT(DATE FROM min_date) as mindate
-#       ,EXTRACT(DATE FROM max_date) as maxdate
-#  FROM `ete-projectdatatalkclub.dbo.Series_GroupMeta`  g
-# inner join `ete-projectdatatalkclub.dim.Dim_Unit` u
-#   on g.unitid	 =u.id
-# where  Active = 1
-# order by series_group
-#     '''
 
     query_getMapPara =f'''
     SELECT 
@@ -129,8 +115,7 @@ class query_bq:
       ,[units]
       ,[frequency]
       ,min_date
-      ,max_date 
- FROM `{os.getenv("Prefect_Credential")}.dbt_devlopmentemp.series_group`
+ FROM `{os.getenv("Gcp_Project_id")}.dbt_devlopmentemp.series_group`
 where Active = 1
 order by series_group
     '''

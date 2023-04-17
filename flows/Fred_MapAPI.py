@@ -61,11 +61,10 @@ def getApiMap(para_regiontype,para_seriesgroup,para_season,para_unit,para_freque
             return 'retry'
 
 @task(name='Cleandata_Map',log_prints=True)
-def cleandata(df,date,groupid):
+def cleandata(df,groupid):
     str_col = ['region','code','series_id']
-    df_map = pd.json_normalize(df[date])
-    df_map['date'] = datetime.datetime.strptime(date,"%Y-%m-%d")
-    df_map['groupid'] = groupid            
+    df_map = pd.json_normalize(df,record_path=['data'],meta=['date'])
+    df_map['groupid'] = int(groupid)            
     df_map[str_col] = df_map[str_col].astype('string')
     df_map['value'] = df_map['value'].astype('float')
     return df_map
@@ -84,11 +83,11 @@ def main(version='initial'):
         para_unit        = api_para[3][0]
         para_frequency   = api_para[4][0]
         if version=='daily':
-            para_mindate     = api_para[6]
+            para_mindate     = current_date
             para_maxdate     = current_date
         else:
             para_mindate     = api_para[5]
-            para_maxdate     = api_para[6]
+            para_maxdate     = current_date
 
         retry = 0
         while retry <3:
@@ -109,11 +108,19 @@ def main(version='initial'):
         
         print(f'Uploading file to cloud for {para_seriesgroup}')   
         time_para = list(data_date.keys())
+        dict_df= {}
+        list_df =[]
+
         for day in time_para:
-            df_map =  cleandata(data_date,day,para_seriesgroup)
-            uppload_path =f'map/{para_seriesgroup}/MapData_{para_seriesgroup}_{day}.parquet'
-            bucket.blob(uppload_path).upload_from_string(df_map.to_parquet(), 'text/parquet')
-            time.sleep(1)
+            dict_df['date'] = day
+            dict_df['data'] = data_date[day]
+            list_df.append(dict_df)
+            dict_df= {}
+        df_map =  cleandata(list_df,para_seriesgroup)
+        uppload_path =f'map/{para_seriesgroup}/MapData_{para_seriesgroup}_{para_mindate}_{para_maxdate}.parquet'
+        bucket.blob(uppload_path).upload_from_string(df_map.to_parquet(), 'text/parquet')
+        time.sleep(1)
+            
     print('Finish running the function.')
     return True
 
