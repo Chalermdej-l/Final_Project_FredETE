@@ -25,9 +25,12 @@ vm-connectfred:
 
 vm-setup:
 	sudo apt-get update -y
-	sudo apt install docker docker-compose python3-pip -y
+	sudo apt install docker python3-pip -y
 	sudo chmod 666 /var/run/docker.sock
+	sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+	sudo chmod +x /usr/local/bin/docker-compose	
 	pip3 install make
+	docker-compose --version
 
 # docker-compose --version
 vm-copycred:

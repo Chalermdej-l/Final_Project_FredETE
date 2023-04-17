@@ -1,3 +1,9 @@
+from dotenv import load_dotenv
+import os
+
+basedir=os.getcwd()
+load_dotenv(os.path.join(basedir, './.env'))
+
 class endpoint_url:
     main_url                        = 'https://api.stlouisfed.org/fred'
     main_url_geo                    = 'https://api.stlouisfed.org/geofred'
@@ -94,23 +100,37 @@ class clean_df:
 
 
 class query_bq:
-    query_getseriesPara = '''
-        SELECT id FROM `ete-projectdatatalkclub.dbo.Category` where 
-    id not in (SELECT distinct parent_id FROM `ete-projectdatatalkclub.dbo.Category`)
+    query_getseriesPara = f'''
+        SELECT id FROM `{os.getenv("Prefect_Credential")}.dbo.Category` where 
+    id not in (SELECT distinct parent_id FROM `{os.getenv("Prefect_Credential")}.dbo.Category`)
     order by id
     '''
-    query_getMapPara = '''
-    SELECT
-      [region_type]
+#     query_getMapPara = '''
+#     SELECT
+#       [region_type]
+#       ,[series_group]
+#       ,[season]
+#       ,u.units
+#       ,[frequency]
+#       ,EXTRACT(DATE FROM min_date) as mindate
+#       ,EXTRACT(DATE FROM max_date) as maxdate
+#  FROM `ete-projectdatatalkclub.dbo.Series_GroupMeta`  g
+# inner join `ete-projectdatatalkclub.dim.Dim_Unit` u
+#   on g.unitid	 =u.id
+# where  Active = 1
+# order by series_group
+#     '''
+
+    query_getMapPara =f'''
+    SELECT 
+    [region_type]
       ,[series_group]
       ,[season]
-      ,u.units
+      ,[units]
       ,[frequency]
-      ,EXTRACT(DATE FROM min_date) as mindate
-      ,EXTRACT(DATE FROM max_date) as maxdate
- FROM `ete-projectdatatalkclub.dbo.Series_GroupMeta`  g
-inner join `ete-projectdatatalkclub.dim.Dim_Unit` u
-  on g.unitid	 =u.id
-where  Active = 1
+      ,min_date
+      ,max_date 
+ FROM `{os.getenv("Prefect_Credential")}.dbt_devlopmentemp.series_group`
+where Active = 1
 order by series_group
     '''
