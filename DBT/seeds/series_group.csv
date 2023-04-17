@@ -43,7 +43,7 @@ Gross Domestic Product: Miscellaneous Manufacturing (NAICS 339),state,131371,NSA
 Gross Domestic Product: Private Industries,state,131414,SSA,5,q,2005-01-01,2022-07-01,0
 "Gross Domestic Product: Professional, Scientific, and Technical Services (NAICS 54)",state,131439,SSA,5,q,2005-01-01,2022-07-01,0
 Harmonized Index of Consumer Prices: Overall Index Excluding Liquid Fuels and Lubricants for Persona,country,3626,NSA,24,m,1996-01-01,2023-02-01,1
-Internet users,country,469,NSA,41,a,1960-01-01,2021-01-01,0
+Internet users,country,469,NSA,41,a,1960-01-01,2021-01-01,1
 Liquid Liabilities to GDP,country,657,NSA,22,a,1960-01-01,2020-01-01,0
 Management of Companies and Enterprises Wages and Salaries,state,1795,SSA,34,q,1998-01-01,2022-07-01,0
 New Private Housing Units Authorized By Building Permits: 1-Unit Structures,state,1313,NSA,42,m,1988-01-01,2023-01-01,0
@@ -63,8 +63,8 @@ Number of Identified Exporters to Slovakia,state,986,NSA,46,a,1997-01-01,2017-01
 Number of Identified Exporters to Vatican City State,state,324,NSA,46,a,1992-01-01,2016-01-01,0
 Per Capita Personal Consumption Expenditures: Services,state,119778,NSA,43,a,1997-01-01,2021-01-01,0
 Per Capita Personal Consumption Expenditures: Services: Health Care,state,119781,NSA,43,a,1997-01-01,2021-01-01,0
-"Population, Total",country,124,NSA,45,5 Year,1967-01-01,2012-01-01,0
-"Population, Total",country,124,NSA,45,a,1960-01-01,2021-01-01,0
+"Population, Total",country,124,NSA,45,5 Year,1967-01-01,2012-01-01,1
+"Population, Total",country,124,NSA,45,a,1960-01-01,2021-01-01,1
 Real Gross Domestic Product: Accommodation and Food Services (NAICS 72),state,131241,NSA,33,a,1997-01-01,2021-01-01,0
 Real Gross Domestic Product: Air Transportation (NAICS 481),state,131256,NSA,33,a,1997-01-01,2021-01-01,0
 Real Gross Domestic Product: Ambulatory Health Care Services (NAICS 621),state,131259,NSA,33,a,1997-01-01,2021-01-01,0
@@ -216,7 +216,7 @@ Current Account Credit: Trade: Total Exports of Goods,country,321,NSA,6,a,1960-0
 Deposit Money Bank Assets to GDP,country,188,NSA,22,a,1960-01-01,2020-01-01,0
 Ease of doing business index,country,1155,NSA,39,a,2015-01-01,2019-01-01,0
 "Forestry, Fishing, Related Activities, and Other Earnings",state,1245,SSA,34,q,1998-01-01,2022-07-01,0
-"Geographical Outreach: Key Indicators ATMs Per 100,000 Adults",country,364,NSA,50,a,2004-01-01,2021-01-01,0
+"Geographical Outreach: Key Indicators ATMs Per 100,000 Adults",country,364,NSA,50,a,2004-01-01,2021-01-01,1
 Geographical Outreach: Number of Commercial Banks,country,2222,NSA,50,a,2004-01-01,2021-01-01,0
 Gross Domestic Product: Accommodation and Food Services (NAICS 72),state,124475,SSA,5,q,2005-01-01,2022-07-01,0
 "Gross Domestic Product: Agriculture, Forestry, Fishing and Hunting (NAICS 11)",state,131251,SSA,5,q,2005-01-01,2022-07-01,0
@@ -277,8 +277,8 @@ Value of Exports to Nigeria,state,975,NSA,43,a,1992-01-01,2017-01-01,0
 2020 Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets by Nation (Percent),country,1242,NSA,22,a,1960-01-01,2020-01-01,0
 2020 Volatility of Stock Price Index by Nation (Index),country,1192,NSA,8,a,1984-01-01,2020-01-01,0
 2021 General government gross debt by Nation (Percent of GDP),country,219,NSA,29,a,1980-01-01,2021-01-01,0
-"2021 Infant Mortality Rate by Nation (Number per 1,000 Live Births)",country,2148,NSA,13,a,1960-01-01,2021-01-01,0
-2021 Internet users by Nation (Per 100 People),country,469,NSA,41,a,1960-01-01,2021-01-01,0
+"2021 Infant Mortality Rate by Nation (Number per 1,000 Live Births)",country,2148,NSA,13,a,1960-01-01,2021-01-01,1
+2021 Internet users by Nation (Per 100 People),country,469,NSA,41,a,1960-01-01,2021-01-01,1
 "2022 Q4 Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer by Nation (Millions of US Dollars)",country,83,NSA,12,q,1962-10-01,2022-10-01,1
 2023 February Harmonized Index of Consumer Prices: Beer  by Nation (Index 2015=100),country,3775,NSA,24,m,1996-01-01,2023-02-01,1
 2023 February Harmonized Index of Consumer Prices: Bread and Cereals  by Nation (Index 2015=100),country,3680,NSA,24,m,1996-01-01,2023-02-01,1
@@ -465,8 +465,8 @@ Value of Exports to Niger,state,410,NSA,43,a,1992-01-01,2017-01-01,0
 2020 Bank's Overhead Costs to Total Assets by Nation (Percent),country,1540,NSA,22,a,1996-01-01,2020-01-01,0
 2020 External Loans and Deposits of Reporting Banks in Relation to the Banking Sector by Nation (Percent),country,247,NSA,22,a,1995-01-01,2020-01-01,0
 2020 Private Credit by Deposit Money Banks to GDP by Nation (Percent),country,1823,NSA,22,a,1960-01-01,2020-01-01,0
-"2021 Geographical Outreach: Key Indicators ATMs Per 100,000 Adults by Nation (Number)",country,364,NSA,50,a,2004-01-01,2021-01-01,0
-2021 Geographical Outreach: Key Indicators ATMs Per 1000 Km2 by Nation (Number),country,888,NSA,50,a,2004-01-01,2021-01-01,0
+"2021 Geographical Outreach: Key Indicators ATMs Per 100,000 Adults by Nation (Number)",country,364,NSA,50,a,2004-01-01,2021-01-01,1
+2021 Geographical Outreach: Key Indicators ATMs Per 1000 Km2 by Nation (Number),country,888,NSA,50,a,2004-01-01,2021-01-01,1
 "2021 Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks by Nation (Number)",country,931,NSA,50,a,2004-01-01,2021-01-01,0
 "2021 Use of Financial Services: Key Indicators, Outstanding Deposits With Commercial Banks by Nation (Percent of GDP)",country,100626,NSA,29,a,2004-01-01,2021-01-01,0
 "2022 Q3 Amount Outstanding of Total Debt Securities in Non-Financial Corporations Sector, All Maturities, Residence of Issuer by Nation (Millions of US Dollars)",country,435,NSA,12,q,1952-01-01,2022-07-01,1
@@ -566,7 +566,7 @@ Value of Exports to Taiwan,state,1670,NSA,43,a,1992-01-01,2016-01-01,0
 2017 Value of Exports to Lithuania by State (Dollars),state,561,NSA,43,a,1992-01-01,2017-01-01,0
 2019 Outstanding International Public Debt Securities to GDP by Nation (Percent),country,300,NSA,22,a,1980-01-01,2019-01-01,0
 2020 Bank's Net Interest Margin by Nation (Percent),country,463,NSA,22,a,1996-01-01,2020-01-01,0
-"2020 Fertility Rate, Total by Nation (Births per Woman)",country,1382,NSA,52,a,1960-01-01,2020-01-01,0
+"2020 Fertility Rate, Total by Nation (Births per Woman)",country,1382,NSA,52,a,1960-01-01,2020-01-01,1
 "2020 Life Expectancy at Birth, Total by Nation (Number of Years)",country,1515,NSA,36,a,1960-01-01,2020-01-01,0
 2020 Number of Listed Companies by Nation (Number of Listed Companies per Million People),country,73,NSA,11,a,1975-01-01,2020-01-01,0
 2022 Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product by Nation (Index 2015=100),country,281299,SA,24,a,1960-01-01,2022-01-01,1
@@ -602,7 +602,7 @@ Current Account Credit: Trade: Total Exports of Goods,country,321,SA,6,q,1959-07
 Current Account Debit: Total Services,country,925,SA,6,q,1959-07-01,2016-10-01,0
 Deposit Money Bank Assets to Deposit Money Bank Assets and Central Bank Assets,country,1242,NSA,22,a,1960-01-01,2020-01-01,0
 Finance and Insurance Earnings,state,759,SSA,34,q,1998-01-01,2022-07-01,0
-Gross Domestic Product,country,1832,NSA,15,a,1960-01-01,2021-01-01,0
+Gross Domestic Product,country,1832,NSA,15,a,1960-01-01,2021-01-01,1
 Gross Domestic Product: Accommodation (NAICS 721),state,131242,NSA,5,a,1997-01-01,2021-01-01,0
 Gross Domestic Product: Administrative and Support and Waste Management and Remediation Services (NA,state,131248,NSA,5,a,1997-01-01,2021-01-01,0
 Gross Domestic Product: All Industry Total,state,690,NSA,5,a,1997-01-01,2021-01-01,0
@@ -739,7 +739,7 @@ Value of Exports to Zambia,state,872,NSA,43,a,1992-01-01,2017-01-01,0
 2020 Deposit Money Bank Assets to GDP by Nation (Percent),country,188,NSA,22,a,1960-01-01,2020-01-01,0
 2020 Private Credit by Deposit Money Banks and Other Financial Institutions to GDP by Nation (Percent),country,1745,NSA,22,a,1960-01-01,2020-01-01,0
 "2021 Literacy Rate, Adult Total by Nation (Percent of People Ages 15 and Above)",country,1947,NSA,9,a,1970-01-01,2021-01-01,0
-2021 Population ages 65 and above by Nation (Percent of Total),country,1610,NSA,30,a,1960-01-01,2021-01-01,0
+2021 Population ages 65 and above by Nation (Percent of Total),country,1610,NSA,30,a,1960-01-01,2021-01-01,1
 2022 Harmonised Unemployment - Monthly Rates: Total: All Persons by Nation (Percent),country,200057,NSA,22,a,1960-01-01,2022-01-01,1
 "2022 International Trade: Exports: Value (Goods): Total by Nation (US Dollars, monthly level)",country,351,SA,44,a,1960-01-01,2022-01-01,1
 "2022 Q4 Amount Outstanding Due Within One Year of International Debt Securities for Non-financial Corporations Sector, Residence of Issuer by Nation (Millions of US Dollars)",country,100986,NSA,12,q,1966-01-01,2022-10-01,1
@@ -841,7 +841,7 @@ Value of Exports to United Arab Emirates,state,693,NSA,43,a,1992-01-01,2017-01-0
 2020 Liquid Liabilities (Broad Money) by Nation (Millions of 2000 Dollars),country,1064,NSA,49,a,1960-01-01,2020-01-01,0
 2020 Stock Market Total Value Traded to GDP by Nation (Percent),country,1127,NSA,22,a,1975-01-01,2020-01-01,0
 2020 Stock Market Turnover Ratio (Value Traded/Capitalization) by Nation (Percent),country,990,NSA,22,a,1975-01-01,2020-01-01,0
-"2021 Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide by Nation (Number)",country,1498,NSA,50,a,2004-01-01,2021-01-01,0
+"2021 Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide by Nation (Number)",country,1498,NSA,50,a,2004-01-01,2021-01-01,1
 2022 National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product - Total by Nation (Index 2015=100),country,1480,SA,24,a,1960-01-01,2022-01-01,1
 2022 Q3 Real Residential Property Prices by Nation (Percent per Annum),country,1543,NSA,26,q,1948-01-01,2022-07-01,1
 "2022 Q4 Amount Outstanding Due Within One Year of International Debt Securities for General Government Sector, Residence of Issuer by Nation (Millions of US Dollars)",country,100965,NSA,12,q,1962-10-01,2022-10-01,1
@@ -931,7 +931,7 @@ Wholesale Trade Earnings,state,1651,SSA,34,q,1998-01-01,2022-07-01,0
 2017 People 15 Years and Over with Account at a Formal Financial Institution by Nation (Percent),country,2173,NSA,22,a,2011-01-01,2017-01-01,0
 2019 Credit to Government and State-Owned Enterprises to GDP by Nation (Percent),country,2149,NSA,22,a,1980-01-01,2019-01-01,0
 2021 Gross Domestic Product Per Capita by Nation (Current U.S. Dollars),country,816,NSA,15,a,1960-01-01,2021-01-01,0
-"2021 Population, Total by Nation (Persons)",country,124,NSA,45,a,1967-01-01,2012-01-01,0
+"2021 Population, Total by Nation (Persons)",country,124,NSA,45,a,1967-01-01,2012-01-01,1
 "2021 Use of Financial Services: Key Indicators, Outstanding Loans From Commercial Banks by Nation (Percent of GDP)",country,32691,NSA,29,a,2004-01-01,2021-01-01,0
 2022 International Trade: Imports: Value (Goods): Total by Nation (Growth rate previous period),country,2116,SA,14,a,1960-01-01,2022-01-01,1
 2023 February Harmonized Index of Consumer Prices: All Items Excluding Mainly Administered Prices  by Nation (Index 2015=100),country,3593,NSA,24,m,2000-12-01,2023-02-01,1
@@ -972,7 +972,7 @@ Chain-Type Quantity Index for Real GDP: Transit and Ground Passenger Transportat
 Commercial Banks,state,1100,NSA,50,q,1984-01-01,2020-07-01,0
 Earnings by Place of Work,state,1378,SSA,34,q,1998-01-01,2022-07-01,0
 "Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults",country,264,NSA,50,a,2004-01-01,2021-01-01,0
-"Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide",country,1498,NSA,50,a,2004-01-01,2021-01-01,0
+"Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide",country,1498,NSA,50,a,2004-01-01,2021-01-01,1
 "Gross Domestic Product: Finance, Insurance, Real Estate, Rental, and Leasing (NAICS 52, 53)",state,131310,NSA,5,a,1997-01-01,2021-01-01,0
 Gross Domestic Product: Manufacturing (NAICS 31-33),state,131362,NSA,5,a,1997-01-01,2021-01-01,0
 "Harmonized Index of Consumer Prices: Overall Index Excluding Housing, Water, Electricity, Gas, and O",country,3638,NSA,24,m,1996-01-01,2023-02-01,1
@@ -1068,7 +1068,7 @@ Current Account Balance: Total Services,country,2070,NSA,29,a,1960-01-01,2016-01
 Financial Account: Assets: Direct Investment Abroad,country,605,NSA,6,q,1959-07-01,2016-10-01,0
 Financial Account: Liabilities: Direct Foreign Investment in Reporting Country,country,1076,NSA,6,a,1960-01-01,2016-01-01,0
 Financial Account: Net Direct Investment,country,1741,NSA,6,q,1959-07-01,2016-10-01,0
-Geographical Outreach: Key Indicators ATMs Per 1000 Km2,country,888,NSA,50,a,2004-01-01,2021-01-01,0
+Geographical Outreach: Key Indicators ATMs Per 1000 Km2,country,888,NSA,50,a,2004-01-01,2021-01-01,1
 Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2,country,1909,NSA,50,a,2004-01-01,2021-01-01,0
 "Gross Domestic Product: Educational Services, Health Care, and Social Assistance (NAICS 61, 62)",state,131296,NSA,5,a,1997-01-01,2021-01-01,0
 Gross Domestic Product: Government and Government Enterprises,state,200048,SSA,5,q,2005-01-01,2022-07-01,0
