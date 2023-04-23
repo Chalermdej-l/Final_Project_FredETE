@@ -118,7 +118,7 @@ def main(version='initial'):
             list_df.append(dict_df)
             dict_df= {}
         df_map =  cleandata(list_df,para_seriesgroup)
-        uppload_path =f'map/{para_seriesgroup}/MapData_{para_seriesgroup}_{para_mindate}_{para_maxdate}.parquet'
+        uppload_path =f'map/{para_seriesgroup}/MapData_{para_seriesgroup}_{time_para[-1]}_{para_maxdate}.parquet'
         bucket.blob(uppload_path).upload_from_string(df_map.to_parquet(), 'text/parquet')
         time.sleep(1)
             

@@ -39,3 +39,18 @@ vm-copycred:
 vm-codecopy:	
 	gcloud compute scp --project="${Gcp_Project_id}" --zone="${Gcp_Zone}" flows/Fred_MapAPI.py ${Email}@fred-productionapi:"./Final_Project_FredETE/flows/"
 # gcloud compute scp --project="${Gcp_Project_id}" --zone="${Gcp_Zone}" flows/Fred_Series.py ${Email}@productionvm:"./Final_Project_FredETE/flows/"
+
+infra-setup:
+	terraform -chdir=./infra init
+	terraform -chdir=./infra plan
+
+infra-down:
+	terraform -chdir=./infra destroy -auto-approve
+
+infra-create:
+	terraform -chdir=./infra apply -auto-approve
+
+infra-connect:
+	ssh -i .ssh/fredkey ${Email}@${vm_Externalip}
+
+
