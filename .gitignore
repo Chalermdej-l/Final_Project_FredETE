@@ -160,7 +160,7 @@ cython_debug/
 connectvm.bat
 
 /.ssh
-/cred
+/cred/credential.json
 
 /infra/.terraform
 /infra/.terraform.lock.hcl
