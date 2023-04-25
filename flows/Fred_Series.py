@@ -7,20 +7,20 @@ from prefect import flow,task
 from google.cloud import storage
 from config import query_bq,clean_df
 from prefect.deployments import Deployment
-from prefect_gcp import GcpCredentials
+from prefect.orion.schemas.schedules import CronSchedule
 from dotenv import load_dotenv
 
 basedir=os.getcwd()
 load_dotenv(os.path.join(basedir, './.env'))
-gcp_credentials_block = GcpCredentials.load(os.getenv("Prefect_Credential"))
 
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = os.getenv("Google_Cred_path")
 
 
 @task(name='Get_BQ_SQL_Series',log_prints=True)
 def GetBQdata(query):     
     df_bq = pd.read_gbq(query=query,
-    project_id=os.getenv("Gcp_Project_id"),
-    credentials=gcp_credentials_block.get_credentials_from_service_account()
+    project_id=os.getenv("Gcp_Project_id")
+
     )
     return df_bq
 
@@ -91,7 +91,7 @@ def cleanseriesdf(data,id):
 @flow(name='Function call Series',log_prints=True)
 def main():
     # Get series id base on cat id
-    client = storage.Client(credentials=gcp_credentials_block.get_credentials_from_service_account())
+    client = storage.Client()
     bucket = client.get_bucket(os.getenv("Gcs_Bucket_name"))
     time_stamp = datetime.datetime.now().strftime('%Y-%m-%d')
     query = query_bq.query_getseriesPara
@@ -129,7 +129,9 @@ def main():
 def deploy():
     deployment = Deployment.build_from_flow(
         flow=main,
-        name="Fred-Series"
+        name="Fred-Series",
+        schedule=(CronSchedule(cron="0 5 * * *"))
+
     )
     deployment.apply()
 

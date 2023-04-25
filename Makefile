@@ -15,6 +15,15 @@ deployment-create:
 	docker-compose run job flows/Fred_MapAPI.py
 	docker-compose run job flows/Fred_Category_Scape.py
 
+deployment-dbtdev:
+	docker-compose run job flows/DBT_job --target dev --schedule n
+
+deployment-dbtprod:
+	docker-compose run job flows/DBT_job --target prod --schedule y
+
+update-yml:
+	docker-compose run job flows/Updateyml.py
+
 
 vm-connect:
 	ssh -i ~/.ssh/fred_project ${Email}@${vm_Externalipfred}
@@ -52,5 +61,6 @@ infra-create:
 
 infra-connect:
 	ssh -i .ssh/fredkey ${Email}@${vm_Externalip}
+
 
 

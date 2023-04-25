@@ -7,12 +7,11 @@ from prefect.deployments import Deployment
 from prefect import flow,task
 from google.cloud import storage
 from dotenv import load_dotenv
-from prefect_gcp import GcpCredentials
+from prefect.orion.schemas.schedules import CronSchedule
 
 basedir=os.getcwd()
 load_dotenv(os.path.join(basedir, './.env'))
-
-gcp_credentials_block = GcpCredentials.load(os.getenv("Prefect_Credential"))
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = os.getenv("Google_Cred_path")
 
 @task(name='Get Web Content Category',log_prints=True)
 def getWebdata():
@@ -80,7 +79,7 @@ def main():
     df_category[['name','parent_name']] = df_category[['name','parent_name']].astype('string')
     df_category[['id','parent_id']] = df_category[['id','parent_id']].fillna(0).astype('int')
 
-    client = storage.Client(credentials=gcp_credentials_block.get_credentials_from_service_account())
+    client = storage.Client()
 
     time_stamp = datetime.datetime.now().strftime('%Y-%m-%d')
     bucket = client.get_bucket(os.getenv("Gcs_Bucket_name"))
@@ -95,7 +94,8 @@ def main():
 def deploy():
     deployment = Deployment.build_from_flow(
         flow=main,
-        name="Fred-Category"
+        name="Fred-Category",
+        schedule=(CronSchedule(cron="30 5 * * *"))
     )
     deployment.apply()
 

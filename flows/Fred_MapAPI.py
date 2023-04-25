@@ -6,22 +6,22 @@ import os
 from prefect.deployments import Deployment
 from prefect import flow,task
 from google.cloud import storage
+from prefect.orion.schemas.schedules import CronSchedule
 from config import query_bq 
-from prefect_gcp import GcpCredentials
 from dotenv import load_dotenv
 
 
 basedir=os.getcwd()
 load_dotenv(os.path.join(basedir, './.env'))
 
-gcp_credentials_block = GcpCredentials.load(os.getenv("Prefect_Credential"))
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = os.getenv("Google_Cred_path")
+
 
 @task(name='Get_BQ_SQL_Map',log_prints=True)
 def GetBQdata(query): 
 
     df_bq = pd.read_gbq(query=query,
     project_id=os.getenv("Gcp_Project_id"),
-    credentials=gcp_credentials_block.get_credentials_from_service_account()
     )
     return df_bq
 
@@ -73,7 +73,7 @@ def cleandata(df,groupid):
 @flow(name='Function call Map',log_prints=True)
 def main(version='initial'):    
     series_parameter = GetBQdata(query_bq.query_getMapPara)
-    client = storage.Client(credentials=gcp_credentials_block.get_credentials_from_service_account())
+    client = storage.Client()
     bucket = client.get_bucket(os.getenv("Gcs_Bucket_name"))
 
     current_date = datetime.datetime.now().strftime('%Y-%m-%d')
@@ -118,7 +118,7 @@ def main(version='initial'):
             list_df.append(dict_df)
             dict_df= {}
         df_map =  cleandata(list_df,para_seriesgroup)
-        uppload_path =f'map/{para_seriesgroup}/MapData_{para_seriesgroup}_{time_para[-1]}_{para_maxdate}.parquet'
+        uppload_path =f'map/{para_seriesgroup}/MapData_{para_seriesgroup}.parquet'
         bucket.blob(uppload_path).upload_from_string(df_map.to_parquet(), 'text/parquet')
         time.sleep(1)
             
@@ -130,7 +130,8 @@ def main(version='initial'):
 def deploy():
     deployment = Deployment.build_from_flow(
         flow=main,
-        name="Fred-MapAPI"
+        name="Fred-MapAPI",
+        schedule=(CronSchedule(cron="0 6 * * *"))
     )
     deployment.apply()
 

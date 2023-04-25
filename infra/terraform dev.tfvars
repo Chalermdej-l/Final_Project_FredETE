@@ -1,0 +1,13 @@
+project_id = "unique-bebop-384607"
+zone = "asia-southeast1-b"
+region = "asia-southeast1"
+account_id = "testgcs"
+email ="biggerde"
+bucketname = "fred-etedata-prod"
+
+# project_id = "Gcp_Project_id"
+# zone ="Gcp_Zone"
+# region = "Gcp_Region"
+# account_id = "Account_id"
+# email ="Email"
+# bucketname = "Gcs_Bucket_name"
