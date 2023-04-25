@@ -5,7 +5,7 @@ docker-build:
 	docker build --build-arg Prefect_Workspace=${Prefect_Workspace} --build-arg Prefect_API_KEY=${Prefect_API_KEY} -f dockerfile -t python_prefect_dbt .
 
 docker-up:
-	docker-compose --profile agent up
+	docker-compose --profile agent up --detach
 
 docker-clean:
 	docker-compose down --remove-orphans
@@ -16,38 +16,32 @@ deployment-create:
 	docker-compose run job flows/Fred_Category_Scape.py
 
 deployment-dbtdev:
-	docker-compose run job flows/DBT_job --target dev --schedule n
+	docker-compose run job flows/DBT_job.py --target dev --schedule n
 
 deployment-dbtprod:
-	docker-compose run job flows/DBT_job --target prod --schedule y
+	docker-compose run job flows/DBT_job.py --target prod --schedule y
 
 update-yml:
-	docker-compose run job flows/Updateyml.py
+	python flows/Updateyml.py
 
 
 vm-connect:
-	ssh -i ~/.ssh/fred_project ${Email}@${vm_Externalipfred}
-# ssh -i ~/.ssh/fred_project ${Email}@${vm_Externalip}
-# May need to run "sudo chmod 777 Final_Project_FredETE" to make it accessable
-
+	ssh -i .ssh/fredkey ${Email}@${vm_Externalip}
 
 vm-setup:
 	sudo apt-get update -y
-	sudo apt install docker python3-pip -y
+	sudo apt install docker.io -y
 	sudo chmod 666 /var/run/docker.sock
 	sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 	sudo chmod +x /usr/local/bin/docker-compose	
-	pip3 install make
 	docker-compose --version
 
-# docker-compose --version
 vm-copycred:
 	gcloud compute scp --project="${Gcp_Project_id}" --zone="${Gcp_Zone}" .env ${Email}@fred-productionapi:"./Final_Project_FredETE/"
-# gcloud compute scp --project="${Gcp_Project_id}" --zone="${Gcp_Zone}" .env ${Email}@productionvm:"./Final_Project_FredETE/"
-# May need to run "sudo chmod 777 Final_Project_FredETE" to make it accessable
+
 vm-codecopy:	
 	gcloud compute scp --project="${Gcp_Project_id}" --zone="${Gcp_Zone}" flows/Fred_MapAPI.py ${Email}@fred-productionapi:"./Final_Project_FredETE/flows/"
-# gcloud compute scp --project="${Gcp_Project_id}" --zone="${Gcp_Zone}" flows/Fred_Series.py ${Email}@productionvm:"./Final_Project_FredETE/flows/"
+
 
 infra-setup:
 	terraform -chdir=./infra init
@@ -58,9 +52,6 @@ infra-down:
 
 infra-create:
 	terraform -chdir=./infra apply -auto-approve
-
-infra-connect:
-	ssh -i .ssh/fredkey ${Email}@${vm_Externalip}
 
 
 

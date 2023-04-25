@@ -1,4 +1,4 @@
-DBT:
+final_project_fred:
   outputs:
     dev:
       type: bigquery

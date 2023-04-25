@@ -1,6 +1,6 @@
 
 resource "google_storage_bucket" "bucketfred" {
-  name          = "fred-etedata2_testtest"
+  name          = var.bucketname
   location      = var.region
   force_destroy = true
   storage_class = "Standard"
