@@ -28,7 +28,7 @@ update-yml-linix:
 	python3 flows/Updateyml.py
 
 dbt-ingest:
-	docker-compose run job flows/DBT_ingest.py 
+	docker-compose run job flows/DBT_ingest.py --target dev
 	docker-compose run job flows/DBT_ingest.py --target prod
 
 vm-connect:
@@ -39,6 +39,8 @@ vm-setup:
 	sudo apt install docker.io -y
 	sudo chmod 666 /var/run/docker.sock
 	sleep 1
+
+vm-setupdocker:
 	sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 	sudo chmod +x /usr/local/bin/docker-compose
 	docker-compose --version
