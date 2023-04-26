@@ -166,3 +166,4 @@ connectvm.bat
 /infra/terraform.tfstate
 /infra/terraform.tfstate.backup
 /logs
+dataflow.pptx

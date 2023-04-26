@@ -102,17 +102,13 @@ class clean_df:
 class query_bq:
     query_getseriesPara = f'''
     SELECT distinct id FROM `{os.getenv("Gcp_Project_id")}.dbt_prod.stg_category`
-where id not in (
-SELECT distinct parent_id FROM `{os.getenv("Gcp_Project_id")}.dbt_prod.stg_category`)
-and parent_name  in ('Interest Rates','International Data','Money, Banking, & Finance','National Income & Product Accounts','Prices') 
+where parent_name  in ('Interest Rates','International Data','Money, Banking, & Finance','National Income & Product Accounts','Prices','National Accounts') 
 order by id
     '''
 
     query_getseriesPara_dev = f'''
     SELECT distinct id FROM `{os.getenv("Gcp_Project_id")}.dbt_dev.stg_category`
-where id not in (
-SELECT distinct parent_id FROM `{os.getenv("Gcp_Project_id")}.dbt_dev.stg_category`)
-and parent_name  in ('Interest Rates','International Data','Money, Banking, & Finance','National Income & Product Accounts','Prices') 
+where parent_name  in ('Interest Rates','International Data','Money, Banking, & Finance','National Income & Product Accounts','Prices','National Accounts') 
 order by id
     '''
 
