@@ -3,7 +3,7 @@ version: 2
 
 sources:
   - name: stagging
-    database: "Gcp_Project_id"
+    database: ${Gcp_Project_id}
     schema: dbt_prod
 
     tables:

@@ -21,8 +21,11 @@ deployment-dbtdev:
 deployment-dbtprod:
 	docker-compose run job flows/DBT_job.py --target prod --schedule y
 
-update-yml:
+update-yml-window:
 	python flows/Updateyml.py
+
+update-yml-linix:
+	python3 flows/Updateyml.py
 
 dbt-ingest:
 	docker-compose run job flows/DBT_ingest.py 
@@ -35,10 +38,10 @@ vm-setup:
 	sudo apt-get update -y
 	sudo apt install docker.io -y
 	sudo chmod 666 /var/run/docker.sock
+	sleep 1
 	sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
-	sudo chmod +x /usr/local/bin/docker-compose	
+	sudo chmod +x /usr/local/bin/docker-compose
 	docker-compose --version
-
 vm-copycred:
 	gcloud compute scp --project="${Gcp_Project_id}" --zone="${Gcp_Zone}" .env ${Email}@fred-productionapi:"./Final_Project_FredETE/"
 	gcloud compute scp --project="${Gcp_Project_id}" --zone="${Gcp_Zone}" cred/credential.json ${Email}@fred-productionapi:"./Final_Project_FredETE/cred/"

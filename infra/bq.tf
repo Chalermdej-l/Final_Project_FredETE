@@ -14,7 +14,7 @@ resource "google_bigquery_dataset" "prod_db" {
   delete_contents_on_destroy = true
 }
 
-resource "google_bigquery_table" "tablemap" {
+resource "google_bigquery_table" "tablemap-dev" {
   dataset_id          = google_bigquery_dataset.dev_db.dataset_id
   table_id            = "stg_map"
   deletion_protection = false
@@ -59,7 +59,7 @@ resource "google_bigquery_table" "tablemap" {
     EOF
 }
 
-resource "google_bigquery_table" "tablecategory" {
+resource "google_bigquery_table" "tablecategory-dev" {
   dataset_id          = google_bigquery_dataset.dev_db.dataset_id
   table_id            = "stg_category"
   deletion_protection = false
@@ -95,7 +95,7 @@ resource "google_bigquery_table" "tablecategory" {
 }
 
 
-resource "google_bigquery_table" "tableseries" {
+resource "google_bigquery_table" "tableseries-dev" {
   dataset_id          = google_bigquery_dataset.dev_db.dataset_id
   table_id            = "stg_series"
   deletion_protection = false
