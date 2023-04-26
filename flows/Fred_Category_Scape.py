@@ -87,7 +87,7 @@ def main():
     print('Moving file to archive folder')
     movearchive(bucket,'series')
 
-    uppload_path =f'staging/category/CategoryData_{time_stamp}.parquet'
+    uppload_path =f'stagging/category/CategoryData_{time_stamp}.parquet'
     print(f'Uploading file to cloud.')
     bucket.blob(uppload_path).upload_from_string(df_category.to_parquet(), 'text/parquet')
     return True
@@ -95,7 +95,7 @@ def deploy():
     deployment = Deployment.build_from_flow(
         flow=main,
         name="Fred-Category",
-        schedule=(CronSchedule(cron="30 5 * * *"))
+        schedule=(CronSchedule(cron="0 5 * * *"))
     )
     deployment.apply()
 

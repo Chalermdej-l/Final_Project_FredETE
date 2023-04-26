@@ -3,8 +3,8 @@ version: 2
 
 sources:
   - name: stagging
-    database: ete-projectdatatalkclub
-    schema: dbt_devlopmentemp
+    database: "Gcp_Project_id"
+    schema: dbt_prod
 
     tables:
       - name: stg_category

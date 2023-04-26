@@ -120,7 +120,7 @@ def main():
             id_data = {}
     print(f'Currnet item {item} uploading to cloud')
     df_series = cleanseriesdf(all_list,id_data)
-    uppload_path =f'staging/series/{time_stamp}/SeriesData_{indexfile}_{time_stamp}.parquet'
+    uppload_path =f'stagging/series/{time_stamp}/SeriesData_{indexfile}_{time_stamp}.parquet'
     print(f'Uploading file to cloud for {time_stamp} category data.')
 
     # Upload to bucket
@@ -130,7 +130,7 @@ def deploy():
     deployment = Deployment.build_from_flow(
         flow=main,
         name="Fred-Series",
-        schedule=(CronSchedule(cron="0 5 * * *"))
+        schedule=(CronSchedule(cron="30 5 * * *"))
 
     )
     deployment.apply()

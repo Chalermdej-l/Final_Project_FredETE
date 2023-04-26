@@ -24,6 +24,9 @@ deployment-dbtprod:
 update-yml:
 	python flows/Updateyml.py
 
+dbt-ingest:
+	docker-compose run job flows/DBT_ingest.py 
+	docker-compose run job flows/DBT_ingest.py --target prod
 
 vm-connect:
 	ssh -i .ssh/fredkey ${Email}@${vm_Externalip}
@@ -38,6 +41,7 @@ vm-setup:
 
 vm-copycred:
 	gcloud compute scp --project="${Gcp_Project_id}" --zone="${Gcp_Zone}" .env ${Email}@fred-productionapi:"./Final_Project_FredETE/"
+	gcloud compute scp --project="${Gcp_Project_id}" --zone="${Gcp_Zone}" cred/credential.json ${Email}@fred-productionapi:"./Final_Project_FredETE/cred/"
 
 vm-codecopy:	
 	gcloud compute scp --project="${Gcp_Project_id}" --zone="${Gcp_Zone}" flows/Fred_MapAPI.py ${Email}@fred-productionapi:"./Final_Project_FredETE/flows/"

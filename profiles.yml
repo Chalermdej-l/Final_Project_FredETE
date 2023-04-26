@@ -5,7 +5,7 @@ final_project_fred:
       dataset: dbt_dev
       job_execution_timeout_seconds: 300
       job_retries: 1
-      keyfile: cred/credential.json
+      keyfile: ../cred/credential.json
       location: asia-southeast1
       method: service-account
       priority: interactive
@@ -16,10 +16,10 @@ final_project_fred:
       dataset: dbt_prod
       job_execution_timeout_seconds: 300
       job_retries: 1
-      keyfile: cred/credential.json
+      keyfile: ../cred/credential.json
       location: asia-southeast1
       method: service-account
       priority: interactive
       project: ${Gcp_Project_id}
       threads: 1
-  target: dev
+  target: prod

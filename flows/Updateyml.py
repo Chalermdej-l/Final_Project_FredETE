@@ -13,6 +13,13 @@ def main():
     with open('profiles.yml','w') as e:
         e.write(content)
 
+    with open('DBT/models/stagging/schema.yml','r') as e:
+        content = e.read()
+        content = content.replace("${Gcp_Project_id}",os.getenv("Gcp_Project_id"))
+    with open('DBT/models/stagging/schema.yml','w') as e:
+        e.write(content)
+
+
     with open('infra/terraform.tfvars','r') as f:
         con = f.read()
 
