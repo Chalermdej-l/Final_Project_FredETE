@@ -240,8 +240,8 @@ This will run the DBT seed and set up the data for the script to run
 Please go to [Prefect](https://app.prefect.cloud/auth/login) and run the job in below order to start ingesting the data
 
 1. Fred-Category
-2. 
-3. Fred-Series
+
+2. Fred-Series
 
 3. Fred-MapAPI
 
