@@ -237,3 +237,5 @@ After finish running all the job the data will be ingest into [BigQuery](https:/
 
 
 ## Further Improvements
+* Implement CI/CD
+* Explore other Endpoint of the API
