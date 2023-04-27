@@ -56,7 +56,7 @@ The Data flow for this project
 
 ### (1) Ingest the Data via API
 
-The data is called from [API](https://fred.stlouisfed.org/docs/api/fred/#API). We first need to get the category id from for all the topics FRED does not have an endpoint to get all the category id from the API so to get this data we need to escape it from the [Category](https://fred.stlouisfed.org/categories) using [Python script](https://www.notion.so/flows/Fred_Category_Scape.py). Checking the [Robots.txt](https://fred.stlouisfed.org/robots.txt) Fred does not disallow scraping of this data. After we get the id we then call the [Cagetory Series](https://fred.stlouisfed.org/docs/api/fred/category_series.html) endpoint to get all the series associated with the category. After we get the series id we call [Maps API - Series Group Info](https://fred.stlouisfed.org/docs/api/geofred/series_group.html) to get the group id of the series not all series IDs have group id. I have called the series with the group id and saved them in this [CSV](https://www.notion.so/DBT/seeds/series_group.csv) then we use the series id to cal the [Maps API - Series Data](https://fred.stlouisfed.org/docs/api/geofred/series_data.html) endpoint which will return the data by country for the series id we requested.
+The data is called from [API](https://fred.stlouisfed.org/docs/api/fred/#API). We first need to get the category id from for all the topics FRED does not have an endpoint to get all the category id from the API so to get this data we need to escape it from the [Category](https://fred.stlouisfed.org/categories) using [Python script](/flows/DBT_ingest.py). Checking the [Robots.txt](https://fred.stlouisfed.org/robots.txt) Fred does not disallow scraping of this data. After we get the id we then call the [Cagetory Series](https://fred.stlouisfed.org/docs/api/fred/category_series.html) endpoint to get all the series associated with the category. After we get the series id we call [Maps API - Series Group Info](https://fred.stlouisfed.org/docs/api/geofred/series_group.html) to get the group id of the series not all series IDs have group id. I have called the series with the group id and saved them in this [CSV](/DBT/seeds/series_group.csv) then we use the series id to cal the [Maps API - Series Data](https://fred.stlouisfed.org/docs/api/geofred/series_data.html) endpoint which will return the data by country for the series id we requested.
 
 ### (2) Load data via an External table
 
@@ -70,12 +70,12 @@ Then move to the archive folder after the next day's data point is called.
 
 For Map data, we store them in the Map folder.
 
-We use Google BigQuery to call the data using external table data sources this connection is defined in [Terraform](https://www.notion.so/infra/bq.tf) file.
+We use Google BigQuery to call the data using external table data sources this connection is defined in [Terraform](/infra/bq.tf) file.
 I separated the dataset into 2 datasets for development and production.
 
 ### (3) Data tranformation
 
-This project uses [DBT](https://www.notion.so/DBT) for data transformation the model is separated into 2 stages core and stagging. In staging this is for casting the data type into the correct type and in core use this to join all the tables from stagging and from seed into one table
+This project uses [DBT](/DBT) for data transformation the model is separated into 2 stages core and stagging. In staging this is for casting the data type into the correct type and in core use this to join all the tables from stagging and from seed into one table
 
 ### (4) Visualize data to find insight
 
@@ -92,9 +92,9 @@ Used prefect as an orchestrator tool to schedule the daily call of our script an
 Prerequisite:
 To reproduce this project you would need the below account
 
-1. [Google Cloud Account](https://www.notion.so/other/gcpsetup/)
-2. [Prefect Cloud](https://www.notion.so/other/prefectsetup/)
-3. [Fred's Economic](https://www.notion.so/other/fredsetup/)
+1. [Google Cloud Account](/other/gcpsetup)
+2. [Prefect Cloud](/other/prefectsetup)
+3. [Fred's Economic](/other/fredsetup)
 
 You also need below package
 
@@ -117,7 +117,7 @@ Access the clone directory
 cd Final_Project_FredETE
 ```
 
-Input the credential create in the `Prerequisite` step into the [.env](https://www.notion.so/.env) file
+Input the credential create in the `Prerequisite` step into the [.env](/.env) file
 
 Run the following command using Makefile depending on your system
 
@@ -129,7 +129,7 @@ make update-yml-window
 make update-yml-linix
 ```
 
-This code will populate the credential in the YAML file using the credential input in the [.env](https://www.notion.so/.env) file
+This code will populate the credential in the YAML file using the credential input in the [.env](/.env) file
 
 Next, let's create the infrastructure to run
 
