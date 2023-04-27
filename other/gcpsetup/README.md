@@ -6,6 +6,7 @@
 - [Create Service Account](#2-create-a-service-account)
 - [Assign Role](#3-assign-role-to-the-account)
 - [Create Key](#4-create-service-account-keys)
+- [Enable Comput Engine API](#5-enable-comput-engine-api)
 - [Credential needed](#credential-needed)
 
 ## 1 Create New Project
@@ -52,6 +53,10 @@ Go to Keys > Add key > Create new key > Json
 ![/other/image/gcpsetup7.png](/other/image/gcpsetup7.png)
 
 Once create there will be a key download in JSON format please change the file name to `credential.json`
+
+## 5 Enable Comput Engine API
+
+Please enable the [Compute Engine API](https://console.cloud.google.com/apis/library/compute.googleapis.com)
 
 ## Credential needed
 
