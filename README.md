@@ -119,6 +119,11 @@ cd Final_Project_FredETE
 
 Input the credential create in the `Prerequisite` step into the [.env](/.env) file
 
+And input the credential.json create in Google Cloud Account into the folder cred
+
+![credential](/other/image/gcpsetup8.png)
+
+
 Run the following command using Makefile depending on your system
 
 ```
