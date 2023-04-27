@@ -251,7 +251,7 @@ This will setup the schedule daily script in prefect
 To set up the data to call the script please run
 
 ```
-make make dbt-ingest
+make dbt-ingest
 ```
 
 This will run the DBT seed and set up the data for the script to run
