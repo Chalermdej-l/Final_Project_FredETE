@@ -74,8 +74,8 @@ Then move to the archive folder after the next day's data point is called.
 
 For Map data, we store them in the Map folder.
 
-We use Google BigQuery to call the data using external table data sources this connection is defined in [Terraform](/infra/bq.tf) file.
-I separated the dataset into 2 datasets for development and production.
+We use Google BigQuery to connect to the data using external table data sources this connection is defined in [Terraform](/infra/bq.tf) file.
+The dataset is seperate into 2 datasets for development and production.
 
 ### (3) Data tranformation
 
@@ -84,10 +84,9 @@ This project uses [DBT](/DBT) for data transformation the model is separated int
 ### (4) Visualize data to find insight
 
 Use Looker Studio to connect to the BigQuery data warehouse and create reports to find trends and insight
-
 ![/other/image/bucket1.png](/other/image/Dashboard.png)
 
-[Dashboard](https://lookerstudio.google.com/reporting/88eb65d7-c3ec-44b1-898a-55ded00812a0)
+[Link to the Dashboard](https://lookerstudio.google.com/reporting/88eb65d7-c3ec-44b1-898a-55ded00812a0)
 
 ### (5)(6) Schedule daily data ingest and transformation
 
