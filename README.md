@@ -33,7 +33,7 @@ This project used tool belows.
 * Makefile for ease of reproducability
 
 ## Project Data flow
-![data flow](/other/image/dataflow.png)
+![data flow](/other/image/dataflow.PNG)
 The Data flow for this project
 
 ## (1) Ingest the Data via API
