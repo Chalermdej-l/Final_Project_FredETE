@@ -94,7 +94,6 @@ To reproduce this project you would need the below account
 
 1. [Google Cloud Account](https://www.notion.so/other/gcpsetup/)
 2. [Prefect Cloud](https://www.notion.so/other/prefectsetup/)
-
 3. [Fred's Economic](https://www.notion.so/other/fredsetup/)
 
 You also need below package
@@ -102,7 +101,7 @@ You also need below package
 1. [Makefile](https://pypi.org/project/make/) `pip install  make`
 2. [Gcloud CLI](https://pypi.org/project/gcloud/) `pip install gcloud`
 3. [Terraform](https://developer.hashicorp.com/terraform/downloads)
-4. [DotEnv]([pip install python-dotenv](https://pypi.org/project/python-dotenv/)) `pip install python-dotenv`
+4. [DotEnv](https://pypi.org/project/python-dotenv/) `pip install python-dotenv`
 
 ### Step 1: Create infrastructure
 
@@ -241,11 +240,12 @@ This will run the DBT seed and set up the data for the script to run
 Please go to [Prefect](https://app.prefect.cloud/auth/login) and run the job in below order to start ingesting the data
 
 1. Fred-Category
-2. Fred-Series
+2. 
+3. Fred-Series
 
 3. Fred-MapAPI
 
-1. DBT-Daily-prod
+4. DBT-Daily-prod
 
 After finish running all the jobs the data will be ingested into [BigQuery](https://console.cloud.google.com/bigquery)
 
