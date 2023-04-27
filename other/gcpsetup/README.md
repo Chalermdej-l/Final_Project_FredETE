@@ -58,6 +58,7 @@ Once create there will be a key download in json format please change the file n
 
 2.Account_id in step 2
 
-3.Email the email without domain name registe in the google account for example register with "example@domain.com" then only use "example"
+3.Email name useed to registe in the google account with out the domain name
+For example register with "example@domain.com" then only use "example"
 
 4.Credential Json file generated in step 4 please don't forget to rename to ``` credential.json ```
