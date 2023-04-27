@@ -4,6 +4,10 @@
 * [Technologies](#technologies)
 * [Project Data flow](#project-data-flow)
   - [(1) Ingest the Data via API](#1-ingest-the-data-via-api)
+  - [(2) Load data via External table](#2-load-data-via-external-table)
+  - [(3) Data tranformation](#3-data-tranformation)
+  - [(4) Visualize data to find insight](#4-visualize-data-to-find-insight)
+  - [(5)(6) Schedule daily data ingest and tranformation](#56-schedule-daily-data-ingest-and-tranformation)
 * [Reproducability](#reproducability)
 * [Further Improvements](#further-improvements)
 ## Problem Statement
