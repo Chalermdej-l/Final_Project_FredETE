@@ -1,5 +1,12 @@
 # Step to Create FRED API Key
 
+## Table of contents
+
+* [Create an Account](#1-create-an-account)
+* [Generate API Key Page](#generate-api-key)
+* [Credential needed](#credential-needed)
+
+
 ## 1 Create an Account
 
 Please go to [FRED website](https://fred.stlouisfed.org/docs/api/api_key.html ) and create the account.
