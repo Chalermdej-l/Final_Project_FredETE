@@ -71,7 +71,7 @@ Used prefect as an orchestrator tool to schedule the daily call of our script an
 Prerequisite:
 To reproduce this project you would need the below acount
 
-1.[Google Cloud Account] (/other/gcpsetup)
+1.[Google Cloud Account](/other/gcpsetup/)
 
 2.[Prefect Cloud]
 
