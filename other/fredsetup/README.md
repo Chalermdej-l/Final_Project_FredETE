@@ -1,15 +1,23 @@
-Welcome to your new dbt project!
+# Step to Create FRED API Key
 
-### Using the starter project
+## 1 Create an Account
 
-Try running the following commands:
-- dbt run
-- dbt test
+Please go to [FRED website](https://fred.stlouisfed.org/docs/api/api_key.html ) and create the account.
+please hit the `Request or view your API keys`
 
+![/other/image/prefectsetup1.png](/other/image/fredetup1.png)
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [dbt community](http://community.getbdt.com/) to learn from other analytics engineers
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+## 2 Generate API Key
+
+Please select `Request API Key`
+
+![/other/image/prefectsetup1.png](/other/image/fredetup2.png)
+
+Then input a basic description and hit request API Key 
+
+![/other/image/prefectsetup1.png](/other/image/fredetup3.png)
+
+## Credential needed
+
+1. FRED API Key in Step 2
+
