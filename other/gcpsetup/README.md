@@ -51,5 +51,10 @@ Go to Keys > Add key > Create new key > Json
 
 ![](/other/image/gcpsetup7.png)
 
-Once create there will be a key download in json format please change the file name to “credential.json”
+Once create there will be a key download in json format please change the file name to ``` credential.json ```
 
+## Credential needed
+1.Gcp_Project_id in step 1
+2.Account_id in step 2
+3.Email the email without domain name registe in the google account for example register with "example@domain.com" then only use "example"
+4.Credential Json file generated in step 4 please don't forget to rename to ``` credential.json ```
