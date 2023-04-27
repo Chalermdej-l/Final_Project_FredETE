@@ -81,6 +81,8 @@ This project uses [DBT](/DBT) for data transformation the model is separated int
 
 Use Looker Studio to connect to the BigQuery data warehouse and create reports to find trends and insight
 
+![/other/image/bucket1.png](/other/image/Dashboard.png)
+
 [Dashboard](https://lookerstudio.google.com/reporting/88eb65d7-c3ec-44b1-898a-55ded00812a0)
 
 ### (5)(6) Schedule daily data ingest and transformation
