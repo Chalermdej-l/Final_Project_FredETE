@@ -36,6 +36,11 @@ This project used tool belows.
 ![data flow](/other/dataflow.png)
 The Data flow for this project
 
+(1) Ingest the Data via API
+We call the data from [API](https://fred.stlouisfed.org/docs/api/fred/#API). We first need to get the category id from for all the topic FRED do not have endpoint to get all the category id from the API so to get this data we need to scape it from the [Category](https://fred.stlouisfed.org/categories) using [Python script](flows/Fred_Category_Scape.py). Checking the [Robots.txt](https://fred.stlouisfed.org/robots.txt) Fred do not disallow scapping of this data. After we get the id we then call the [Cagetory Series](https://fred.stlouisfed.org/docs/api/fred/category_series.html) endpoint to get all the series accoiate with the category. After we get the series id we call [Maps API - Series Group Info](https://fred.stlouisfed.org/docs/api/geofred/series_group.html) to get the group id of the series not all series id have group id.I have call the series with group id and save thme in this [CSV](/DBT/seeds/series_group.csv) then we use the series id to cal the [Maps API - Series Data](https://fred.stlouisfed.org/docs/api/geofred/series_data.html) endpoint this will return the data by country for the series id we requestd.
+
+(2) Load data via External table
+
 
 ## Reproducability
 ```
