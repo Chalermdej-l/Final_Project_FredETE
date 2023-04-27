@@ -190,6 +190,8 @@ Run the below command to install Python Make and dotenv
 sudo apt-get update -y
 sudo apt install python3-pip -y
 sudo pip install make
+```
+```
 sudo pip install python-dotenv
 ```
 
