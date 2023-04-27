@@ -60,7 +60,7 @@ The data is called from [API](https://fred.stlouisfed.org/docs/api/fred/#API). W
 ![active](/other/image/active.png)
 
 
-then we use the series id to cal the [Maps API - Series Data](https://fred.stlouisfed.org/docs/api/geofred/series_data.html) endpoint which will return the data by country for the series id we requested.
+then we use the series id to call the [Maps API - Series Data](https://fred.stlouisfed.org/docs/api/geofred/series_data.html) endpoint which will return the data by country for the series id we requested.
 
 ### (2) Load data via an External table
 
