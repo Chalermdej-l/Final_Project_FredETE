@@ -120,6 +120,55 @@ This will create BigQuery, Google Cloud Storage Bucket, VM Instances
 
 Once the code done please go to the [VM Instances](https://console.cloud.google.com/compute/instances) and copy the external IP
 
+![Terraform](/other/image/repeoducesetup3.png)
+
+Please input the External IP into the .env file we will need this to connect to the VM
+
+### Step 2: Connect to VM and install dependency
+
+Open a new terminal and naviage to the clone directory and run
+
+``` make vm-connect ``` 
+
+This script will connect to the VM. There might be a questoin asking to save this host into the known host please select `yes`.
+
+After we are in the VM please clone the repository again
+
+``` git clone https://github.com/Chalermdej-l/Final_Project_FredETE ```
+
+Then navigate to the clone folder ``` cd Final_Project_FredETE ``` 
+
+Run the below commad to install python Make and dotenv
+ ```
+sudo apt-get update -y
+sudo apt install python3-pip -y
+sudo pip install make
+sudo pip install python-dotenv
+  ```
+Then go back to the local terminal and run
+
+  ```make vm-copycred  ```
+  
+This will copy the credential we input in .env and the credential.json we download to the VM
+
+Go back to the VM terminal run below command to setup the credential
+
+```make update-yml-linix```
+
+Then run below command to install Docker and Docker-Comopse
+
+```
+make vm-setup
+make vm-setupdocker
+```
+
+After finish run below commnad to create the docker image and spin up the prefect agent in the background
+```
+make docker-build
+make docker-up 
+```
+
+### Step 3: Deploy code to prefect
 
 
 ## Further Improvements
