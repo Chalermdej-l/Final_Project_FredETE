@@ -1,4 +1,4 @@
-# Step to Register google cloud account and register Service account
+# Step to Create Google cloud account and Service account
 
 
 ## Table of contents
