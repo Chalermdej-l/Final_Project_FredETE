@@ -240,9 +240,10 @@ After the docker is running please run
 
 ```
 make deployment-create
+```
+```
 make deployment-dbtprod
 ```
-
 This will setup the schedule daily script in prefect
 
 ![/other/image/prefectschedule.png](/other/image/prefectschedule.png)
