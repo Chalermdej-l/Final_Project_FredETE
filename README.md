@@ -41,13 +41,14 @@ The data is call from [API](https://fred.stlouisfed.org/docs/api/fred/#API). We 
 
 ## (2) Load data via External table
 The data is store in google cloud storage in stagging folder for series and cateogry data as there could be new category or series id added
+
 ![Storage](/other/image/bucket1.png)
 
 Then move to archive folder after the next day data point is call.
 
 ![Archive](/other/image/bucket2.png)
 
-For Map data we don't move this into archive folder as and store them in Map folder.
+For Map data we store them in Map folder.
 
 We use Google BigQuery to call the data using external table data sources this connection is define in [Terraform](/infra/bq.tf) file.
 I seperate the dataset into 2 dataset for development and production.
