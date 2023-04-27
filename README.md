@@ -214,9 +214,13 @@ This will run DBT seed and setup the data for the script to run
 ### Step 4: Run the script
 
 Please go to [Prefect](https://app.prefect.cloud/auth/login) and run the job in below order to start ingest the data
+
 1.Fred-Category
+
 2.Fred-Series
+
 4.Fred-MapAPI
+
 5.DBT-Daily-prod
 
 After finish running all the job the data will be ingest into [BigQuery](https://console.cloud.google.com/bigquery)
