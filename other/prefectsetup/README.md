@@ -5,6 +5,7 @@
 * [Create an Account and Workspace](#1-create-an-account-and-workspace)
 * [Aceess the Profile Page](#2-aceess-the-profile-page)
 * [Create the API Key](#3-create-the-api-key)
+* [Credential needed](#credential-needed)
 
 ## 1 Create an Account and Workspace
 
