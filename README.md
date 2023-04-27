@@ -108,7 +108,7 @@ You also need below package
 Clone this project
 
 ```
-git clone <https://github.com/Chalermdej-l/Final_Project_FredETE>
+git clone https://github.com/Chalermdej-l/Final_Project_FredETE
 ```
 
 Access the clone directory
@@ -168,7 +168,7 @@ This script will connect to the VM. There might be a question asking to save thi
 After we are in the VM please clone the repository again
 
 ```
-git clone <https://github.com/Chalermdej-l/Final_Project_FredETE>
+git clone https://github.com/Chalermdej-l/Final_Project_FredETE
 ```
 
 Then navigate to the clone folder
