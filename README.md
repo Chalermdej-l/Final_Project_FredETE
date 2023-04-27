@@ -25,14 +25,13 @@ To build a pipeline to ingest the data store them in a datalake and process them
 The Data used in this project is from [FRED Economic Data](https://fred.stlouisfed.org/docs/api/fred). Using the FRED API to call the data using Python with Prefect Orchestration.
 Store them in Google Cloud Storage Bucket and Use DBT to transform data into BigQuery and connect with Looker Studio to find insight from the data.
 
-There are multiple data in FRED Economic data. I want to create a pipeline to ingest these databases on the topic chosen so I can pick up and choose which data to find and look at
-And analyze the data to find any interesting trends. The Data is being updated in different frequencies Monthly, quarterly, Yearly, etc.
-The data can be called from the first time the data started collecting some went back to the 1900.
+There are multiple data in FRED Economic data. I want to create a pipeline to ingest these databases base on the topic choose.
+Analyze the data to find any interesting trends. The Data is being updated in different frequencies Monthly, quarterly, Yearly, etc.
+Some of the data went back to the 1990.
 
-In this project, I am to create the pipeline to ingest the above data and find insight from the data
-
-- The trend of the data by Country
-- Breakdown of the data by Country
+In this project, I aim to create the pipeline to ingest the above data and create report to find the
+- The trend of the data
+- Breakdown of the data
 
 ## Technologies
 
