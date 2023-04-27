@@ -90,23 +90,35 @@ You also need below package
 
 ### Step 1: Create infratructure 
 
-Clone this project ``` git clone https://github.com/Chalermdej-l/Final_Project_FredETE ```
+Clone this project 
+``` 
+git clone https://github.com/Chalermdej-l/Final_Project_FredETE 
+```
 
-Access the clone directory ``` cd Final_Project_FredETE ``` 
+Access the clone directory
+``` 
+cd Final_Project_FredETE 
+``` 
 
 Input the credential create in the `Prerequisite` step into the [.env](/.env) file
 
 Run the following command using Makefile depend on your system
 
-``` make update-yml-window ``` 
+``` 
+make update-yml-window 
+``` 
 
-``` make update-yml-linix ``` 
+``` 
+make update-yml-linix 
+``` 
 
 This code will populate the credential in yaml file using the credential input in [.env](/.env) file
 
 Next let create the infratructure run
 
-``` make infra-setup ``` 
+``` 
+make infra-setup 
+``` 
 
 This command will setup the terraform and ran plan to check for any error
 
@@ -114,7 +126,9 @@ This command will setup the terraform and ran plan to check for any error
 
 To create the resouce please run
 
-``` make infra-create ``` 
+``` 
+make infra-create 
+``` 
 
 This will create BigQuery, Google Cloud Storage Bucket, VM Instances
 
@@ -128,15 +142,23 @@ Please input the External IP into the .env file we will need this to connect to 
 
 Open a new terminal and naviage to the clone directory and run
 
-``` make vm-connect ``` 
+``` 
+make vm-connect 
+``` 
 
 This script will connect to the VM. There might be a questoin asking to save this host into the known host please select `yes`.
 
 After we are in the VM please clone the repository again
 
-``` git clone https://github.com/Chalermdej-l/Final_Project_FredETE ```
+``` 
+git clone https://github.com/Chalermdej-l/Final_Project_FredETE 
+```
 
-Then navigate to the clone folder ``` cd Final_Project_FredETE ``` 
+Then navigate to the clone folder 
+
+``` 
+cd Final_Project_FredETE 
+``` 
 
 Run the below commad to install python Make and dotenv
  ```
@@ -147,13 +169,17 @@ sudo pip install python-dotenv
   ```
 Then go back to the local terminal and run
 
-  ```make vm-copycred  ```
+  ```
+  make vm-copycred  
+  ```
   
 This will copy the credential we input in .env and the credential.json we download to the VM
 
 Go back to the VM terminal run below command to setup the credential
 
-```make update-yml-linix```
+```
+make update-yml-linix
+```
 
 Then run below command to install Docker and Docker-Comopse
 
@@ -169,6 +195,33 @@ make docker-up
 ```
 
 ### Step 3: Deploy code to prefect
+
+After the docker is running please run
+```
+make deployment-create
+make deployment-dbtprod
+```
+This will setup the schedule daily script in prefect
+
+![Terraform](/other/image/prefectschedule.png)
+
+To setup the data to call the script please run
+```
+make make dbt-ingest
+```
+This will run DBT seed and setup the data for the script to run
+
+### Step 4: Run the script
+
+Please go to [Prefect](https://app.prefect.cloud/auth/login) and run the job in below order to start ingest the data
+1.Fred-Category
+2.Fred-Series
+4.Fred-MapAPI
+5.DBT-Daily-prod
+
+After finish running all the job the data will be ingest into [BigQuery](https://console.cloud.google.com/bigquery)
+
+
 
 
 ## Further Improvements
