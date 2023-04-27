@@ -3,6 +3,7 @@
 * [Problem Statement](#problem-statement)
 * [Technologies](#technologies)
 * [Project Data flow](#project-data-flow)
+  - [(1) Ingest the Data via API](#1-ingest-the-data-via-api)
 * [Reproducability](#reproducability)
 * [Further Improvements](#further-improvements)
 ## Problem Statement
@@ -73,14 +74,22 @@ To reproduce this project you would need the below acount
 
 1.[Google Cloud Account](/other/gcpsetup/)
 
-2.[Prefect Cloud]
+2.[Prefect Cloud](/other/prefectsetup/)
 
-3.[Fred Economic]
+3.[Fred Economic](/other/fredsetup/)
 
 You also need below package
 
 1.[Makefile](https://pypi.org/project/make/) ``` pip install  make  ```
 
 2.[Gcloud CLI](https://pypi.org/project/gcloud/) ``` pip install gcloud ```
+
+### Step 1: Create infratructure 
+
+Clone this project ``` git clone https://github.com/Chalermdej-l/Final_Project_FredETE ```
+
+Access the clone directory ``` cd Final_Project_FredETE ``` 
+
+Input the credential create in the `Prerequisite` step into the [.env](/.env)
 
 ## Further Improvements
