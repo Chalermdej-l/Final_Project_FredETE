@@ -371,17 +371,17 @@ Value of Exports to Saudi Arabia,state,746,NSA,43,a,1992-01-01,2017-01-01,0
 2023 February Harmonized Index of Consumer Prices: Dental Services by Nation (Index 2015=100),country,1908,NSA,24,m,1996-01-01,2023-02-01,0
 "2023 February Harmonized Index of Consumer Prices: Electrical Appliances for Personal Care and Other Appliances, Articles, and Products for Personal Care by Nation (Index 2015=100)",country,5133,NSA,24,m,1996-01-01,2023-02-01,0
 2023 February Harmonized Index of Consumer Prices: Maintenance and Repair of Personal Transport Equipment  by Nation (Index 2015=100),country,4881,NSA,24,m,1996-01-01,2023-02-01,0
-2023 February Harmonized Index of Consumer Prices: Major Household Appliances Whether Electric or not and Small Electric Household Appliances  by Nation (Index 2015=100),country,4755,NSA,24,m,1996-01-01,2023-02-01,0
+2023 February Harmonized Index of Consumer Prices: Major Household Appliances Whether Electric or not and Small Electric Household Appliances  by Nation (Index 2015=100),country,4755,NSA,24,m,1996-01-01,2023-02-01,1
 2023 February Harmonized Index of Consumer Prices: Medical Services and Paramedical Services by Nation (Index 2015=100),country,288,NSA,24,m,1996-01-01,2023-02-01,0
 2023 February Harmonized Index of Consumer Prices: Other Purchased Transport Services by Nation (Index 2015=100),country,801,NSA,24,m,1996-01-01,2023-02-01,0
 "2023 February Harmonized Index of Consumer Prices: Overall Index Excluding Education, Health, and Social Protection  by Nation (Index 2015=100)",country,3602,NSA,24,m,1996-01-01,2023-02-01,0
-"2023 February Harmonized Index of Consumer Prices: Overall Index Excluding Housing, Water, Electricity, Gas, and Other Fuels  by Nation (Index 2015=100)",country,3638,NSA,24,m,1996-01-01,2023-02-01,0
-2023 February Harmonized Index of Consumer Prices: Recreational and Sporting Services by Nation (Index 2015=100),country,689,NSA,24,m,1996-01-01,2023-02-01,0
+"2023 February Harmonized Index of Consumer Prices: Overall Index Excluding Housing, Water, Electricity, Gas, and Other Fuels  by Nation (Index 2015=100)",country,3638,NSA,24,m,1996-01-01,2023-02-01,1
+2023 February Harmonized Index of Consumer Prices: Recreational and Sporting Services by Nation (Index 2015=100),country,689,NSA,24,m,1996-01-01,2023-02-01,1
 2023 February Harmonized Index of Consumer Prices: Services for the Maintenance and Repair of the Dwelling by Nation (Index 2015=100),country,489,NSA,24,m,1996-01-01,2023-02-01,0
 "2023 February Harmonized Index of Consumer Prices: Services Related to Recreation and Personal Care, Excluding Package Holidays and Accommodation by Nation (Index 2015=100)",country,1715,NSA,24,m,1996-01-01,2023-02-01,0
 2023 February Harmonized Index of Consumer Prices: Tobacco  by Nation (Index 2015=100),country,3781,NSA,24,m,1996-01-01,2023-02-01,0
 All Employees: Financial Activities,state,171,NSA,51,m,1990-01-01,2023-01-01,0
-All Employees: Mining and Logging,state,127,SA,51,m,1990-01-01,2023-01-01,0
+All Employees: Mining and Logging,state,127,SA,51,m,1990-01-01,2023-01-01,1
 All Employees: Other Services,state,186,SA,51,m,1990-01-01,2023-01-01,0
 Amount Outstanding Due Within One Year of International Debt Securities for General Government Secto,country,100965,NSA,37,q,1993-07-01,2022-10-01,1
 "Announced Issues of International Bonds and Notes for All Issuers, Residence of Issuer",country,1913,NSA,37,q,1966-01-01,2015-04-01,0
@@ -575,7 +575,7 @@ Value of Exports to Taiwan,state,1670,NSA,43,a,1992-01-01,2016-01-01,0
 "2022 Q4 Net Issues of International Debt Securities for Issuers in Non-Financial Corporations (Corporate Issuers), All Maturities, Residence of Issuer by Nation (Millions of US Dollars)",country,584,NSA,12,q,1966-01-01,2022-10-01,0
 2023 February Harmonized Index of Consumer Prices: Actual Rentals for Housing by Nation (Index 2015=100),country,3835,NSA,24,m,1996-01-01,2023-02-01,0
 2023 February Harmonized Index of Consumer Prices: Clothing and Footwear  by Nation (Index 2015=100),country,3787,NSA,24,m,1996-01-01,2023-02-01,0
-2023 February Harmonized Index of Consumer Prices: Education  by Nation (Index 2015=100),country,5083,NSA,24,m,1996-01-01,2023-02-01,0
+2023 February Harmonized Index of Consumer Prices: Education  by Nation (Index 2015=100),country,5083,NSA,24,m,1996-01-01,2023-02-01,1
 2023 February Harmonized Index of Consumer Prices: Energy and Unprocessed Food  by Nation (Index 2015=100),country,5213,NSA,24,m,1996-01-01,2023-02-01,0
 2023 February Harmonized Index of Consumer Prices: Food Including Alcohol and Tobacco  by Nation (Index 2015=100),country,5237,NSA,24,m,1996-01-01,2023-02-01,0
 2023 February Harmonized Index of Consumer Prices: Fully Administered Prices  by Nation (Index 2015=100),country,477,NSA,24,m,2000-12-01,2023-02-01,0
@@ -746,7 +746,7 @@ Value of Exports to Zambia,state,872,NSA,43,a,1992-01-01,2017-01-01,0
 2023 February Harmonized Index of Consumer Prices: All Items  by Nation (Index 2015=100),country,3662,NSA,24,m,1996-01-01,2023-02-01,0
 2023 February Harmonized Index of Consumer Prices: Electricity  by Nation (Index 2015=100),country,3892,NSA,24,m,1996-01-01,2023-02-01,0
 "2023 February Harmonized Index of Consumer Prices: Electricity, Gas, Solid Fuels and Heat Energy  by Nation (Index 2015=100)",country,5219,NSA,24,m,1996-01-01,2023-02-01,0
-"2023 February Harmonized Index of Consumer Prices: Glassware, Tableware, and Household Utensils  by Nation (Index 2015=100)",country,4767,NSA,24,m,1996-01-01,2023-02-01,0
+"2023 February Harmonized Index of Consumer Prices: Glassware, Tableware, and Household Utensils  by Nation (Index 2015=100)",country,4767,NSA,24,m,1996-01-01,2023-02-01,1
 2023 February Harmonized Index of Consumer Prices: Household Textiles  by Nation (Index 2015=100),country,4743,NSA,24,m,1996-01-01,2023-02-01,0
 2023 February Harmonized Index of Consumer Prices: Insurance Connected with Transport  by Nation (Index 2015=100),country,5181,NSA,24,m,1996-01-01,2023-02-01,0
 2023 February Harmonized Index of Consumer Prices: Out-Patient Services by Nation (Index 2015=100),country,1859,NSA,24,m,1996-01-01,2023-02-01,0
