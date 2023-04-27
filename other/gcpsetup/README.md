@@ -41,7 +41,7 @@ Please assign the below roles to the service account
 
 ![](/other/image/gcpsetup5.png)
 
-select ``` Done ```
+select ``` Continue ``` and  ``` Done ```
 
 ## 4 Create Service account keys
 Please select the service account created
