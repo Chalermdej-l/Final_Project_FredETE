@@ -84,12 +84,42 @@ You also need below package
 
 2.[Gcloud CLI](https://pypi.org/project/gcloud/) ``` pip install gcloud ```
 
+3.[Terraform](https://developer.hashicorp.com/terraform/downloads)
+
+4.[DotEnv]([pip install python-dotenv](https://pypi.org/project/python-dotenv/) ``` pip install python-dotenv ```
+
 ### Step 1: Create infratructure 
 
 Clone this project ``` git clone https://github.com/Chalermdej-l/Final_Project_FredETE ```
 
 Access the clone directory ``` cd Final_Project_FredETE ``` 
 
-Input the credential create in the `Prerequisite` step into the [.env](/.env)
+Input the credential create in the `Prerequisite` step into the [.env](/.env) file
+
+Run the following command using Makefile depend on your system
+
+``` make update-yml-window ``` 
+
+``` make update-yml-linix ``` 
+
+This code will populate the credential in yaml file using the credential input in [.env](/.env) file
+
+Next let create the infratructure run
+
+``` make infra-setup ``` 
+
+This command will setup the terraform and ran plan to check for any error
+
+![Terraform](/other/image/repeoducesetup1.png)
+
+To create the resouce please run
+
+``` make infra-create ``` 
+
+This will create BigQuery, Google Cloud Storage Bucket, VM Instances
+
+Once the code done please go to the [VM Instances](https://console.cloud.google.com/compute/instances) and copy the external IP
+
+
 
 ## Further Improvements
