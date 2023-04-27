@@ -55,7 +55,12 @@ The Data flow for this project
 
 ### (1) Ingest the Data via API
 
-The data is called from [API](https://fred.stlouisfed.org/docs/api/fred/#API). We first need to get the category id from for all the topics FRED does not have an endpoint to get all the category id from the API so to get this data we need to escape it from the [Category](https://fred.stlouisfed.org/categories) using [Python script](/flows/DBT_ingest.py). Checking the [Robots.txt](https://fred.stlouisfed.org/robots.txt) Fred does not disallow scraping of this data. After we get the id we then call the [Cagetory Series](https://fred.stlouisfed.org/docs/api/fred/category_series.html) endpoint to get all the series associated with the category. After we get the series id we call [Maps API - Series Group Info](https://fred.stlouisfed.org/docs/api/geofred/series_group.html) to get the group id of the series not all series IDs have group id. I have called the series with the group id and saved them in this [CSV](/DBT/seeds/series_group.csv) then we use the series id to cal the [Maps API - Series Data](https://fred.stlouisfed.org/docs/api/geofred/series_data.html) endpoint which will return the data by country for the series id we requested.
+The data is called from [API](https://fred.stlouisfed.org/docs/api/fred/#API). We first need to get the category id from for all the topics FRED does not have an endpoint to get all the category id from the API so to get this data we need to escape it from the [Category](https://fred.stlouisfed.org/categories) using [Python script](/flows/DBT_ingest.py). Checking the [Robots.txt](https://fred.stlouisfed.org/robots.txt) Fred does not disallow scraping of this data. After we get the id we then call the [Cagetory Series](https://fred.stlouisfed.org/docs/api/fred/category_series.html) endpoint to get all the series associated with the category. After we get the series id we call [Maps API - Series Group Info](https://fred.stlouisfed.org/docs/api/geofred/series_group.html) to get the group id of the series not all series IDs have group id. I have called the series with the group id and saved them in this [CSV](/DBT/seeds/series_group.csv) this file use a column Active to indicate which data should be call daily
+
+![active](/other/image/active.png)
+
+
+then we use the series id to cal the [Maps API - Series Data](https://fred.stlouisfed.org/docs/api/geofred/series_data.html) endpoint which will return the data by country for the series id we requested.
 
 ### (2) Load data via an External table
 
