@@ -189,9 +189,9 @@ Run the below command to install Python Make and dotenv
 ```
 sudo apt-get update -y
 sudo apt install python3-pip -y
+```
+```
 sudo pip install make
-```
-```
 sudo pip install python-dotenv
 ```
 
@@ -229,6 +229,8 @@ After finishing run the below command to create the docker image and spin up the
 
 ```
 make docker-build
+```
+```
 make docker-up
 ```
 
