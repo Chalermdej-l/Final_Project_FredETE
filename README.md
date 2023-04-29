@@ -74,15 +74,13 @@ then we use the series group id to call the [Maps API - Series Data](https://fre
 
 ### (2) Load data via an External table
 
-The data is stored in google cloud storage in stagging folder for series and category data as there could be new categories or series id added
+The data is stored in google cloud storage in stagging folder for the most recent data.
 
 ![/other/image/bucket1.png](/other/image/bucket1.png)
 
-Then move to the archive folder after the next day's data point is called.
+The previos data is move to the archive folder to keep at log and will be delete in 30 day
 
 ![/other/image/bucket2.png](/other/image/bucket2.png)
-
-For Map data, we store them in the Map folder.
 
 We use Google BigQuery to connect to the data using external table data sources this connection is defined in [Terraform](/infra/bq.tf) file.
 The dataset is seperate into 2 datasets for development and production.
