@@ -132,7 +132,7 @@ def main(version='initial'):
             list_df.append(dict_df)
             dict_df= {}
         df_map =  cleandata(list_df,para_seriesgroup)
-        max_val = df_map['date'].max()
+        max_val = df_map['date'].max().strftime('%Y-%m-%d')
         uppload_path =f'stagging/map/{current_date}/MapData_{para_seriesgroup}_{para_mindate}_{max_val}.parquet'
         bucket.blob(uppload_path).upload_from_string(df_map.to_parquet(), 'text/parquet')
         time.sleep(1)

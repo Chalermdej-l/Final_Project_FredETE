@@ -34,13 +34,13 @@ def deploy(params):
     if schedule =='y':
         deployment = Deployment.build_from_flow(
             flow=flow_torun,
-            name=f"DBT-Daily-{target}",
+            name=f"DBT-transform-{target}",
             schedule=(CronSchedule(cron="0 7 5 * *"))
         )
     else:
         deployment = Deployment.build_from_flow(
             flow=flow_torun,
-            name=f"DBT-Daily-{target}"
+            name=f"DBT-transform-{target}"
         )
     deployment.apply()
     return None

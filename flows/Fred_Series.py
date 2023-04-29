@@ -104,7 +104,6 @@ def main():
         result_id,count_data = getseriesid(id[0])
         all_list.extend(result_id)
         id_data[id[0]] = count_data
-        item +=1
 
     df_series = cleanseriesdf(all_list,id_data)
     uppload_path =f'stagging/series/{time_stamp}/SeriesData_{time_stamp}.parquet'

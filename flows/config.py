@@ -102,15 +102,13 @@ class clean_df:
 class query_bq:
     query_getseriesPara = f'''
     SELECT distinct id FROM `{os.getenv("Gcp_Project_id")}.dbt_prod.stg_category`
-where parent_name  in ('Interest Rates','International Data','Money, Banking, & Finance','National Income & Product Accounts','Prices','National Accounts','Current Employment Statistics (Establishment Survey)','	
-Productivity & Costs','U.S. Trade & International Transactions','U.S. Regional Data') 
+where parent_name  in ('Interest Rates','International Data','Money, Banking, & Finance','National Income & Product Accounts','Prices','National Accounts','Current Employment Statistics (Establishment Survey)','	Productivity & Costs','U.S. Trade & International Transactions','U.S. Regional Data') 
 order by id
     '''
 
     query_getseriesPara_dev = f'''
-    SELECT distinct id FROM `{os.getenv("Gcp_Project_id")}.dbt_dev.stg_category`
-where parent_name  in ('Interest Rates','International Data','Money, Banking, & Finance','National Income & Product Accounts','Prices','National Accounts','Current Employment Statistics (Establishment Survey)','	
-Productivity & Costs','U.S. Trade & International Transactions','U.S. Regional Data') 
+    SELECT distinct id FROM `{os.getenv("Gcp_Project_id")}`.dbt_dev.stg_category`
+where parent_name  in ('Interest Rates','International Data','Money, Banking, & Finance','National Income & Product Accounts','Prices','National Accounts','Current Employment Statistics (Establishment Survey)',Productivity & Costs','U.S. Trade & International Transactions','U.S. Regional Data') 
 order by id
     '''
 
