@@ -96,8 +96,6 @@ def main():
     time_stamp = datetime.datetime.now().strftime('%Y-%m-%d')
     query = query_bq.query_getseriesPara
     result_query = GetBQdata(query)
-    indexfile =1
-    item = 0
     all_list = []
     id_data = {}
     print('Moving file to archive folder')
@@ -108,20 +106,9 @@ def main():
         id_data[id[0]] = count_data
         item +=1
 
-        # If call for 50 id clean the data and upload to cloud and relase the varible from memory
-        if item % 50 == 0:
-            print(f'Currnet item {item} uploading to cloud')
-            df_series = cleanseriesdf(all_list,id_data)
-            uppload_path =f'staging/series/{time_stamp}/SeriesData_{indexfile}_{time_stamp}.parquet'
-            print(f'Uploading file to cloud for {time_stamp} category data.')
-            bucket.blob(uppload_path).upload_from_string(df_series.to_parquet(), 'text/parquet')
-            indexfile += 1
-            all_list =[]
-            id_data = {}
-    print(f'Currnet item {item} uploading to cloud')
     df_series = cleanseriesdf(all_list,id_data)
-    uppload_path =f'stagging/series/{time_stamp}/SeriesData_{indexfile}_{time_stamp}.parquet'
-    print(f'Uploading file to cloud for {time_stamp} category data.')
+    uppload_path =f'stagging/series/{time_stamp}/SeriesData_{time_stamp}.parquet'
+    print(f'Uploading file to cloud for {time_stamp} series data.')
 
     # Upload to bucket
     bucket.blob(uppload_path).upload_from_string(df_series.to_parquet(), 'text/parquet')

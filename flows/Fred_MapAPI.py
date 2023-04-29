@@ -26,6 +26,21 @@ def GetBQdata(query):
     return df_bq
 
 
+@task(name='Move_archive_Map',log_prints=True)
+def movearchive(bucket,typecheck):
+    file_acrhive=  list(bucket.list_blobs())
+    for file in file_acrhive:
+        name = file.name
+        pos = name.find('/')
+        type = name[:pos]
+        if type == 'staging':
+            sub_pos = name.find('/',pos+1)
+            sub_type = name[pos+1:sub_pos]
+            if sub_type == typecheck:
+                bucket.copy_blob(file,destination_bucket=bucket,new_name=name.replace('staging','archive'))
+                bucket.delete_blob(name)    
+
+
 @task(name='Get_API_Map',log_prints=True)
 def getApiMap(para_regiontype,para_seriesgroup,para_season,para_unit,para_frequency,para_mindate,para_maxdate):
 
@@ -75,20 +90,19 @@ def main(version='initial'):
     series_parameter = GetBQdata(query_bq.query_getMapPara)
     client = storage.Client()
     bucket = client.get_bucket(os.getenv("Gcs_Bucket_name"))
-
     current_date = datetime.datetime.now().strftime('%Y-%m-%d')
+
+    print('Moving file to archive folder')
+    movearchive(bucket,'map')
+
     for api_para in series_parameter.values.tolist():
         para_regiontype  = api_para[0][0]
         para_seriesgroup = api_para[1][0]
         para_season      = api_para[2][0]
         para_unit        = api_para[3][0]
         para_frequency   = api_para[4][0]
-        if version=='daily':
-            para_mindate     = current_date
-            para_maxdate     = current_date
-        else:
-            para_mindate     = api_para[5]
-            para_maxdate     = current_date
+        para_mindate     = api_para[5]
+        para_maxdate     = current_date
 
         retry = 0
         while retry <3:
@@ -118,7 +132,8 @@ def main(version='initial'):
             list_df.append(dict_df)
             dict_df= {}
         df_map =  cleandata(list_df,para_seriesgroup)
-        uppload_path =f'map/{para_seriesgroup}/MapData_{para_seriesgroup}.parquet'
+        max_val = df_map['date'].max()
+        uppload_path =f'stagging/map/{current_date}/MapData_{para_seriesgroup}_{para_mindate}_{max_val}.parquet'
         bucket.blob(uppload_path).upload_from_string(df_map.to_parquet(), 'text/parquet')
         time.sleep(1)
             
