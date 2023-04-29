@@ -207,10 +207,17 @@ Run the below command to install Python Make and dotenv
 
 ```
 sudo apt-get update -y
+```
+
+```
 sudo apt install python3-pip -y
 ```
+
 ```
 sudo pip install make
+```
+
+```
 sudo pip install python-dotenv
 ```
 
@@ -222,11 +229,14 @@ make vm-copycred
 
 This will copy the credential we input in .env and the credential.json we download to the VM
 
-Go back to the VM terminal and run the below command to setup the credential
+Go back to the `VM terminal` and run the below command to setup the credential
 
 ```
 make update-yml-linix
 ```
+
+`!!Please note if you ran this command before copy the credential over please re-clone the project again in the VM and start at previous step`
+
 
 Then run the below command to install Docker and Docker-Compose
 
@@ -244,36 +254,49 @@ docker-compose --version
 ```
 
 
-After finishing run the below command to create the docker image and spin up the prefect agent in the background
-
+After finishing run the below command to create the docker image
 ```
 make docker-build
 ```
+
+Then run this command to spin up the docker image which will host our prefect agent in the background
+
 ```
 make docker-up
 ```
 
 ### Step 3: Deploy code to prefect
 
-After the docker is running please run
+After the docker is running please run this commnad will deploy our python script to prefect with the schedule to run monthly
 
 ```
 make deployment-create
 ```
+
+This command will deploy the sciprt to run DBT to tranform our database with a schedule to run monthly
+
+
 ```
 make deployment-dbtprod
 ```
-This will setup the schedule daily script in prefect
+
 
 ![/other/image/prefectschedule.png](/other/image/prefectschedule.png)
 
-To set up the data to call the script please run
+Then please run the below command to set up the data to call the script
 
 ```
 make dbt-ingest
 ```
 
-This will run the DBT seed and set up the data for the script to run
+If you run this command and receive this eror `[Errno 2] No such file or directory: '/cred/credential.json'` then run the below command
+```
+nano profiles.yml
+ ```
+ 
+ And please change the keyfile to 'cred/credential.json' and re run the above command
+ 
+ This will run the DBT seed and set up the data for the script to run
 
 ### Step 4: Run the script
 
