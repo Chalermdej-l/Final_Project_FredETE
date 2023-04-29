@@ -296,7 +296,7 @@ nano profiles.yml
  
  And please change the keyfile to 'cred/credential.json' and re run the above command
  
- ![error](/other/image/profileerror.png
+ ![error](/other/image/profileerror.png)
  
  This will run the DBT seed and set up the data for the script to run
 
