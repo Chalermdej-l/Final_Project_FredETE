@@ -153,7 +153,7 @@ make update-yml-linix
 
 This code will populate the credential in the YAML file using the credential input in the [.env](/.env) file
 
-`!!Please note if you ran this command before input the credential please reclone the directory again as the YAML file will be populate with incorrect data`
+`!!Please note if you ran this command before input the credential please re-clone the project again as the YAML file will be populate with incorrect data`
 
 
 Next, let's setup the infrastructure
@@ -172,13 +172,13 @@ To create the resource please run
 make infra-create
 ```
 
-This will create BigQuery, Google Cloud Storage Bucket, VM Instances
+This will create [BigQuery](https://console.cloud.google.com/bigquery), [Google Cloud Storage](https://console.cloud.google.com/storage/browser), [VM] Instances(https://console.cloud.google.com/compute/instances)
 
 Once the code is done please go to the [VM Instances](https://console.cloud.google.com/compute/instances) and copy the external IP
 
 ![/other/image/repeoducesetup3.png](/other/image/repeoducesetup3.png)
 
-Please input the External IP into the .env file we will need this to connect to the VM
+Please input the External IP into the [.env](/.env) file we will need this to connect to the VM
 
 ### Step 2: Connect to the VM and install the dependency
 
