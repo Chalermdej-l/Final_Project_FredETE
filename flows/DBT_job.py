@@ -35,7 +35,7 @@ def deploy(params):
         deployment = Deployment.build_from_flow(
             flow=flow_torun,
             name=f"DBT-Daily-{target}",
-            schedule=(CronSchedule(cron="0 7 * * *"))
+            schedule=(CronSchedule(cron="0 7 5 * *"))
         )
     else:
         deployment = Deployment.build_from_flow(

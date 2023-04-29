@@ -146,7 +146,7 @@ def deploy():
     deployment = Deployment.build_from_flow(
         flow=main,
         name="Fred-MapAPI",
-        schedule=(CronSchedule(cron="0 6 * * *"))
+        schedule=(CronSchedule(cron="0 6 5 * *"))
     )
     deployment.apply()
 

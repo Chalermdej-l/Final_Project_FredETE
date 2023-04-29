@@ -95,7 +95,7 @@ def deploy():
     deployment = Deployment.build_from_flow(
         flow=main,
         name="Fred-Category",
-        schedule=(CronSchedule(cron="0 5 * * *"))
+        schedule=(CronSchedule(cron="0 5 5 * *"))
     )
     deployment.apply()
 
