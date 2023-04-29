@@ -52,7 +52,7 @@ Go to Keys > Add key > Create new key > Json
 
 ![/other/image/gcpsetup7.png](/other/image/gcpsetup7.png)
 
-Once create there will be a key download in JSON format please change the file name to `credential.json`
+Once create there will be a key download in JSON format please change the file name to `credential.json` and move this file into the clone directory `cred` folder
 
 ## 5 Enable Comput Engine API
 
