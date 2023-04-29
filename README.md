@@ -296,6 +296,8 @@ nano profiles.yml
  
  And please change the keyfile to 'cred/credential.json' and re run the above command
  
+ ![/other/image/dataflow.PNG](/other/image/dataflow.PNG)
+ 
  This will run the DBT seed and set up the data for the script to run
 
 ### Step 4: Run the script
