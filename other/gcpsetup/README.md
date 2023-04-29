@@ -52,13 +52,15 @@ Go to Keys > Add key > Create new key > Json
 
 ![/other/image/gcpsetup7.png](/other/image/gcpsetup7.png)
 
-Once create there will be a key download in JSON format please change the file name to `credential.json` and move this file into the clone directory `cred` folder
+Once create there will be a key download in JSON format please change the file name to `credential.json` and move this file into the clone directory [cred](/cred) folder
 
 ## 5 Enable Comput Engine API
 
 Please enable the [Compute Engine API](https://console.cloud.google.com/apis/library/compute.googleapis.com)
 
 ## Credential needed
+
+Please input the credential created here into the clone directory [.env](/.env) file
 
 1. Gcp_Project_id in step 1
 2. Account_id in step 2
