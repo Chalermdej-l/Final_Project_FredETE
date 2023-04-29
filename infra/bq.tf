@@ -20,7 +20,7 @@ resource "google_bigquery_table" "tablemap-dev" {
   deletion_protection = false
   external_data_configuration {
     autodetect    = false
-    source_uris   = ["gs://${google_storage_bucket.bucketfred.name}/map/*"]
+    source_uris   = ["gs://${google_storage_bucket.bucketfred.name}/stagging/map/*"]         
     source_format = "PARQUET"   
   }
   schema = <<EOF
@@ -197,7 +197,7 @@ resource "google_bigquery_table" "tablemap" {
   deletion_protection = false
   external_data_configuration {
     autodetect    = false
-    source_uris   = ["gs://${google_storage_bucket.bucketfred.name}/map/*"]
+    source_uris   = ["gs://${google_storage_bucket.bucketfred.name}/stagging/map/*"]         
     source_format = "PARQUET"   
   }
   schema = <<EOF
