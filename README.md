@@ -189,6 +189,8 @@ make vm-connect
 
 This script will connect to the VM. There might be a question asking to save this host into the known host please select `yes`.
 
+![connect](/other/image/vm-connnect.png)
+
 After we are in the VM please clone the repository again
 
 ```
@@ -294,7 +296,7 @@ nano profiles.yml
  
  And please change the keyfile to 'cred/credential.json' and re run the above command
  
- ![/other/image/dataflow.PNG](/other/image/dataflow.PNG)
+ ![error](/other/image/profileerror.png
  
  This will run the DBT seed and set up the data for the script to run
 
