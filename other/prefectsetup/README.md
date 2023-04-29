@@ -50,8 +50,9 @@ and the workspace id after the workspace/ URL
 ## Credential needed
 Please input the credential created here into the clone directory [.env](/.env) file
 
-1. Workspace Name in Step 1
-2. Handle Name in Step 2
-3. API Key create in Step 3
-4. Account id in Step 4
-5. Workspace id in Step 5
+1. Preefct_handle in Step 2
+2. Preefct_name Name in Step 1
+3. Prefect_API_KEY create in Step 3
+4. Prefect_Workspaceid in Step 5
+5. Prefect_Accountid in Step 4
+
