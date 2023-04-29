@@ -27,5 +27,5 @@ Then input a basic description and hit request API Key
 ## Credential needed
 Please input the credential created here into the clone directory [.env](/.env) file
 
-1. FRED API Key in Step 2
+1. FRED_API Key in Step 2
 
