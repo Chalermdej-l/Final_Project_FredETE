@@ -48,6 +48,7 @@ and the workspace id after the workspace/ URL
 ![/other/image/prefectsetup7.png](/other/image/prefectsetup7.png)
 
 ## Credential needed
+Please input the credential created here into the clone directory [.env](/.env) file
 
 1. Workspace Name in Step 1
 2. Handle Name in Step 2
