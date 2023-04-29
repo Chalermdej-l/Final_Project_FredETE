@@ -136,7 +136,7 @@ Input the credential create in the `Prerequisite` step into the [.env](/.env) fi
 
 ![env](/other/image/envcred.png)
 
-Input the credential.json create in Google Cloud Account into the folder cred
+Input the `credential.json` create in Google Cloud Account into the folder cred
 
 ![credential](/other/image/gcpsetup8.png)
 
@@ -153,7 +153,10 @@ make update-yml-linix
 
 This code will populate the credential in the YAML file using the credential input in the [.env](/.env) file
 
-Next, let's create the infrastructure to run
+`!!Please note if you ran this command before input the credential please reclone the directory again as the YAML file will be populate with incorrect data`
+
+
+Next, let's setup the infrastructure
 
 ```
 make infra-setup
