@@ -63,7 +63,7 @@ Checking the [Robots.txt](https://fred.stlouisfed.org/robots.txt) Fred does not 
 
 After we ran the script and get the category id we then can use the id to call [Cagetory Series](https://fred.stlouisfed.org/docs/api/fred/category_series.html) endpoint to get all the series associated with the category.
 
-After we get the series id we can call [Maps API - Series Group Info](https://fred.stlouisfed.org/docs/api/geofred/series_group.html) to get the group id of the series not all series IDs have group id however. So to reduce the time I have extract the series with the group id and saved them in this [CSV](/DBT/seeds/series_group.csv).
+After we get the series id we can call [Maps API - Series Group Info](https://fred.stlouisfed.org/docs/api/geofred/series_group.html) to get the group id of the series not all series id have group id so to reduce the complexity down. I have extract the series with the group id and saved them in this [CSV](/DBT/seeds/series_group.csv).
 
 This file use a column Active to indicate which data should be call daily by the script.
 
