@@ -55,11 +55,17 @@ The Data flow for this project
 
 ### (1) Ingest the Data via API
 
-The data is called from [FRED API](https://fred.stlouisfed.org/docs/api/fred/#API). 
-We first need to get the category id from for all the topics. But FRED does not have an endpoint to get all the category id so to get this data we need to scape it from the [Category](https://fred.stlouisfed.org/categories) by ussing this [Python script](/flows/DBT_ingest.py). 
-Checking the [Robots.txt](https://fred.stlouisfed.org/robots.txt) Fred does not disallow scraping of this data. 
-After we ran the script and get the category id we then can use the id to call [Cagetory Series](https://fred.stlouisfed.org/docs/api/fred/category_series.html) endpoint to get all the series associated with the category. 
-After we get the series id we can call [Maps API - Series Group Info](https://fred.stlouisfed.org/docs/api/geofred/series_group.html) to get the group id of the series not all series IDs have group id however. So to reduce the time I have extract the series with the group id and saved them in this [CSV](/DBT/seeds/series_group.csv). This file use a column Active to indicate which data should be call daily by the script.
+The data is called from [FRED API](https://fred.stlouisfed.org/docs/api/fred/#API).
+
+We first need to get the category id from for all the topics. But FRED does not have an endpoint to get all the category id so to get this data we need to scape it from the [Category](https://fred.stlouisfed.org/categories) by ussing this [Python script](/flows/DBT_ingest.py).
+
+Checking the [Robots.txt](https://fred.stlouisfed.org/robots.txt) Fred does not disallow scraping of this data.
+
+After we ran the script and get the category id we then can use the id to call [Cagetory Series](https://fred.stlouisfed.org/docs/api/fred/category_series.html) endpoint to get all the series associated with the category.
+
+After we get the series id we can call [Maps API - Series Group Info](https://fred.stlouisfed.org/docs/api/geofred/series_group.html) to get the group id of the series not all series IDs have group id however. So to reduce the time I have extract the series with the group id and saved them in this [CSV](/DBT/seeds/series_group.csv).
+
+This file use a column Active to indicate which data should be call daily by the script.
 
 ![active](/other/image/active.png)
 
