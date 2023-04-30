@@ -99,7 +99,9 @@ Use Looker Studio to connect to the BigQuery data warehouse and create reports t
 
 [Link to the Dashboard](https://lookerstudio.google.com/reporting/88eb65d7-c3ec-44b1-898a-55ded00812a0)
 
-If the above link no longer work please see this [video](https://www.youtube.com/watch?v=zlVFyw2MGy0) showcase the dashboard instead.
+Due to the trail account the above link may no longer work.
+
+If you can't access the link please use this [video](https://www.youtube.com/watch?v=zlVFyw2MGy0) to see the dashboard created instead.
 
 ### (5)(6) Schedule daily data ingest and transformation
 
