@@ -185,7 +185,7 @@ Please input the External IP into the [.env](/.env) file we will need this to co
 
 ### Step 2: Connect to the VM and install the dependency
 
-Open a new terminal and navigate to the clone directory we will use this terminal to connect to our created VM.
+Open a `new terminal` and navigate to the clone directory we will use this terminal to connect to our created VM.
 And run the below command
 
 ```
