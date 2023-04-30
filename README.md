@@ -78,7 +78,7 @@ The data is stored in google cloud storage in stagging folder for the most recen
 
 ![/other/image/bucket1.png](/other/image/bucket1.png)
 
-The previos data is move to the archive folder to keep at log and will be delete in 30 day
+When the new data is call the previos data is move to the archive folder to keep at log and will be delete in 30 day
 
 ![/other/image/bucket2.png](/other/image/bucket2.png)
 
