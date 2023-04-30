@@ -106,7 +106,7 @@ Used prefect as an orchestrator tool to schedule the daily call of our script an
 
 ## Reproducibility
 
-Prerequisite:
+`Prerequisite`:
 To reproduce this project you would need the below account
 
 1. [Google Cloud Account And Service Account](/other/gcpsetup)
