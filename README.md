@@ -278,8 +278,7 @@ After the docker is running please run this commnad will deploy our python scrip
 make deployment-create
 ```
 
-This command will deploy the sciprt to run DBT to tranform our database with a schedule to run monthly
-As the data only updated by month.
+This command will deploy the sciprt to run DBT to tranform our database with a schedule to run monthly. As the data only updated by month.
 
 ```
 make deployment-dbtprod
@@ -294,12 +293,12 @@ Then please run the below command to set up the data to call the script
 make dbt-ingest
 ```
 
-If you run this command and receive this eror `[Errno 2] No such file or directory: '/cred/credential.json'` then run the below command
+If you run this command and receive this eror `[Errno 2] No such file or directory: '../cred/credential.json'` then run the below command
 ```
 nano profiles.yml
  ```
  
- And please change the keyfile to 'cred/credential.json' and re run the above command
+ And please change the keyfile to `cred/credential.json` and re run the above command
  
  ![error](/other/image/profileerror.png)
  
