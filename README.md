@@ -96,6 +96,8 @@ Use Looker Studio to connect to the BigQuery data warehouse and create reports t
 
 [Link to the Dashboard](https://lookerstudio.google.com/reporting/88eb65d7-c3ec-44b1-898a-55ded00812a0)
 
+If the above link no longer work please see this [video](https://youtu.be/m_ZCquuSg60) showcase the dashboard I created.
+
 ### (5)(6) Schedule daily data ingest and transformation
 
 Used prefect as an orchestrator tool to schedule the daily call of our script and data transformation using the deployment functionality.
