@@ -176,7 +176,7 @@ make infra-create
 
 This will create [BigQuery](https://console.cloud.google.com/bigquery), [Google Cloud Storage](https://console.cloud.google.com/storage/browser), [VM Instances](https://console.cloud.google.com/compute/instances)
 
-Once the code is done please go to the [VM Instances](https://console.cloud.google.com/compute/instances) and copy the external IP
+Once the code is done please go to the [VM Instances](https://console.cloud.google.com/compute/instances) and copy the `external IP`
 
 ![/other/image/repeoducesetup3.png](/other/image/repeoducesetup3.png)
 
