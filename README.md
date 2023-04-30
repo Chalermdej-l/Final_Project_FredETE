@@ -321,7 +321,7 @@ After finish running all the jobs the data will be ingested into [BigQuery](http
 After finish with the project if you want to remove the project you can run the below command in `local terminal`
 
 ```
-infra-down
+make infra-down
  ```
 
 This command will run terraform destory to all resource we created in this project.
