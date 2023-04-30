@@ -15,6 +15,7 @@
   - [Step 2: Connect to VM and install dependency](#step-2-connect-to-the-vm-and-install-the-dependency)
   - [Step 3: Deploy code to prefect](#step-3-deploy-code-to-prefect)
   - [Step 4: Run the script](#step-4-run-the-script)
+  - [Step 5: Clean up](#step-5-clean-up)
 * [Further Improvements](#further-improvements)
 
 ## Problem Statement
@@ -318,13 +319,15 @@ Please go to [Prefect](https://app.prefect.cloud/auth/login) and run the job in 
 
 After finish running all the jobs the data will be ingested into [BigQuery](https://console.cloud.google.com/bigquery)
 
-After finish with the project if you want to remove the project you can run the below command in local terminal`
+### Step 5: Clean up
+
+After finish with the project if you want to remove the project you can run the below command in `local terminal`
 
 ```
 infra-down
  ```
 
-This command will run terraform destory to all record we created in this project.
+This command will run terraform destory to all resource we created in this project.
 
 ## Further Improvements
 
