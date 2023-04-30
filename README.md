@@ -57,7 +57,7 @@ The Data flow for this project
 
 The data is called from [FRED API](https://fred.stlouisfed.org/docs/api/fred/#API).
 
-We first need to get the category id from for all the topics. But FRED does not have an endpoint to get all the category id so to get this data we need to scape it from the [Category](https://fred.stlouisfed.org/categories) by ussing this [Python script](/flows/DBT_ingest.py).
+We first need to get the category id from for all the topics. But FRED does not have an endpoint to get all the category id so to get this data we need to scape it from the [Category](https://fred.stlouisfed.org/categories) by ussing this [Python script](/flows/Fred_Category_Scape.py).
 
 Checking the [Robots.txt](https://fred.stlouisfed.org/robots.txt) Fred does not disallow scraping of this data.
 
