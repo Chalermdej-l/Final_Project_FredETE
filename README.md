@@ -219,12 +219,9 @@ sudo apt install python3-pip -y
 ```
 
 ```
-sudo pip install make
+sudo pip install make python-dotenv
 ```
 
-```
-sudo pip install python-dotenv
-```
 
 Then go back to the `local terminal` and run
 
