@@ -257,6 +257,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 docker-compose --version
 ```
 
+If docker-compose installed correctly then there will print the current version. 
 
 After finishing run the below command to create the docker image
 ```
@@ -278,7 +279,7 @@ make deployment-create
 ```
 
 This command will deploy the sciprt to run DBT to tranform our database with a schedule to run monthly
-
+As the data only updated by month.
 
 ```
 make deployment-dbtprod
