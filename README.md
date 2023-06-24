@@ -68,7 +68,7 @@ After we get the series id we can call [Maps API - Series Group Info](https://fr
 
 This file use a column Active to indicate which data should be call daily by the script. And have data for the frequency of the data collect along with the date data start collect and the current data date.
 
-![active](/other/image/active.png)
+![active](/other/image/active.png) 
 
 
 then we use the series group id to call the [Maps API - Series Data](https://fred.stlouisfed.org/docs/api/geofred/series_data.html) endpoint which will return the data by country for the id we requested.
