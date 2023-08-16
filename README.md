@@ -10,7 +10,7 @@
   - [(3) Data tranformation](#3-data-tranformation)
   - [(4) Visualize data to find insight](#4-visualize-data-to-find-insight)
   - [(5)(6) Schedule daily data ingest and tranformation](#56-schedule-daily-data-ingest-and-transformation)
-* [Reproducability](#reproducability)
+* [Reproducibility](#reproducability)
   - [Step 1: Create infratructure](#step-1-create-infrastructure)
   - [Step 2: Connect to VM and install dependency](#step-2-connect-to-the-vm-and-install-the-dependency)
   - [Step 3: Deploy code to prefect](#step-3-deploy-code-to-prefect)
